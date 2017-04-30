@@ -106,7 +106,7 @@ Move or copy:\t\t$move"
 	d "git add '$lpath'"
 
 	# Commit new files
-	d "git commit -am 'New config added: $configName'"
+	d "git commit -m 'New config added: $configName'"
 
 	# Sync changes
 	gitSync
