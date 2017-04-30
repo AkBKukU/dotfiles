@@ -1,0 +1,154 @@
+#!/bin/bash
+source parseArgs.sh
+
+addParameter "a" "add" "argAdd" "7" "1" "Add a new directory or file to be linked to the dotfiles folder."
+addParameter "i" "import" "argImport" "7" "2" "Import an exsiting directory or file and link it to the dotfiles folder."
+addParameter "u" "use" "argUse" "3" "1" "Use a directory or file already in the dotfiles folder."
+addParameter "v" "verbose" "verbose" "0" "0" "Set verbose output"
+addParameter "D" "debug" "debug" "0" "0" "Start as debug. Makes no file system changes."
+addParameter "n" "name" "configName" "0" "1" "The name of the configuration"
+
+configRoot="$(pwd)/root/"
+configInfo="$(pwd)/info/"
+
+function vout()
+{
+	# Is verbose mode enabled?
+	if [[ "$verbose" == "1" ]]
+	then
+		# It is print message
+		echo -e "$1"
+	fi
+}
+
+function d()
+{
+	# Is debug mode enabled?
+	if [[ "$debug" == "0" ]]
+	then
+		# Run command
+		eval "$1"
+	else
+		echo "Debug skip: $1"
+	fi
+}
+
+function argAdd() 
+{
+	# Call new item function
+	newItem "$1" "$1"
+}
+	
+function argImport() 
+{
+	# Call new item function
+	newItem "$1" "$2"
+}
+
+function newItem()
+{
+	# Check for a name to use
+	if [[ "$configName" == "0" ]]
+	then
+		echo "Please use \"-n\" to set a name for the new configuration"
+		exit 1
+	fi
+
+	# Get item's current location
+	cpath=$1
+
+	# Get item's use location
+	upath=$2
+
+	# Get item's link location
+	lpath="$configRoot${upath:1}"
+	
+	move=1
+	if [[ "$cpath" != "$upath" ]]
+	then
+		move=0
+	fi
+
+	# vout collected info
+	vout "Setting up $configName:
+Use file(s) from:\t$cpath
+Location of use:\t$upath
+New location:\t\t$lpath
+Move or copy:\t\t$move"
+
+	# Verify paths
+	testPaths
+	
+	# Create link destination directory
+	d "mkdir -p $(dirname $lpath)"
+	
+	if [[ "$move" == "1" ]]
+	then
+		moveSetup
+	else
+		copySetup
+	fi
+
+	# Link to use location
+	d "ln -s $lpath $upath"
+
+	# Create record in config file
+	d "mkdir -p $configInfo"
+	d "touch '$configInfo$configName.lst'"
+	if ! grep '$lpath:$upath' "$configInfo$configName.lst"
+	then
+		d "echo '$lpath:$upath' >> '$configInfo$configName.lst'"
+	fi
+}
+
+function copySetup()
+{
+	# Copy the file/dir to the link root
+	d "cp -r $cpath $lpath"
+}
+
+function moveSetup()
+{
+	# Copy the file/dir to the link root
+	d "mv $cpath $lpath"
+
+}
+
+function testPaths()
+{
+	allGood=1
+	# Test current path exists
+	if ! [[ -e "$cpath" ]] 
+	then
+		allGood=0
+		echo "Cannot find existing file/dir : $cpath"
+	fi
+
+	# Test current path is not a link
+	if [[ -L "$upath" ]] 
+	then
+		allGood=0
+		echo "Link already exists : $cpath"
+	fi
+
+	# Test new path is clear
+	if [[ -e "$lpath" ]] 
+	then
+		allGood=0
+		echo "A file/dir already exists at: $lpath"
+	fi
+	
+	# Error out on problem
+	if [[ "$allGood" == "0" ]]
+	then
+		exit 1
+	fi
+}
+
+function argHello ()
+{
+	echo "hello $1 $2"
+}
+
+argParse "$@"
+
