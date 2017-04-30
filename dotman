@@ -7,6 +7,7 @@ addParameter "u" "use" "argUse" "3" "1" "Use a directory or file already in the 
 addParameter "v" "verbose" "verbose" "0" "0" "Set verbose output"
 addParameter "D" "debug" "debug" "0" "0" "Start as debug. Makes no file system changes."
 addParameter "n" "name" "configName" "0" "1" "The name of the configuration"
+addParameter "s" "sync" "gitSync" "1" "0" "Check for local file changes and sync them to the git repository"
 
 configRoot="$(pwd)/root/"
 configInfo="$(pwd)/info/"
@@ -158,6 +159,22 @@ function testPaths()
 function gitSync()
 {
 	d "git pull origin master"
+
+	# Get folder listings for all configs and check them
+	for file in $configInfo*
+	do
+		readarray -t cfglines < $file
+		for dir in "${cfglines[@]}"
+		do
+			d "git add $configRoot${dir:1}"
+		done
+		
+		name="$(basename $file)"
+		name="$(echo $name | sed 's/.lst//g')"
+		d "git commit -m 'Adding changes to configuration for: $name'"
+	done
+
+
 	d "git push origin master"
 }
 
