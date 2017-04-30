@@ -62,7 +62,8 @@ function newItem()
 
 	# Get item's link location
 	lpath="$configRoot${upath:1}"
-	
+
+	# Test if the file/dir will need to be moved or can be copied
 	move=1
 	if [[ "$cpath" != "$upath" ]]
 	then
@@ -99,6 +100,16 @@ Move or copy:\t\t$move"
 	then
 		d "echo '$lpath:$upath' >> '$configInfo$configName.lst'"
 	fi
+	
+	# Add new files to git
+	d "git add '$configInfo$configName.lst'"
+	d "git add '$lpath'"
+
+	# Commit new files
+	d "git commit -am 'New config added: $configName'"
+
+	# Sync changes
+	gitSync
 }
 
 function copySetup()
@@ -111,7 +122,6 @@ function moveSetup()
 {
 	# Copy the file/dir to the link root
 	d "mv $cpath $lpath"
-
 }
 
 function testPaths()
@@ -145,9 +155,10 @@ function testPaths()
 	fi
 }
 
-function argHello ()
+function gitSync()
 {
-	echo "hello $1 $2"
+	d "git pull origin master"
+	d "git push origin master"
 }
 
 argParse "$@"
