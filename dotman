@@ -96,9 +96,9 @@ Move or copy:\t\t$move"
 	# Create record in config file
 	d "mkdir -p $configInfo"
 	d "touch '$configInfo$configName.lst'"
-	if ! grep '$lpath:$upath' "$configInfo$configName.lst"
+	if ! grep '$upath' "$configInfo$configName.lst"
 	then
-		d "echo '$lpath:$upath' >> '$configInfo$configName.lst'"
+		d "echo '$upath' >> '$configInfo$configName.lst'"
 	fi
 	
 	# Add new files to git

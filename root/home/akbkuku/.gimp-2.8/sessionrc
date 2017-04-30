@@ -74,6 +74,9 @@
 (session-info "toplevel"
     (factory-entry "gimp-image-new-dialog")
     (position 1920 0))
+(session-info "toplevel"
+    (factory-entry "gimp-preferences-dialog")
+    (position 2035 204))
 
 (hide-docks no)
 (single-window-mode yes)
