@@ -5,6 +5,7 @@ addParameter "a" "add" "argAdd" "7" "1" "Add a new directory or file to be linke
 addParameter "i" "import" "argImport" "7" "2" "Import an exsiting directory or file and link it to the dotfiles folder."
 addParameter "u" "use" "argUse" "3" "1" "Use a directory or file already in the dotfiles folder."
 addParameter "v" "verbose" "verbose" "0" "0" "Set verbose output"
+addParameter "f" "force" "force" "0" "0" "Force linking with existing files"
 addParameter "D" "debug" "debug" "0" "0" "Start as debug. Makes no file system changes."
 addParameter "n" "name" "configName" "0" "1" "The name of the configuration"
 addParameter "s" "sync" "gitSync" "2" "0" "Check for local file changes and sync them to the git repository"
@@ -12,6 +13,7 @@ addParameter "s" "sync" "gitSync" "2" "0" "Check for local file changes and sync
 configRoot="$(pwd)/root/"
 configInfo="$(pwd)/info/"
 
+use=0
 function vout()
 {
 	# Is verbose mode enabled?
@@ -77,22 +79,9 @@ Use file(s) from:\t$cpath
 Location of use:\t$upath
 New location:\t\t$lpath
 Move or copy:\t\t$move"
-
-	# Verify paths
-	testPaths
 	
-	# Create link destination directory
-	d "mkdir -p $(dirname $lpath)"
-	
-	if [[ "$move" == "1" ]]
-	then
-		moveSetup
-	else
-		copySetup
-	fi
-
-	# Link to use location
-	d "ln -s $lpath $upath"
+	# Make the link
+	createLink
 
 	# Create record in config file
 	d "mkdir -p $configInfo"
@@ -111,6 +100,31 @@ Move or copy:\t\t$move"
 
 	# Sync changes
 	gitSync
+}
+
+function createLink()
+{
+	# Verify paths
+	if [[ "$(testPaths)" == "0" && "$force" != "1" ]]
+	then 
+		exit 1
+	fi
+	
+	# Create link destination directory
+	d "mkdir -p $(dirname $lpath)"
+	
+	if [[ "$use" == 0 ]]
+	then
+		if [[ "$move" == "1" ]]
+		then
+			moveSetup
+		else
+			copySetup
+		fi
+	fi
+
+	# Link to use location
+	d "ln -s $lpath $upath"
 }
 
 function copySetup()
@@ -149,11 +163,7 @@ function testPaths()
 		echo "A file/dir already exists at: $lpath"
 	fi
 	
-	# Error out on problem
-	if [[ "$allGood" == "0" ]]
-	then
-		exit 1
-	fi
+	return $allGood
 }
 
 function gitSync()
@@ -182,6 +192,48 @@ function gitSync()
 
 	# Send any new changes to server
 	d "git push origin master"
+}
+
+
+function argUse()
+{
+	use=1
+	upaths=()
+	# If no argument was passed then use all
+	if [[ -z "$1" ]]
+	then
+		# Get folder listings for all configs and check them
+		for file in $configInfo*
+		do
+			# Get list of directories from file
+			readarray -t cfglines < $file
+			for dir in "${cfglines[@]}"
+			do
+				# Store upaths
+				upaths+=("$dir")
+			done
+		done
+	
+	else
+		# Get list of directories from file
+		readarray -t cfglines < "$configInfo$1.lst"
+		for dir in "${cfglines[@]}"
+		do
+			# Store upaths
+			upaths+=("$dir")
+		done
+	fi
+	
+	for upath in "${upaths[@]}"
+	do
+		# Get item's current location
+		cpath=$upath
+
+		# Get item's link location
+		lpath="$configRoot${upath:1}"
+
+		createLink
+	done
 }
 
 argParse "$@"
