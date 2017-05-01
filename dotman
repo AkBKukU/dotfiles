@@ -1,5 +1,5 @@
 #!/bin/bash
-source parseArgs.sh
+source "./parseArgs.sh"
 
 addParameter "a" "add" "argAdd" "7" "1" "Add a new directory or file to be linked to the dotfiles folder."
 addParameter "i" "import" "argImport" "7" "2" "Import an exsiting directory or file and link it to the dotfiles folder."
