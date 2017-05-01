@@ -1,1 +1,1 @@
-/home/akbkuku/git/hub/AkBkukU/dotfiles/root/home/akbkuku/.vimrc
+/home/akbkuku/drive/90-Symlinks/Ubuntu/home/.vimrc
