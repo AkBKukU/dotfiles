@@ -28982,3 +28982,2947 @@ Mon May 15 11:31:02 2017: Qt Debug: "/org/freedesktop/UDisks2/block_devices/sdf"
 Mon May 15 11:31:02 2017: Qt Debug: "/org/freedesktop/UDisks2/drives/Generic_Storage_Device_00000000000006" lost interfaces: ("org.freedesktop.UDisks2.Drive") 
 Mon May 15 11:31:03 2017: Qt Debug: "/org/freedesktop/UDisks2/drives/Generic_Storage_Device_00000000000006" has new interfaces: ("org.freedesktop.UDisks2.Drive") 
 Mon May 15 11:31:03 2017: Qt Debug: "/org/freedesktop/UDisks2/block_devices/sdf" has new interfaces: ("org.freedesktop.UDisks2.Block") 
+Mon May 15 11:58:18 2017: Doing tracker request to url (via QHttp): http://tracker.raspberrypi.org:6969/announce?peer_id=-KT4310-YkK7crnO6FS7&port=6881&uploaded=51072068&downloaded=1426079794&left=0&compact=1&numwant=200&key=1632146454&info_hash=.%ed%aeT)%3a%aa%95%7c%da%b7%b9%f1%f2wm%16%da%8d%2b
+Mon May 15 11:58:18 2017: Request sent
+Mon May 15 11:58:18 2017: Doing scrape request to url : http://tracker.raspberrypi.org:6969/scrape?info_hash=.%ed%aeT)%3a%aa%95%7c%da%b7%b9%f1%f2wm%16%da%8d%2b
+Mon May 15 11:58:18 2017: Initiating connection to ::FFFF:227:C044 via (TCP)
+Mon May 15 11:58:18 2017: Initiating connection to ::FFFF:228:32AC via (TCP)
+Mon May 15 11:58:18 2017: Initiating connection to ::FFFF:2E1:E74E via (TCP)
+Mon May 15 11:58:18 2017: Initiating connection to ::FFFF:2EB:AFE2 via (TCP)
+Mon May 15 11:58:18 2017: Initiating connection to ::FFFF:51D:D44 via (TCP)
+Mon May 15 11:58:18 2017: Initiating connection to ::FFFF:56B:8220 via (TCP)
+Mon May 15 11:58:18 2017: Initiating connection to ::FFFF:59A:B920 via (TCP)
+Mon May 15 11:58:18 2017: Initiating connection to ::FFFF:5A7:32BA via (TCP)
+Mon May 15 11:58:18 2017: Initiating connection to ::FFFF:5BA:5883 via (TCP)
+Mon May 15 11:58:18 2017: Initiating connection to ::FFFF:5E4:435F via (TCP)
+Mon May 15 11:58:18 2017: Initiating connection to ::FFFF:18D4:8551 via (TCP)
+Mon May 15 11:58:18 2017: Initiating connection to ::FFFF:25C4:2AA6 via (TCP)
+Mon May 15 11:58:18 2017: Initiating connection to ::FFFF:2D2E:358B via (TCP)
+Mon May 15 11:58:18 2017: Initiating connection to ::FFFF:2D3A:E082 via (TCP)
+Mon May 15 11:58:18 2017: Initiating connection to ::FFFF:2E01:7C50 via (TCP)
+Mon May 15 11:58:18 2017: Initiating connection to ::FFFF:2E8A:118B via (TCP)
+Mon May 15 11:58:18 2017: Initiating connection to ::FFFF:2EA6:89D3 via (TCP)
+Mon May 15 11:58:18 2017: Initiating connection to ::FFFF:2EA6:89D8 via (TCP)
+Mon May 15 11:58:18 2017: Initiating connection to ::FFFF:2EAC:4EF9 via (TCP)
+Mon May 15 11:58:18 2017: Initiating connection to ::FFFF:2F9C:C3B9 via (TCP)
+Mon May 15 11:58:18 2017: Initiating connection to ::FFFF:2FC6:C22B via (TCP)
+Mon May 15 11:58:18 2017: Authentication to ::FFFF:59A:B920 : failure
+Mon May 15 11:58:18 2017: Authentication to ::FFFF:2EA6:89D3 : failure
+Mon May 15 11:58:18 2017: Authentication to ::FFFF:2EA6:89D8 : failure
+Mon May 15 11:58:18 2017: Initiating connection to ::FFFF:3122:7652 via (TCP)
+Mon May 15 11:58:18 2017: Initiating connection to ::FFFF:3223:5B56 via (TCP)
+Mon May 15 11:58:18 2017: Initiating connection to ::FFFF:3258:BFD1 via (TCP)
+Mon May 15 11:58:18 2017: Scrape : leechers = 28, seeders = 848, downloaded = 10443
+Mon May 15 11:58:19 2017: Authentication to ::FFFF:2E1:E74E : ok
+Mon May 15 11:58:19 2017: Starting socketmonitor threads
+Mon May 15 11:58:19 2017: Authentication to ::FFFF:56B:8220 : failure
+Mon May 15 11:58:19 2017: Authentication to ::FFFF:5A7:32BA : ok
+Mon May 15 11:58:19 2017: Authentication to ::FFFF:18D4:8551 : ok
+Mon May 15 11:58:19 2017: Authentication to ::FFFF:25C4:2AA6 : ok
+Mon May 15 11:58:19 2017: Authentication to ::FFFF:2F9C:C3B9 : ok
+Mon May 15 11:58:19 2017: Initiating connection to ::FFFF:3306:DD9F via (TCP)
+Mon May 15 11:58:19 2017: Initiating connection to ::FFFF:3A0B:9D3D via (TCP)
+Mon May 15 11:58:19 2017: Initiating connection to ::FFFF:3E83:4D13 via (TCP)
+Mon May 15 11:58:19 2017: Initiating connection to ::FFFF:4089:E479 via (TCP)
+Mon May 15 11:58:19 2017: Initiating connection to ::FFFF:4089:EC10 via (TCP)
+Mon May 15 11:58:19 2017: Initiating connection to ::FFFF:413C:B5CB via (TCP)
+Mon May 15 11:58:19 2017: Authentication to ::FFFF:227:C044 : ok
+Mon May 15 11:58:19 2017: Authentication to ::FFFF:2EB:AFE2 : ok
+Mon May 15 11:58:19 2017: Authentication to ::FFFF:51D:D44 : ok
+Mon May 15 11:58:19 2017: Authentication to ::FFFF:5BA:5883 : failure
+Mon May 15 11:58:19 2017: Connection closed
+Mon May 15 11:58:19 2017: Connection closed
+Mon May 15 11:58:19 2017: Connection closed
+Mon May 15 11:58:19 2017: Connection closed
+Mon May 15 11:58:19 2017: Initiating connection to ::FFFF:42DF:8C30 via (TCP)
+Mon May 15 11:58:19 2017: Initiating connection to ::FFFF:433D:5631 via (TCP)
+Mon May 15 11:58:19 2017: Initiating connection to ::FFFF:43B4:E013 via (TCP)
+Mon May 15 11:58:19 2017: Initiating connection to ::FFFF:4470:44DF via (TCP)
+Mon May 15 11:58:19 2017: Authentication to ::FFFF:4089:EC10 : failure
+Mon May 15 11:58:19 2017: Authentication to ::FFFF:413C:B5CB : ok
+Mon May 15 11:58:19 2017: Connection closed
+Mon May 15 11:58:19 2017: Initiating connection to ::FFFF:4477:DE17 via (TCP)
+Mon May 15 11:58:19 2017: Initiating connection to ::FFFF:4495:979E via (TCP)
+Mon May 15 11:58:19 2017: Authentication to ::FFFF:4089:E479 : failure
+Mon May 15 11:58:19 2017: Authentication to ::FFFF:42DF:8C30 : ok
+Mon May 15 11:58:19 2017: Authentication to ::FFFF:43B4:E013 : ok
+Mon May 15 11:58:19 2017: Authentication to ::FFFF:43B4:E013 : failure
+Mon May 15 11:58:19 2017: PEX: found 9 peers
+Mon May 15 11:58:19 2017: Connection closed
+Mon May 15 11:58:19 2017: Initiating connection to 5.189.98.32 via (TCP)
+Mon May 15 11:58:19 2017: Initiating connection to 46.121.210.203 via (TCP)
+Mon May 15 11:58:19 2017: Initiating connection to 46.166.188.251 via (TCP)
+Mon May 15 11:58:20 2017: Authentication to ::FFFF:4477:DE17 : failure
+Mon May 15 11:58:20 2017: Authentication to ::FFFF:4495:979E : ok
+Mon May 15 11:58:20 2017: Authentication to ::FFFF:4495:979E : failure
+Mon May 15 11:58:20 2017: Authentication to 46.166.188.251 : failure
+Mon May 15 11:58:20 2017: Connection closed
+Mon May 15 11:58:20 2017: Initiating connection to 67.87.172.214 via (TCP)
+Mon May 15 11:58:20 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 11:58:20 2017: Initiating connection to 84.0.106.200 via (TCP)
+Mon May 15 11:58:20 2017: Authentication to 5.189.98.32 : failure
+Mon May 15 11:58:20 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 11:58:20 2017: Initiating connection to 94.254.144.168 via (TCP)
+Mon May 15 11:58:20 2017: Initiating connection to 95.47.179.5 via (TCP)
+Mon May 15 11:58:20 2017: Authentication to 84.0.106.200 : ok
+Mon May 15 11:58:20 2017: Initiating connection to 122.44.229.159 via (TCP)
+Mon May 15 11:58:20 2017: Authentication to 46.121.210.203 : ok
+Mon May 15 11:58:20 2017: Authentication to 67.87.172.214 : ok
+Mon May 15 11:58:20 2017: Authentication to 122.44.229.159 : failure
+Mon May 15 11:58:20 2017: Initiating connection to ::FFFF:451D:5971 via (TCP)
+Mon May 15 11:58:20 2017: Initiating connection to ::FFFF:463E:16F2 via (TCP)
+Mon May 15 11:58:20 2017: Initiating connection to ::FFFF:4724:7E65 via (TCP)
+Mon May 15 11:58:21 2017: Authentication to ::FFFF:463E:16F2 : failure
+Mon May 15 11:58:21 2017: Connection closed
+Mon May 15 11:58:21 2017: Initiating connection to ::FFFF:48ED:EE02 via (TCP)
+Mon May 15 11:58:21 2017: Connection closed
+Mon May 15 11:58:21 2017: PEX: found 25 peers
+Mon May 15 11:58:21 2017: Authentication to ::FFFF:48ED:EE02 : ok
+Mon May 15 11:58:21 2017: Initiating connection to 2.235.175.226 via (TCP)
+Mon May 15 11:58:21 2017: Connection closed
+Mon May 15 11:58:22 2017: Authentication to 2.235.175.226 : ok
+Mon May 15 11:58:22 2017: Starting socketmonitor threads
+Mon May 15 11:58:22 2017: Initiating connection to 5.189.98.32 via (TCP)
+Mon May 15 11:58:23 2017: Authentication to 5.189.98.32 : ok
+Mon May 15 11:58:23 2017: Initiating connection to 37.187.107.142 via (TCP)
+Mon May 15 11:58:23 2017: Timeout occurred
+Mon May 15 11:58:23 2017: Authentication to ::FFFF:228:32AC : failure
+Mon May 15 11:58:23 2017: Timeout occurred
+Mon May 15 11:58:23 2017: Authentication to ::FFFF:5E4:435F : failure
+Mon May 15 11:58:23 2017: Timeout occurred
+Mon May 15 11:58:23 2017: Authentication to ::FFFF:2D2E:358B : failure
+Mon May 15 11:58:23 2017: Timeout occurred
+Mon May 15 11:58:23 2017: Authentication to ::FFFF:2D3A:E082 : failure
+Mon May 15 11:58:23 2017: Timeout occurred
+Mon May 15 11:58:23 2017: Authentication to ::FFFF:2E01:7C50 : failure
+Mon May 15 11:58:23 2017: Timeout occurred
+Mon May 15 11:58:23 2017: Authentication to ::FFFF:2E8A:118B : failure
+Mon May 15 11:58:23 2017: Timeout occurred
+Mon May 15 11:58:23 2017: Authentication to ::FFFF:2EAC:4EF9 : failure
+Mon May 15 11:58:23 2017: Timeout occurred
+Mon May 15 11:58:23 2017: Authentication to ::FFFF:2FC6:C22B : failure
+Mon May 15 11:58:23 2017: Initiating connection to 37.187.123.154 via (TCP)
+Mon May 15 11:58:23 2017: Initiating connection to 46.166.188.251 via (TCP)
+Mon May 15 11:58:23 2017: Initiating connection to 47.187.110.141 via (TCP)
+Mon May 15 11:58:23 2017: Initiating connection to 50.47.54.50 via (TCP)
+Mon May 15 11:58:23 2017: Initiating connection to 58.97.16.16 via (TCP)
+Mon May 15 11:58:23 2017: Initiating connection to 62.102.148.156 via (TCP)
+Mon May 15 11:58:23 2017: Initiating connection to 69.29.89.113 via (TCP)
+Mon May 15 11:58:23 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 11:58:23 2017: Timeout occurred
+Mon May 15 11:58:23 2017: Authentication to ::FFFF:3122:7652 : failure
+Mon May 15 11:58:23 2017: Timeout occurred
+Mon May 15 11:58:23 2017: Authentication to ::FFFF:3223:5B56 : failure
+Mon May 15 11:58:23 2017: Timeout occurred
+Mon May 15 11:58:23 2017: Authentication to ::FFFF:3258:BFD1 : failure
+Mon May 15 11:58:24 2017: Authentication to 37.187.107.142 : failure
+Mon May 15 11:58:24 2017: Authentication to 46.166.188.251 : failure
+Mon May 15 11:58:24 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 11:58:24 2017: Initiating connection to 73.198.114.100 via (TCP)
+Mon May 15 11:58:24 2017: Initiating connection to 74.102.53.62 via (TCP)
+Mon May 15 11:58:24 2017: Initiating connection to 80.101.63.133 via (TCP)
+Mon May 15 11:58:24 2017: Initiating connection to 84.0.106.200 via (TCP)
+Mon May 15 11:58:24 2017: Initiating connection to 84.236.42.213 via (TCP)
+Mon May 15 11:58:24 2017: Initiating connection to 85.74.170.228 via (TCP)
+Mon May 15 11:58:24 2017: Timeout occurred
+Mon May 15 11:58:24 2017: Authentication to ::FFFF:3306:DD9F : failure
+Mon May 15 11:58:24 2017: Timeout occurred
+Mon May 15 11:58:24 2017: Authentication to ::FFFF:3A0B:9D3D : failure
+Mon May 15 11:58:24 2017: Timeout occurred
+Mon May 15 11:58:24 2017: Authentication to ::FFFF:3E83:4D13 : failure
+Mon May 15 11:58:24 2017: Authentication to 47.187.110.141 : ok
+Mon May 15 11:58:24 2017: Authentication to 50.47.54.50 : failure
+Mon May 15 11:58:24 2017: Authentication to 58.97.16.16 : ok
+Mon May 15 11:58:24 2017: Authentication to 58.97.16.16 : failure
+Mon May 15 11:58:24 2017: Authentication to 62.102.148.156 : failure
+Mon May 15 11:58:24 2017: Initiating connection to 85.144.24.173 via (TCP)
+Mon May 15 11:58:24 2017: Initiating connection to 86.1.132.119 via (TCP)
+Mon May 15 11:58:24 2017: Initiating connection to 88.198.17.155 via (TCP)
+Mon May 15 11:58:24 2017: Initiating connection to 98.168.213.197 via (TCP)
+Mon May 15 11:58:24 2017: Initiating connection to 109.15.171.216 via (TCP)
+Mon May 15 11:58:24 2017: Initiating connection to 130.111.182.45 via (TCP)
+Mon May 15 11:58:24 2017: Initiating connection to 186.210.105.24 via (TCP)
+Mon May 15 11:58:24 2017: Timeout occurred
+Mon May 15 11:58:24 2017: Authentication to ::FFFF:433D:5631 : failure
+Mon May 15 11:58:24 2017: Timeout occurred
+Mon May 15 11:58:24 2017: Authentication to ::FFFF:4470:44DF : failure
+Mon May 15 11:58:24 2017: Authentication to 37.187.123.154 : ok
+Mon May 15 11:58:24 2017: Authentication to 80.101.63.133 : failure
+Mon May 15 11:58:24 2017: Authentication to 84.0.106.200 : failure
+Mon May 15 11:58:24 2017: Authentication to 84.236.42.213 : failure
+Mon May 15 11:58:24 2017: Initiating connection to 187.75.229.196 via (TCP)
+Mon May 15 11:58:24 2017: Initiating connection to ::FFFF:49D7:DB93 via (TCP)
+Mon May 15 11:58:24 2017: Initiating connection to ::FFFF:4A0C:584B via (TCP)
+Mon May 15 11:58:24 2017: Initiating connection to ::FFFF:4A66:353E via (TCP)
+Mon May 15 11:58:24 2017: Initiating connection to ::FFFF:4A6D:DCC2 via (TCP)
+Mon May 15 11:58:24 2017: Initiating connection to ::FFFF:4B53:9A60 via (TCP)
+Mon May 15 11:58:24 2017: Authentication to 88.198.17.155 : failure
+Mon May 15 11:58:24 2017: Authentication to 98.168.213.197 : ok
+Mon May 15 11:58:24 2017: Authentication to 109.15.171.216 : ok
+Mon May 15 11:58:24 2017: Authentication to 130.111.182.45 : failure
+Mon May 15 11:58:24 2017: PEX: found 10 peers
+Mon May 15 11:58:24 2017: Initiating connection to 58.96.127.18 via (TCP)
+Mon May 15 11:58:24 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 11:58:24 2017: Initiating connection to 78.22.83.18 via (TCP)
+Mon May 15 11:58:24 2017: Initiating connection to 81.191.65.128 via (TCP)
+Mon May 15 11:58:25 2017: Authentication to 73.198.114.100 : ok
+Mon May 15 11:58:25 2017: Authentication to 74.102.53.62 : ok
+Mon May 15 11:58:25 2017: Authentication to 86.1.132.119 : ok
+Mon May 15 11:58:25 2017: Authentication to ::FFFF:4A0C:584B : ok
+Mon May 15 11:58:25 2017: Authentication to ::FFFF:4A0C:584B : failure
+Mon May 15 11:58:25 2017: Authentication to ::FFFF:4A66:353E : failure
+Mon May 15 11:58:25 2017: Authentication to ::FFFF:4B53:9A60 : ok
+Mon May 15 11:58:25 2017: Authentication to 58.96.127.18 : failure
+Mon May 15 11:58:25 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 11:58:25 2017: PEX: found 16 peers
+Mon May 15 11:58:25 2017: Connection closed
+Mon May 15 11:58:25 2017: Initiating connection to 58.96.127.18 via (TCP)
+Mon May 15 11:58:25 2017: Initiating connection to 67.87.172.214 via (TCP)
+Mon May 15 11:58:25 2017: Initiating connection to 69.29.89.113 via (TCP)
+Mon May 15 11:58:25 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 11:58:25 2017: Initiating connection to 78.235.89.214 via (TCP)
+Mon May 15 11:58:25 2017: Initiating connection to 81.67.45.173 via (TCP)
+Mon May 15 11:58:25 2017: Initiating connection to 84.0.106.200 via (TCP)
+Mon May 15 11:58:25 2017: Initiating connection to 85.144.24.173 via (TCP)
+Mon May 15 11:58:25 2017: Authentication to 85.144.24.173 : ok
+Mon May 15 11:58:25 2017: Authentication to 186.210.105.24 : failure
+Mon May 15 11:58:25 2017: Authentication to 58.96.127.18 : failure
+Mon May 15 11:58:25 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 11:58:25 2017: Connection closed
+Mon May 15 11:58:25 2017: Initiating connection to 85.183.149.50 via (TCP)
+Mon May 15 11:58:25 2017: Initiating connection to 88.178.102.236 via (TCP)
+Mon May 15 11:58:25 2017: Initiating connection to 88.198.17.155 via (TCP)
+Mon May 15 11:58:25 2017: Initiating connection to 94.254.144.168 via (TCP)
+Mon May 15 11:58:25 2017: Piece cache: memory in use 0 B, memory freed 32.00 KiB
+Mon May 15 11:58:25 2017: Timeout occurred
+Mon May 15 11:58:25 2017: Authentication to 94.254.144.168 : failure
+Mon May 15 11:58:25 2017: Timeout occurred
+Mon May 15 11:58:25 2017: Authentication to 95.47.179.5 : failure
+Mon May 15 11:58:25 2017: Authentication to 85.144.24.173 : failure
+Mon May 15 11:58:25 2017: PEX: found 13 peers
+Mon May 15 11:58:25 2017: PEX: found 5 peers
+Mon May 15 11:58:25 2017: PEX: found 4 peers
+Mon May 15 11:58:25 2017: Initiating connection to 58.96.127.18 via (TCP)
+Mon May 15 11:58:25 2017: Initiating connection to 67.87.172.214 via (TCP)
+Mon May 15 11:58:25 2017: Initiating connection to 70.95.162.80 via (TCP)
+Mon May 15 11:58:25 2017: Authentication to 67.87.172.214 : ok
+Mon May 15 11:58:25 2017: Authentication to 81.67.45.173 : failure
+Mon May 15 11:58:25 2017: Authentication to 84.0.106.200 : ok
+Mon May 15 11:58:25 2017: Authentication to 84.0.106.200 : failure
+Mon May 15 11:58:25 2017: Authentication to 58.96.127.18 : failure
+Mon May 15 11:58:25 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 11:58:25 2017: Initiating connection to 81.191.65.128 via (TCP)
+Mon May 15 11:58:25 2017: Initiating connection to 82.52.196.61 via (TCP)
+Mon May 15 11:58:25 2017: Initiating connection to 89.138.177.165 via (TCP)
+Mon May 15 11:58:25 2017: Timeout occurred
+Mon May 15 11:58:25 2017: Authentication to ::FFFF:451D:5971 : failure
+Mon May 15 11:58:25 2017: Timeout occurred
+Mon May 15 11:58:25 2017: Authentication to ::FFFF:4724:7E65 : failure
+Mon May 15 11:58:26 2017: Authentication to 85.74.170.228 : ok
+Mon May 15 11:58:26 2017: Authentication to 78.235.89.214 : ok
+Mon May 15 11:58:26 2017: Authentication to 85.183.149.50 : ok
+Mon May 15 11:58:26 2017: Authentication to 85.183.149.50 : failure
+Mon May 15 11:58:26 2017: Authentication to 88.178.102.236 : ok
+Mon May 15 11:58:26 2017: Authentication to 88.198.17.155 : ok
+Mon May 15 11:58:26 2017: Authentication to 88.198.17.155 : failure
+Mon May 15 11:58:26 2017: Authentication to 67.87.172.214 : failure
+Mon May 15 11:58:26 2017: Authentication to 70.95.162.80 : ok
+Mon May 15 11:58:26 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 11:58:26 2017: Initiating connection to 94.32.213.184 via (TCP)
+Mon May 15 11:58:26 2017: Initiating connection to 94.254.144.168 via (TCP)
+Mon May 15 11:58:26 2017: Initiating connection to 96.3.190.161 via (TCP)
+Mon May 15 11:58:26 2017: Initiating connection to 109.15.171.216 via (TCP)
+Mon May 15 11:58:26 2017: Initiating connection to 114.113.116.243 via (TCP)
+Mon May 15 11:58:26 2017: Initiating connection to 151.226.241.8 via (TCP)
+Mon May 15 11:58:26 2017: Initiating connection to 171.66.213.195 via (TCP)
+Mon May 15 11:58:26 2017: Initiating connection to 206.223.208.40 via (TCP)
+Mon May 15 11:58:26 2017: Initiating connection to 212.35.12.159 via (TCP)
+Mon May 15 11:58:26 2017: Initiating connection to 213.41.150.98 via (TCP)
+Mon May 15 11:58:26 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 11:58:26 2017: Authentication to 96.3.190.161 : failure
+Mon May 15 11:58:26 2017: Authentication to 114.113.116.243 : failure
+Mon May 15 11:58:26 2017: PEX: found 18 peers
+Mon May 15 11:58:26 2017: Connection closed
+Mon May 15 11:58:26 2017: Initiating connection to 2.235.175.226 via (TCP)
+Mon May 15 11:58:26 2017: Initiating connection to 37.187.107.142 via (TCP)
+Mon May 15 11:58:26 2017: Authentication to 82.52.196.61 : ok
+Mon May 15 11:58:26 2017: Authentication to 109.15.171.216 : ok
+Mon May 15 11:58:26 2017: Connection closed
+Mon May 15 11:58:26 2017: PEX: found 11 peers
+Mon May 15 11:58:26 2017: Initiating connection to 37.187.123.154 via (TCP)
+Mon May 15 11:58:26 2017: Initiating connection to 46.166.188.251 via (TCP)
+Mon May 15 11:58:26 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 11:58:26 2017: Authentication to 206.223.208.40 : ok
+Mon May 15 11:58:26 2017: Authentication to 2.235.175.226 : failure
+Mon May 15 11:58:26 2017: Authentication to 37.187.107.142 : failure
+Mon May 15 11:58:26 2017: Authentication to 46.166.188.251 : failure
+Mon May 15 11:58:26 2017: Connection closed
+Mon May 15 11:58:26 2017: Initiating connection to 50.47.54.50 via (TCP)
+Mon May 15 11:58:26 2017: Initiating connection to 62.102.148.156 via (TCP)
+Mon May 15 11:58:26 2017: Initiating connection to 64.137.228.121 via (TCP)
+Mon May 15 11:58:26 2017: Initiating connection to 69.29.89.113 via (TCP)
+Mon May 15 11:58:27 2017: Authentication to 37.187.123.154 : failure
+Mon May 15 11:58:27 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 11:58:27 2017: Authentication to 89.138.177.165 : failure
+Mon May 15 11:58:27 2017: Authentication to 151.226.241.8 : ok
+Mon May 15 11:58:27 2017: Authentication to 64.137.228.121 : failure
+Mon May 15 11:58:27 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 11:58:27 2017: Initiating connection to 73.198.114.100 via (TCP)
+Mon May 15 11:58:27 2017: Initiating connection to 76.100.166.254 via (TCP)
+Mon May 15 11:58:27 2017: Initiating connection to 80.101.63.133 via (TCP)
+Mon May 15 11:58:27 2017: Initiating connection to 81.203.43.32 via (TCP)
+Mon May 15 11:58:27 2017: Authentication to 62.102.148.156 : failure
+Mon May 15 11:58:27 2017: Initiating connection to 85.98.22.128 via (TCP)
+Mon May 15 11:58:28 2017: Authentication to 50.47.54.50 : ok
+Mon May 15 11:58:28 2017: Authentication to 76.100.166.254 : failure
+Mon May 15 11:58:28 2017: Initiating connection to 85.144.24.173 via (TCP)
+Mon May 15 11:58:28 2017: Initiating connection to 85.183.149.50 via (TCP)
+Mon May 15 11:58:28 2017: Authentication to 80.101.63.133 : ok
+Mon May 15 11:58:28 2017: Authentication to 80.101.63.133 : failure
+Mon May 15 11:58:28 2017: Initiating connection to 88.198.17.155 via (TCP)
+Mon May 15 11:58:28 2017: Authentication to 73.198.114.100 : ok
+Mon May 15 11:58:28 2017: Authentication to 85.98.22.128 : failure
+Mon May 15 11:58:28 2017: Initiating connection to 109.15.171.216 via (TCP)
+Mon May 15 11:58:28 2017: Initiating connection to 130.111.182.45 via (TCP)
+Mon May 15 11:58:28 2017: Authentication to 85.144.24.173 : ok
+Mon May 15 11:58:28 2017: Authentication to 85.144.24.173 : failure
+Mon May 15 11:58:28 2017: Authentication to 88.198.17.155 : failure
+Mon May 15 11:58:28 2017: Initiating connection to 178.184.59.107 via (TCP)
+Mon May 15 11:58:28 2017: Initiating connection to 185.44.15.162 via (TCP)
+Mon May 15 11:58:28 2017: Timeout occurred
+Mon May 15 11:58:28 2017: Authentication to 69.29.89.113 : failure
+Mon May 15 11:58:29 2017: Authentication to 109.15.171.216 : ok
+Mon May 15 11:58:29 2017: Initiating connection to 186.0.204.114 via (TCP)
+Mon May 15 11:58:29 2017: Initiating connection to 206.223.208.40 via (TCP)
+Mon May 15 11:58:29 2017: Authentication to 130.111.182.45 : failure
+Mon May 15 11:58:29 2017: Authentication to 186.0.204.114 : failure
+Mon May 15 11:58:29 2017: PEX: found 24 peers
+Mon May 15 11:58:29 2017: Initiating connection to 37.187.107.142 via (TCP)
+Mon May 15 11:58:29 2017: Initiating connection to 37.187.123.154 via (TCP)
+Mon May 15 11:58:29 2017: Authentication to 206.223.208.40 : ok
+Mon May 15 11:58:29 2017: Authentication to 206.223.208.40 : failure
+Mon May 15 11:58:29 2017: Initiating connection to 46.166.188.251 via (TCP)
+Mon May 15 11:58:29 2017: Timeout occurred
+Mon May 15 11:58:29 2017: Authentication to 187.75.229.196 : failure
+Mon May 15 11:58:29 2017: Timeout occurred
+Mon May 15 11:58:29 2017: Authentication to ::FFFF:49D7:DB93 : failure
+Mon May 15 11:58:29 2017: Timeout occurred
+Mon May 15 11:58:29 2017: Authentication to ::FFFF:4A6D:DCC2 : failure
+Mon May 15 11:58:29 2017: Authentication to 178.184.59.107 : ok
+Mon May 15 11:58:29 2017: Authentication to 178.184.59.107 : failure
+Mon May 15 11:58:29 2017: Authentication to 46.166.188.251 : failure
+Mon May 15 11:58:29 2017: Connection closed
+Mon May 15 11:58:29 2017: Initiating connection to 47.187.110.141 via (TCP)
+Mon May 15 11:58:29 2017: Initiating connection to 64.137.228.121 via (TCP)
+Mon May 15 11:58:29 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 11:58:29 2017: Initiating connection to 74.102.53.62 via (TCP)
+Mon May 15 11:58:29 2017: Initiating connection to 77.98.254.56 via (TCP)
+Mon May 15 11:58:29 2017: Timeout occurred
+Mon May 15 11:58:29 2017: Authentication to 78.22.83.18 : failure
+Mon May 15 11:58:29 2017: Timeout occurred
+Mon May 15 11:58:29 2017: Authentication to 81.191.65.128 : failure
+Mon May 15 11:58:30 2017: Authentication to 37.187.107.142 : ok
+Mon May 15 11:58:30 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 11:58:30 2017: Initiating connection to 80.243.101.96 via (TCP)
+Mon May 15 11:58:30 2017: Initiating connection to 81.220.169.48 via (TCP)
+Mon May 15 11:58:30 2017: Initiating connection to 82.52.196.61 via (TCP)
+Mon May 15 11:58:30 2017: Initiating connection to 84.0.106.200 via (TCP)
+Mon May 15 11:58:30 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 11:58:30 2017: Timeout occurred
+Mon May 15 11:58:30 2017: Authentication to 69.29.89.113 : failure
+Mon May 15 11:58:30 2017: Authentication to 37.187.123.154 : ok
+Mon May 15 11:58:30 2017: Authentication to 47.187.110.141 : ok
+Mon May 15 11:58:30 2017: Authentication to 64.137.228.121 : failure
+Mon May 15 11:58:30 2017: Authentication to 74.102.53.62 : ok
+Mon May 15 11:58:30 2017: Authentication to 74.102.53.62 : failure
+Mon May 15 11:58:30 2017: Authentication to 77.98.254.56 : ok
+Mon May 15 11:58:30 2017: Authentication to 77.98.254.56 : failure
+Mon May 15 11:58:30 2017: Initiating connection to 86.1.132.119 via (TCP)
+Mon May 15 11:58:30 2017: Initiating connection to 87.203.213.152 via (TCP)
+Mon May 15 11:58:30 2017: Initiating connection to 89.111.221.121 via (TCP)
+Mon May 15 11:58:30 2017: Initiating connection to 112.87.130.40 via (TCP)
+Mon May 15 11:58:30 2017: Initiating connection to 114.113.116.243 via (TCP)
+Mon May 15 11:58:30 2017: Initiating connection to 125.239.126.91 via (TCP)
+Mon May 15 11:58:30 2017: Timeout occurred
+Mon May 15 11:58:30 2017: Authentication to 94.254.144.168 : failure
+Mon May 15 11:58:30 2017: Authentication to 81.220.169.48 : failure
+Mon May 15 11:58:30 2017: Authentication to 82.52.196.61 : failure
+Mon May 15 11:58:30 2017: Authentication to 84.0.106.200 : ok
+Mon May 15 11:58:30 2017: Authentication to 114.113.116.243 : failure
+Mon May 15 11:58:30 2017: PEX: found 8 peers
+Mon May 15 11:58:30 2017: Connection closed
+Mon May 15 11:58:30 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 11:58:30 2017: Initiating connection to 81.191.65.128 via (TCP)
+Mon May 15 11:58:30 2017: Initiating connection to 81.203.43.32 via (TCP)
+Mon May 15 11:58:30 2017: Initiating connection to 96.3.190.161 via (TCP)
+Mon May 15 11:58:30 2017: Initiating connection to 151.226.241.8 via (TCP)
+Mon May 15 11:58:30 2017: Authentication to 80.243.101.96 : ok
+Mon May 15 11:58:30 2017: Authentication to 80.243.101.96 : failure
+Mon May 15 11:58:30 2017: Authentication to 86.1.132.119 : ok
+Mon May 15 11:58:30 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 11:58:30 2017: Authentication to 96.3.190.161 : failure
+Mon May 15 11:58:30 2017: PEX: found 13 peers
+Mon May 15 11:58:30 2017: PEX: found 8 peers
+Mon May 15 11:58:30 2017: Connection closed
+Mon May 15 11:58:30 2017: Initiating connection to 45.59.142.38 via (TCP)
+Mon May 15 11:58:30 2017: Initiating connection to 58.96.127.18 via (TCP)
+Mon May 15 11:58:30 2017: Initiating connection to 62.85.32.33 via (TCP)
+Mon May 15 11:58:30 2017: Initiating connection to 70.95.162.80 via (TCP)
+Mon May 15 11:58:30 2017: Timeout occurred
+Mon May 15 11:58:30 2017: Authentication to 81.191.65.128 : failure
+Mon May 15 11:58:31 2017: Authentication to 58.96.127.18 : failure
+Mon May 15 11:58:31 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 11:58:31 2017: Initiating connection to 78.22.83.18 via (TCP)
+Mon May 15 11:58:31 2017: Timeout occurred
+Mon May 15 11:58:31 2017: Authentication to 94.32.213.184 : failure
+Mon May 15 11:58:31 2017: Timeout occurred
+Mon May 15 11:58:31 2017: Authentication to 94.254.144.168 : failure
+Mon May 15 11:58:31 2017: Timeout occurred
+Mon May 15 11:58:31 2017: Authentication to 171.66.213.195 : failure
+Mon May 15 11:58:31 2017: Timeout occurred
+Mon May 15 11:58:31 2017: Authentication to 212.35.12.159 : failure
+Mon May 15 11:58:31 2017: Timeout occurred
+Mon May 15 11:58:31 2017: Authentication to 213.41.150.98 : failure
+Mon May 15 11:58:31 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 11:58:31 2017: Initiating connection to 80.197.146.219 via (TCP)
+Mon May 15 11:58:31 2017: Initiating connection to 81.191.65.128 via (TCP)
+Mon May 15 11:58:31 2017: Initiating connection to 82.52.196.61 via (TCP)
+Mon May 15 11:58:31 2017: Initiating connection to 84.0.106.200 via (TCP)
+Mon May 15 11:58:31 2017: Initiating connection to 86.1.132.119 via (TCP)
+Mon May 15 11:58:31 2017: Initiating connection to 86.124.248.168 via (TCP)
+Mon May 15 11:58:31 2017: Authentication to 87.203.213.152 : failure
+Mon May 15 11:58:31 2017: Authentication to 62.85.32.33 : failure
+Mon May 15 11:58:31 2017: Authentication to 70.95.162.80 : ok
+Mon May 15 11:58:31 2017: Initiating connection to 94.254.144.168 via (TCP)
+Mon May 15 11:58:31 2017: Initiating connection to 96.3.190.161 via (TCP)
+Mon May 15 11:58:31 2017: Initiating connection to 109.15.171.216 via (TCP)
+Mon May 15 11:58:31 2017: Authentication to 151.226.241.8 : ok
+Mon May 15 11:58:31 2017: Authentication to 151.226.241.8 : failure
+Mon May 15 11:58:31 2017: Authentication to 45.59.142.38 : ok
+Mon May 15 11:58:31 2017: Authentication to 45.59.142.38 : failure
+Mon May 15 11:58:31 2017: Authentication to 96.3.190.161 : failure
+Mon May 15 11:58:31 2017: Initiating connection to 185.148.3.179 via (TCP)
+Mon May 15 11:58:31 2017: Initiating connection to 186.0.204.114 via (TCP)
+Mon May 15 11:58:31 2017: Initiating connection to 186.210.105.24 via (TCP)
+Mon May 15 11:58:31 2017: Timeout occurred
+Mon May 15 11:58:31 2017: Authentication to 69.29.89.113 : failure
+Mon May 15 11:58:32 2017: Authentication to 80.197.146.219 : ok
+Mon May 15 11:58:32 2017: Authentication to 82.52.196.61 : ok
+Mon May 15 11:58:32 2017: Authentication to 82.52.196.61 : failure
+Mon May 15 11:58:32 2017: Authentication to 84.0.106.200 : ok
+Mon May 15 11:58:32 2017: Authentication to 84.0.106.200 : failure
+Mon May 15 11:58:32 2017: Authentication to 86.1.132.119 : ok
+Mon May 15 11:58:32 2017: Authentication to 109.15.171.216 : ok
+Mon May 15 11:58:32 2017: Authentication to 186.0.204.114 : failure
+Mon May 15 11:58:32 2017: PEX: found 11 peers
+Mon May 15 11:58:32 2017: Initiating connection to 47.187.110.141 via (TCP)
+Mon May 15 11:58:32 2017: Initiating connection to 50.47.54.50 via (TCP)
+Mon May 15 11:58:32 2017: Initiating connection to 62.85.32.33 via (TCP)
+Mon May 15 11:58:32 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 11:58:32 2017: Initiating connection to 73.198.114.100 via (TCP)
+Mon May 15 11:58:32 2017: Initiating connection to 186.0.204.114 via (TCP)
+Mon May 15 11:58:32 2017: Initiating connection to 206.223.208.40 via (TCP)
+Mon May 15 11:58:32 2017: Authentication to 125.239.126.91 : ok
+Mon May 15 11:58:32 2017: Authentication to 185.148.3.179 : ok
+Mon May 15 11:58:32 2017: Authentication to 185.148.3.179 : failure
+Mon May 15 11:58:32 2017: Authentication to 186.210.105.24 : failure
+Mon May 15 11:58:32 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 11:58:32 2017: Authentication to 186.0.204.114 : failure
+Mon May 15 11:58:32 2017: Connection closed
+Mon May 15 11:58:32 2017: Connection closed
+Mon May 15 11:58:32 2017: Initiating connection to 212.35.12.159 via (TCP)
+Mon May 15 11:58:32 2017: Initiating connection to 217.105.147.220 via (TCP)
+Mon May 15 11:58:32 2017: Initiating connection to 219.250.109.251 via (TCP)
+Mon May 15 11:58:32 2017: Initiating connection to ::FFFF:4B88:1F28 via (TCP)
+Mon May 15 11:58:32 2017: Initiating connection to ::FFFF:4CBF:4C4D via (TCP)
+Mon May 15 11:58:32 2017: Timeout occurred
+Mon May 15 11:58:32 2017: Authentication to 81.203.43.32 : failure
+Mon May 15 11:58:32 2017: Authentication to 73.198.114.100 : failure
+Mon May 15 11:58:32 2017: Authentication to 206.223.208.40 : ok
+Mon May 15 11:58:32 2017: Connection closed
+Mon May 15 11:58:32 2017: Initiating connection to ::FFFF:4D62:FE38 via (TCP)
+Mon May 15 11:58:32 2017: Initiating connection to ::FFFF:4D66:7502 via (TCP)
+Mon May 15 11:58:32 2017: Initiating connection to ::FFFF:4DCB:9DE8 via (TCP)
+Mon May 15 11:58:32 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 11:58:32 2017: Authentication to 47.187.110.141 : ok
+Mon May 15 11:58:32 2017: Authentication to 62.85.32.33 : ok
+Mon May 15 11:58:32 2017: Authentication to ::FFFF:4B88:1F28 : ok
+Mon May 15 11:58:32 2017: Authentication to ::FFFF:4B88:1F28 : failure
+Mon May 15 11:58:32 2017: Connection closed
+Mon May 15 11:58:32 2017: Initiating connection to ::FFFF:4E61:AD5E via (TCP)
+Mon May 15 11:58:32 2017: Initiating connection to ::FFFF:4EC0:AA73 via (TCP)
+Mon May 15 11:58:32 2017: Initiating connection to ::FFFF:4EEB:59D6 via (TCP)
+Mon May 15 11:58:33 2017: Authentication to 50.47.54.50 : ok
+Mon May 15 11:58:33 2017: Authentication to 219.250.109.251 : ok
+Mon May 15 11:58:33 2017: Authentication to ::FFFF:4D62:FE38 : ok
+Mon May 15 11:58:33 2017: Authentication to ::FFFF:4D62:FE38 : failure
+Mon May 15 11:58:33 2017: Authentication to ::FFFF:4D66:7502 : ok
+Mon May 15 11:58:33 2017: Initiating connection to ::FFFF:4F1B:B438 via (TCP)
+Mon May 15 11:58:33 2017: Initiating connection to ::FFFF:4F62:DC77 via (TCP)
+Mon May 15 11:58:33 2017: Initiating connection to ::FFFF:4FAF:348 via (TCP)
+Mon May 15 11:58:33 2017: Initiating connection to ::FFFF:4FEB:1B92 via (TCP)
+Mon May 15 11:58:33 2017: Timeout occurred
+Mon May 15 11:58:33 2017: Authentication to 85.183.149.50 : failure
+Mon May 15 11:58:33 2017: Authentication to ::FFFF:4DCB:9DE8 : ok
+Mon May 15 11:58:33 2017: Connection closed
+Mon May 15 11:58:33 2017: Connection closed
+Mon May 15 11:58:33 2017: Initiating connection to ::FFFF:5007:234E via (TCP)
+Mon May 15 11:58:33 2017: Initiating connection to ::FFFF:5062:E47A via (TCP)
+Mon May 15 11:58:33 2017: Authentication to ::FFFF:4EEB:59D6 : ok
+Mon May 15 11:58:33 2017: Authentication to ::FFFF:5062:E47A : ok
+Mon May 15 11:58:33 2017: Connection closed
+Mon May 15 11:58:33 2017: Initiating connection to ::FFFF:5065:3F85 via (TCP)
+Mon May 15 11:58:33 2017: Initiating connection to ::FFFF:506C:4A41 via (TCP)
+Mon May 15 11:58:33 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 11:58:33 2017: Timeout occurred
+Mon May 15 11:58:33 2017: Authentication to 185.44.15.162 : failure
+Mon May 15 11:58:34 2017: Authentication to ::FFFF:4E61:AD5E : failure
+Mon May 15 11:58:34 2017: Authentication to ::FFFF:4F62:DC77 : failure
+Mon May 15 11:58:34 2017: Connection closed
+Mon May 15 11:58:34 2017: Initiating connection to ::FFFF:5102:667D via (TCP)
+Mon May 15 11:58:34 2017: Initiating connection to ::FFFF:5128:8105 via (TCP)
+Mon May 15 11:58:34 2017: Initiating connection to ::FFFF:519C:5663 via (TCP)
+Mon May 15 11:58:34 2017: Authentication to ::FFFF:5007:234E : ok
+Mon May 15 11:58:34 2017: Initiating connection to ::FFFF:51B7:B7E5 via (TCP)
+Mon May 15 11:58:34 2017: Authentication to ::FFFF:5065:3F85 : ok
+Mon May 15 11:58:34 2017: Initiating connection to ::FFFF:51DC:A930 via (TCP)
+Mon May 15 11:58:35 2017: Authentication to ::FFFF:51B7:B7E5 : failure
+Mon May 15 11:58:35 2017: Initiating connection to ::FFFF:524C:A3CB via (TCP)
+Mon May 15 11:58:35 2017: Timeout occurred
+Mon May 15 11:58:35 2017: Authentication to 89.111.221.121 : failure
+Mon May 15 11:58:35 2017: Timeout occurred
+Mon May 15 11:58:35 2017: Authentication to 112.87.130.40 : failure
+Mon May 15 11:58:35 2017: Authentication to ::FFFF:51DC:A930 : failure
+Mon May 15 11:58:35 2017: Initiating connection to ::FFFF:5267:8C2E via (TCP)
+Mon May 15 11:58:35 2017: Initiating connection to ::FFFF:52A9:1519 via (TCP)
+Mon May 15 11:58:35 2017: Initiating connection to ::FFFF:5323:BB33 via (TCP)
+Mon May 15 11:58:35 2017: Timeout occurred
+Mon May 15 11:58:35 2017: Authentication to 81.191.65.128 : failure
+Mon May 15 11:58:35 2017: Timeout occurred
+Mon May 15 11:58:35 2017: Authentication to 81.203.43.32 : failure
+Mon May 15 11:58:35 2017: Authentication to ::FFFF:5267:8C2E : failure
+Mon May 15 11:58:35 2017: Initiating connection to ::FFFF:532E:CBA5 via (TCP)
+Mon May 15 11:58:35 2017: Initiating connection to ::FFFF:5398:4238 via (TCP)
+Mon May 15 11:58:35 2017: Initiating connection to ::FFFF:5400:6AC8 via (TCP)
+Mon May 15 11:58:36 2017: Authentication to ::FFFF:5323:BB33 : ok
+Mon May 15 11:58:36 2017: Initiating connection to ::FFFF:5402:49A2 via (TCP)
+Mon May 15 11:58:36 2017: Timeout occurred
+Mon May 15 11:58:36 2017: Authentication to 78.22.83.18 : failure
+Mon May 15 11:58:36 2017: Authentication to ::FFFF:5400:6AC8 : ok
+Mon May 15 11:58:36 2017: Connection closed
+Mon May 15 11:58:36 2017: Initiating connection to ::FFFF:545C:2C96 via (TCP)
+Mon May 15 11:58:36 2017: Initiating connection to ::FFFF:5476:6AC2 via (TCP)
+Mon May 15 11:58:36 2017: Timeout occurred
+Mon May 15 11:58:36 2017: Authentication to 81.191.65.128 : failure
+Mon May 15 11:58:36 2017: Timeout occurred
+Mon May 15 11:58:36 2017: Authentication to 86.124.248.168 : failure
+Mon May 15 11:58:36 2017: PEX: found 6 peers
+Mon May 15 11:58:36 2017: Initiating connection to 58.96.127.18 via (TCP)
+Mon May 15 11:58:36 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 11:58:36 2017: Timeout occurred
+Mon May 15 11:58:36 2017: Authentication to 94.254.144.168 : failure
+Mon May 15 11:58:36 2017: Authentication to ::FFFF:5398:4238 : ok
+Mon May 15 11:58:36 2017: Authentication to ::FFFF:5476:6AC2 : failure
+Mon May 15 11:58:36 2017: Authentication to 58.96.127.18 : failure
+Mon May 15 11:58:36 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 11:58:36 2017: Initiating connection to 94.254.144.168 via (TCP)
+Mon May 15 11:58:36 2017: Initiating connection to 109.15.171.216 via (TCP)
+Mon May 15 11:58:36 2017: Initiating connection to 186.0.204.114 via (TCP)
+Mon May 15 11:58:36 2017: Initiating connection to ::FFFF:54EC:7F4B via (TCP)
+Mon May 15 11:58:36 2017: Initiating connection to ::FFFF:5544:BE5 via (TCP)
+Mon May 15 11:58:37 2017: Authentication to 186.0.204.114 : failure
+Mon May 15 11:58:37 2017: Initiating connection to ::FFFF:555D:3C5F via (TCP)
+Mon May 15 11:58:37 2017: Authentication to 109.15.171.216 : ok
+Mon May 15 11:58:37 2017: Authentication to ::FFFF:5544:BE5 : failure
+Mon May 15 11:58:37 2017: Connection closed
+Mon May 15 11:58:37 2017: Initiating connection to ::FFFF:5563:56DB via (TCP)
+Mon May 15 11:58:37 2017: Initiating connection to ::FFFF:55E0:EE34 via (TCP)
+Mon May 15 11:58:37 2017: Timeout occurred
+Mon May 15 11:58:37 2017: Authentication to 212.35.12.159 : failure
+Mon May 15 11:58:37 2017: Timeout occurred
+Mon May 15 11:58:37 2017: Authentication to 217.105.147.220 : failure
+Mon May 15 11:58:37 2017: Timeout occurred
+Mon May 15 11:58:37 2017: Authentication to ::FFFF:4CBF:4C4D : failure
+Mon May 15 11:58:37 2017: Initiating connection to ::FFFF:55F3:E86F via (TCP)
+Mon May 15 11:58:37 2017: Initiating connection to ::FFFF:5605:3518 via (TCP)
+Mon May 15 11:58:37 2017: Initiating connection to ::FFFF:561F:7A40 via (TCP)
+Mon May 15 11:58:37 2017: Authentication to ::FFFF:5563:56DB : failure
+Mon May 15 11:58:37 2017: Initiating connection to ::FFFF:56E5:F8F4 via (TCP)
+Mon May 15 11:58:37 2017: Timeout occurred
+Mon May 15 11:58:37 2017: Authentication to ::FFFF:4EC0:AA73 : failure
+Mon May 15 11:58:38 2017: Authentication to ::FFFF:55F3:E86F : ok
+Mon May 15 11:58:38 2017: Authentication to ::FFFF:5605:3518 : ok
+Mon May 15 11:58:38 2017: Authentication to ::FFFF:5605:3518 : failure
+Mon May 15 11:58:38 2017: Initiating connection to ::FFFF:5740:2F21 via (TCP)
+Mon May 15 11:58:38 2017: Initiating connection to ::FFFF:580D:B783 via (TCP)
+Mon May 15 11:58:38 2017: Initiating connection to ::FFFF:5842:445B via (TCP)
+Mon May 15 11:58:38 2017: Timeout occurred
+Mon May 15 11:58:38 2017: Authentication to ::FFFF:4F1B:B438 : failure
+Mon May 15 11:58:38 2017: Timeout occurred
+Mon May 15 11:58:38 2017: Authentication to ::FFFF:4FAF:348 : failure
+Mon May 15 11:58:38 2017: Timeout occurred
+Mon May 15 11:58:38 2017: Authentication to ::FFFF:4FEB:1B92 : failure
+Mon May 15 11:58:38 2017: Connection closed
+Mon May 15 11:58:38 2017: Connection closed
+Mon May 15 11:58:38 2017: Initiating connection to ::FFFF:5887:3FB7 via (TCP)
+Mon May 15 11:58:38 2017: Initiating connection to ::FFFF:58B2:66EC via (TCP)
+Mon May 15 11:58:38 2017: Initiating connection to ::FFFF:58B4:DABC via (TCP)
+Mon May 15 11:58:38 2017: Authentication to ::FFFF:56E5:F8F4 : failure
+Mon May 15 11:58:38 2017: Initiating connection to ::FFFF:58C6:119B via (TCP)
+Mon May 15 11:58:38 2017: PEX: found 88 peers
+Mon May 15 11:58:38 2017: Timeout occurred
+Mon May 15 11:58:38 2017: Authentication to ::FFFF:506C:4A41 : failure
+Mon May 15 11:58:39 2017: Initiating connection to 2.235.175.226 via (TCP)
+Mon May 15 11:58:39 2017: Timeout occurred
+Mon May 15 11:58:39 2017: Authentication to ::FFFF:5102:667D : failure
+Mon May 15 11:58:39 2017: Timeout occurred
+Mon May 15 11:58:39 2017: Authentication to ::FFFF:5128:8105 : failure
+Mon May 15 11:58:39 2017: Timeout occurred
+Mon May 15 11:58:39 2017: Authentication to ::FFFF:519C:5663 : failure
+Mon May 15 11:58:39 2017: Authentication to ::FFFF:58B2:66EC : ok
+Mon May 15 11:58:39 2017: Initiating connection to 5.79.74.32 via (TCP)
+Mon May 15 11:58:39 2017: Initiating connection to 5.100.79.24 via (TCP)
+Mon May 15 11:58:39 2017: Initiating connection to 5.135.181.92 via (TCP)
+Mon May 15 11:58:39 2017: Initiating connection to 5.186.88.131 via (TCP)
+Mon May 15 11:58:39 2017: Authentication to ::FFFF:58C6:119B : ok
+Mon May 15 11:58:39 2017: Authentication to ::FFFF:58C6:119B : failure
+Mon May 15 11:58:39 2017: Authentication to 2.235.175.226 : failure
+Mon May 15 11:58:39 2017: Initiating connection to 24.125.100.253 via (TCP)
+Mon May 15 11:58:39 2017: Initiating connection to 24.128.160.111 via (TCP)
+Mon May 15 11:58:39 2017: Authentication to 5.79.74.32 : ok
+Mon May 15 11:58:39 2017: Authentication to 5.135.181.92 : ok
+Mon May 15 11:58:39 2017: Authentication to 5.135.181.92 : failure
+Mon May 15 11:58:39 2017: Authentication to 5.186.88.131 : failure
+Mon May 15 11:58:39 2017: Connection closed
+Mon May 15 11:58:39 2017: Initiating connection to 24.144.57.192 via (TCP)
+Mon May 15 11:58:39 2017: Initiating connection to 37.187.4.194 via (TCP)
+Mon May 15 11:58:39 2017: Initiating connection to 37.187.102.234 via (TCP)
+Mon May 15 11:58:40 2017: Authentication to 24.128.160.111 : ok
+Mon May 15 11:58:40 2017: Authentication to 24.128.160.111 : failure
+Mon May 15 11:58:40 2017: Connection closed
+Mon May 15 11:58:40 2017: Initiating connection to 45.58.224.130 via (TCP)
+Mon May 15 11:58:40 2017: Timeout occurred
+Mon May 15 11:58:40 2017: Authentication to ::FFFF:524C:A3CB : failure
+Mon May 15 11:58:40 2017: Authentication to 5.100.79.24 : ok
+Mon May 15 11:58:40 2017: Authentication to 24.125.100.253 : ok
+Mon May 15 11:58:40 2017: Authentication to 24.144.57.192 : ok
+Mon May 15 11:58:40 2017: PEX: found 5 peers
+Mon May 15 11:58:40 2017: Connection closed
+Mon May 15 11:58:40 2017: Initiating connection to 47.136.201.29 via (TCP)
+Mon May 15 11:58:40 2017: Initiating connection to 50.38.34.135 via (TCP)
+Mon May 15 11:58:40 2017: Initiating connection to 50.47.54.50 via (TCP)
+Mon May 15 11:58:40 2017: Initiating connection to 62.98.181.172 via (TCP)
+Mon May 15 11:58:40 2017: Authentication to 37.187.102.234 : ok
+Mon May 15 11:58:40 2017: Initiating connection to 64.137.250.246 via (TCP)
+Mon May 15 11:58:40 2017: Timeout occurred
+Mon May 15 11:58:40 2017: Authentication to ::FFFF:52A9:1519 : failure
+Mon May 15 11:58:40 2017: Authentication to 47.136.201.29 : ok
+Mon May 15 11:58:40 2017: Authentication to 50.47.54.50 : failure
+Mon May 15 11:58:40 2017: Initiating connection to 67.87.172.214 via (TCP)
+Mon May 15 11:58:40 2017: Initiating connection to 67.175.29.184 via (TCP)
+Mon May 15 11:58:40 2017: Initiating connection to 68.149.151.158 via (TCP)
+Mon May 15 11:58:40 2017: Timeout occurred
+Mon May 15 11:58:40 2017: Authentication to ::FFFF:532E:CBA5 : failure
+Mon May 15 11:58:41 2017: Authentication to 50.38.34.135 : failure
+Mon May 15 11:58:41 2017: Authentication to 64.137.250.246 : failure
+Mon May 15 11:58:41 2017: Connection closed
+Mon May 15 11:58:41 2017: Initiating connection to 68.185.137.27 via (TCP)
+Mon May 15 11:58:41 2017: Initiating connection to 70.29.82.254 via (TCP)
+Mon May 15 11:58:41 2017: Initiating connection to 70.95.162.80 via (TCP)
+Mon May 15 11:58:41 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 11:58:41 2017: Timeout occurred
+Mon May 15 11:58:41 2017: Authentication to ::FFFF:5402:49A2 : failure
+Mon May 15 11:58:41 2017: Authentication to 67.175.29.184 : ok
+Mon May 15 11:58:41 2017: Authentication to 67.175.29.184 : failure
+Mon May 15 11:58:41 2017: Authentication to 68.149.151.158 : ok
+Mon May 15 11:58:41 2017: Authentication to 68.149.151.158 : failure
+Mon May 15 11:58:41 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 11:58:41 2017: Initiating connection to 71.174.233.168 via (TCP)
+Mon May 15 11:58:41 2017: Initiating connection to 72.201.91.84 via (TCP)
+Mon May 15 11:58:41 2017: Timeout occurred
+Mon May 15 11:58:41 2017: Authentication to ::FFFF:545C:2C96 : failure
+Mon May 15 11:58:41 2017: Authentication to 67.87.172.214 : ok
+Mon May 15 11:58:41 2017: Authentication to 67.87.172.214 : failure
+Mon May 15 11:58:41 2017: Authentication to 70.29.82.254 : ok
+Mon May 15 11:58:41 2017: Authentication to 70.29.82.254 : failure
+Mon May 15 11:58:41 2017: Authentication to 70.95.162.80 : ok
+Mon May 15 11:58:41 2017: Authentication to 70.95.162.80 : failure
+Mon May 15 11:58:41 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 11:58:41 2017: Connection closed
+Mon May 15 11:58:41 2017: Initiating connection to 74.57.70.123 via (TCP)
+Mon May 15 11:58:41 2017: Initiating connection to 76.100.166.254 via (TCP)
+Mon May 15 11:58:41 2017: Initiating connection to 77.201.68.183 via (TCP)
+Mon May 15 11:58:41 2017: Initiating connection to 78.22.83.18 via (TCP)
+Mon May 15 11:58:41 2017: Initiating connection to 78.97.173.94 via (TCP)
+Mon May 15 11:58:41 2017: Authentication to 71.174.233.168 : failure
+Mon May 15 11:58:41 2017: Authentication to 72.201.91.84 : ok
+Mon May 15 11:58:41 2017: Connection closed
+Mon May 15 11:58:41 2017: Initiating connection to 78.152.136.164 via (TCP)
+Mon May 15 11:58:41 2017: Initiating connection to 79.98.220.119 via (TCP)
+Mon May 15 11:58:41 2017: Timeout occurred
+Mon May 15 11:58:41 2017: Authentication to 94.254.144.168 : failure
+Mon May 15 11:58:41 2017: Timeout occurred
+Mon May 15 11:58:41 2017: Authentication to ::FFFF:54EC:7F4B : failure
+Mon May 15 11:58:42 2017: Authentication to 74.57.70.123 : failure
+Mon May 15 11:58:42 2017: Authentication to 76.100.166.254 : failure
+Mon May 15 11:58:42 2017: Authentication to 77.201.68.183 : ok
+Mon May 15 11:58:42 2017: Authentication to 77.201.68.183 : failure
+Mon May 15 11:58:42 2017: PEX: found 19 peers
+Mon May 15 11:58:42 2017: PEX: found 9 peers
+Mon May 15 11:58:42 2017: Initiating connection to 2.235.175.226 via (TCP)
+Mon May 15 11:58:42 2017: Initiating connection to 37.187.102.234 via (TCP)
+Mon May 15 11:58:42 2017: Initiating connection to 47.187.110.141 via (TCP)
+Mon May 15 11:58:42 2017: Initiating connection to 50.47.54.50 via (TCP)
+Mon May 15 11:58:42 2017: Initiating connection to 62.85.32.33 via (TCP)
+Mon May 15 11:58:42 2017: Timeout occurred
+Mon May 15 11:58:42 2017: Authentication to ::FFFF:555D:3C5F : failure
+Mon May 15 11:58:42 2017: Authentication to 78.152.136.164 : ok
+Mon May 15 11:58:42 2017: Authentication to 78.152.136.164 : failure
+Mon May 15 11:58:42 2017: Authentication to 79.98.220.119 : failure
+Mon May 15 11:58:42 2017: PEX: found 6 peers
+Mon May 15 11:58:42 2017: Connection closed
+Mon May 15 11:58:42 2017: Initiating connection to 68.149.68.81 via (TCP)
+Mon May 15 11:58:42 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 11:58:42 2017: Initiating connection to 73.198.114.100 via (TCP)
+Mon May 15 11:58:42 2017: Timeout occurred
+Mon May 15 11:58:42 2017: Authentication to ::FFFF:55E0:EE34 : failure
+Mon May 15 11:58:42 2017: Authentication to 47.187.110.141 : failure
+Mon May 15 11:58:42 2017: Authentication to 50.47.54.50 : failure
+Mon May 15 11:58:42 2017: Authentication to 62.85.32.33 : failure
+Mon May 15 11:58:42 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 11:58:42 2017: Connection closed
+Mon May 15 11:58:42 2017: Initiating connection to 78.235.89.214 via (TCP)
+Mon May 15 11:58:42 2017: Initiating connection to 80.7.35.78 via (TCP)
+Mon May 15 11:58:42 2017: Initiating connection to 80.95.67.184 via (TCP)
+Mon May 15 11:58:42 2017: Initiating connection to 80.101.63.133 via (TCP)
+Mon May 15 11:58:42 2017: Initiating connection to 80.197.146.219 via (TCP)
+Mon May 15 11:58:42 2017: Timeout occurred
+Mon May 15 11:58:42 2017: Authentication to ::FFFF:561F:7A40 : failure
+Mon May 15 11:58:42 2017: Authentication to 2.235.175.226 : ok
+Mon May 15 11:58:42 2017: Authentication to 2.235.175.226 : failure
+Mon May 15 11:58:42 2017: Authentication to 37.187.102.234 : failure
+Mon May 15 11:58:42 2017: Authentication to 68.149.68.81 : ok
+Mon May 15 11:58:42 2017: Authentication to 68.149.68.81 : failure
+Mon May 15 11:58:42 2017: Authentication to 73.198.114.100 : failure
+Mon May 15 11:58:42 2017: Initiating connection to 81.67.45.173 via (TCP)
+Mon May 15 11:58:42 2017: Initiating connection to 81.183.183.229 via (TCP)
+Mon May 15 11:58:42 2017: Initiating connection to 81.191.65.128 via (TCP)
+Mon May 15 11:58:42 2017: Initiating connection to 81.203.43.32 via (TCP)
+Mon May 15 11:58:42 2017: Initiating connection to 81.220.169.48 via (TCP)
+Mon May 15 11:58:42 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 11:58:43 2017: Authentication to 78.97.173.94 : failure
+Mon May 15 11:58:43 2017: Authentication to 80.7.35.78 : ok
+Mon May 15 11:58:43 2017: Authentication to 80.7.35.78 : failure
+Mon May 15 11:58:43 2017: Authentication to 80.95.67.184 : failure
+Mon May 15 11:58:43 2017: Initiating connection to 82.39.41.233 via (TCP)
+Mon May 15 11:58:43 2017: Initiating connection to 82.78.118.206 via (TCP)
+Mon May 15 11:58:43 2017: Initiating connection to 83.36.88.142 via (TCP)
+Mon May 15 11:58:43 2017: Timeout occurred
+Mon May 15 11:58:43 2017: Authentication to ::FFFF:5740:2F21 : failure
+Mon May 15 11:58:43 2017: Timeout occurred
+Mon May 15 11:58:43 2017: Authentication to ::FFFF:580D:B783 : failure
+Mon May 15 11:58:43 2017: Timeout occurred
+Mon May 15 11:58:43 2017: Authentication to ::FFFF:5842:445B : failure
+Mon May 15 11:58:43 2017: Authentication to 78.235.89.214 : ok
+Mon May 15 11:58:43 2017: Authentication to 78.235.89.214 : failure
+Mon May 15 11:58:43 2017: Authentication to 80.101.63.133 : ok
+Mon May 15 11:58:43 2017: Authentication to 81.67.45.173 : failure
+Mon May 15 11:58:43 2017: Authentication to 81.220.169.48 : failure
+Mon May 15 11:58:43 2017: Authentication to 82.78.118.206 : failure
+Mon May 15 11:58:43 2017: PEX: found 6 peers
+Mon May 15 11:58:43 2017: Initiating connection to 67.87.172.214 via (TCP)
+Mon May 15 11:58:43 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 11:58:43 2017: Initiating connection to 83.78.128.222 via (TCP)
+Mon May 15 11:58:43 2017: Initiating connection to 84.0.106.200 via (TCP)
+Mon May 15 11:58:43 2017: Initiating connection to 84.2.73.162 via (TCP)
+Mon May 15 11:58:43 2017: Initiating connection to 84.105.76.193 via (TCP)
+Mon May 15 11:58:43 2017: Initiating connection to 84.217.43.10 via (TCP)
+Mon May 15 11:58:43 2017: Initiating connection to 84.236.42.213 via (TCP)
+Mon May 15 11:58:43 2017: Timeout occurred
+Mon May 15 11:58:43 2017: Authentication to ::FFFF:5887:3FB7 : failure
+Mon May 15 11:58:43 2017: Timeout occurred
+Mon May 15 11:58:43 2017: Authentication to ::FFFF:58B4:DABC : failure
+Mon May 15 11:58:43 2017: Authentication to 80.197.146.219 : ok
+Mon May 15 11:58:43 2017: Authentication to 81.183.183.229 : failure
+Mon May 15 11:58:43 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 11:58:43 2017: Authentication to 83.78.128.222 : failure
+Mon May 15 11:58:43 2017: PEX: found 7 peers
+Mon May 15 11:58:43 2017: PEX: found 9 peers
+Mon May 15 11:58:43 2017: Initiating connection to 58.96.127.18 via (TCP)
+Mon May 15 11:58:43 2017: Initiating connection to 67.87.172.214 via (TCP)
+Mon May 15 11:58:43 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 11:58:43 2017: Initiating connection to 79.27.180.56 via (TCP)
+Mon May 15 11:58:43 2017: Initiating connection to 81.191.65.128 via (TCP)
+Mon May 15 11:58:43 2017: Initiating connection to 84.245.13.143 via (TCP)
+Mon May 15 11:58:43 2017: Authentication to 82.39.41.233 : ok
+Mon May 15 11:58:43 2017: Authentication to 82.39.41.233 : failure
+Mon May 15 11:58:43 2017: Authentication to 84.0.106.200 : ok
+Mon May 15 11:58:43 2017: Authentication to 84.105.76.193 : failure
+Mon May 15 11:58:43 2017: Authentication to 84.217.43.10 : failure
+Mon May 15 11:58:43 2017: Authentication to 58.96.127.18 : failure
+Mon May 15 11:58:43 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 11:58:43 2017: Initiating connection to 85.56.183.17 via (TCP)
+Mon May 15 11:58:43 2017: Initiating connection to 85.74.170.228 via (TCP)
+Mon May 15 11:58:43 2017: Initiating connection to 85.98.22.128 via (TCP)
+Mon May 15 11:58:43 2017: Initiating connection to 85.167.20.117 via (TCP)
+Mon May 15 11:58:43 2017: Initiating connection to 85.183.149.50 via (TCP)
+Mon May 15 11:58:43 2017: Initiating connection to 86.1.132.119 via (TCP)
+Mon May 15 11:58:44 2017: Authentication to 67.87.172.214 : ok
+Mon May 15 11:58:44 2017: Authentication to 84.236.42.213 : ok
+Mon May 15 11:58:44 2017: Authentication to 84.236.42.213 : failure
+Mon May 15 11:58:44 2017: Authentication to 67.87.172.214 : failure
+Mon May 15 11:58:44 2017: Authentication to 84.245.13.143 : failure
+Mon May 15 11:58:44 2017: Connection closed
+Mon May 15 11:58:44 2017: PEX: found 18 peers
+Mon May 15 11:58:44 2017: Connection closed
+Mon May 15 11:58:44 2017: Initiating connection to 2.238.145.139 via (TCP)
+Mon May 15 11:58:44 2017: Initiating connection to 45.59.142.38 via (TCP)
+Mon May 15 11:58:44 2017: Initiating connection to 47.187.110.141 via (TCP)
+Mon May 15 11:58:44 2017: Initiating connection to 58.96.127.18 via (TCP)
+Mon May 15 11:58:44 2017: Authentication to 85.167.20.117 : ok
+Mon May 15 11:58:44 2017: Authentication to 85.167.20.117 : failure
+Mon May 15 11:58:44 2017: Authentication to 86.1.132.119 : ok
+Mon May 15 11:58:44 2017: Authentication to 86.1.132.119 : failure
+Mon May 15 11:58:44 2017: Authentication to 58.96.127.18 : failure
+Mon May 15 11:58:44 2017: PEX: found 8 peers
+Mon May 15 11:58:44 2017: Initiating connection to 62.102.148.156 via (TCP)
+Mon May 15 11:58:44 2017: Initiating connection to 69.29.89.113 via (TCP)
+Mon May 15 11:58:44 2017: Initiating connection to 70.95.162.80 via (TCP)
+Mon May 15 11:58:44 2017: Authentication to 85.56.183.17 : ok
+Mon May 15 11:58:44 2017: Authentication to 45.59.142.38 : failure
+Mon May 15 11:58:44 2017: PEX: found 23 peers
+Mon May 15 11:58:44 2017: PEX: found 5 peers
+Mon May 15 11:58:44 2017: Connection closed
+Mon May 15 11:58:44 2017: Initiating connection to 37.187.102.234 via (TCP)
+Mon May 15 11:58:44 2017: Initiating connection to 68.149.68.81 via (TCP)
+Mon May 15 11:58:44 2017: Authentication to 85.98.22.128 : ok
+Mon May 15 11:58:44 2017: Authentication to 47.187.110.141 : ok
+Mon May 15 11:58:44 2017: Authentication to 47.187.110.141 : failure
+Mon May 15 11:58:44 2017: Authentication to 70.95.162.80 : failure
+Mon May 15 11:58:44 2017: Connection closed
+Mon May 15 11:58:44 2017: Initiating connection to 69.29.89.113 via (TCP)
+Mon May 15 11:58:44 2017: Initiating connection to 70.29.82.254 via (TCP)
+Mon May 15 11:58:44 2017: Initiating connection to 70.95.162.80 via (TCP)
+Mon May 15 11:58:44 2017: Timeout occurred
+Mon May 15 11:58:44 2017: Authentication to 37.187.4.194 : failure
+Mon May 15 11:58:45 2017: Authentication to 62.102.148.156 : failure
+Mon May 15 11:58:45 2017: Authentication to 37.187.102.234 : failure
+Mon May 15 11:58:45 2017: Authentication to 68.149.68.81 : ok
+Mon May 15 11:58:45 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 11:58:45 2017: Initiating connection to 71.174.233.168 via (TCP)
+Mon May 15 11:58:45 2017: Initiating connection to 73.198.114.100 via (TCP)
+Mon May 15 11:58:45 2017: Initiating connection to 77.201.68.183 via (TCP)
+Mon May 15 11:58:45 2017: Timeout occurred
+Mon May 15 11:58:45 2017: Authentication to 45.58.224.130 : failure
+Mon May 15 11:58:45 2017: Authentication to 2.238.145.139 : ok
+Mon May 15 11:58:45 2017: Authentication to 2.238.145.139 : failure
+Mon May 15 11:58:45 2017: Authentication to 70.29.82.254 : ok
+Mon May 15 11:58:45 2017: Authentication to 70.29.82.254 : failure
+Mon May 15 11:58:45 2017: Authentication to 70.95.162.80 : failure
+Mon May 15 11:58:45 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 11:58:45 2017: Initiating connection to 78.235.89.214 via (TCP)
+Mon May 15 11:58:45 2017: Initiating connection to 80.7.35.78 via (TCP)
+Mon May 15 11:58:45 2017: Initiating connection to 80.98.228.122 via (TCP)
+Mon May 15 11:58:45 2017: Initiating connection to 80.101.63.133 via (TCP)
+Mon May 15 11:58:45 2017: Initiating connection to 80.197.146.219 via (TCP)
+Mon May 15 11:58:45 2017: Timeout occurred
+Mon May 15 11:58:45 2017: Authentication to 62.98.181.172 : failure
+Mon May 15 11:58:45 2017: Authentication to 85.74.170.228 : ok
+Mon May 15 11:58:45 2017: Authentication to 71.174.233.168 : ok
+Mon May 15 11:58:45 2017: Authentication to 71.174.233.168 : failure
+Mon May 15 11:58:45 2017: Authentication to 73.198.114.100 : failure
+Mon May 15 11:58:45 2017: Authentication to 77.201.68.183 : ok
+Mon May 15 11:58:45 2017: Authentication to 77.201.68.183 : failure
+Mon May 15 11:58:45 2017: Initiating connection to 81.191.65.128 via (TCP)
+Mon May 15 11:58:45 2017: Initiating connection to 81.203.43.32 via (TCP)
+Mon May 15 11:58:45 2017: Initiating connection to 84.0.106.200 via (TCP)
+Mon May 15 11:58:45 2017: Initiating connection to 86.1.132.119 via (TCP)
+Mon May 15 11:58:45 2017: Initiating connection to 86.131.90.169 via (TCP)
+Mon May 15 11:58:45 2017: Authentication to 80.98.228.122 : ok
+Mon May 15 11:58:45 2017: Authentication to 80.101.63.133 : failure
+Mon May 15 11:58:45 2017: Authentication to 80.197.146.219 : failure
+Mon May 15 11:58:45 2017: Connection closed
+Mon May 15 11:58:45 2017: Initiating connection to 86.211.212.126 via (TCP)
+Mon May 15 11:58:45 2017: Initiating connection to 86.229.248.244 via (TCP)
+Mon May 15 11:58:45 2017: Initiating connection to 88.198.224.202 via (TCP)
+Mon May 15 11:58:46 2017: Authentication to 80.7.35.78 : ok
+Mon May 15 11:58:46 2017: Authentication to 84.0.106.200 : ok
+Mon May 15 11:58:46 2017: Authentication to 86.1.132.119 : ok
+Mon May 15 11:58:46 2017: Authentication to 86.1.132.119 : failure
+Mon May 15 11:58:46 2017: Authentication to 86.131.90.169 : ok
+Mon May 15 11:58:46 2017: Authentication to 86.131.90.169 : failure
+Mon May 15 11:58:46 2017: PEX: found 11 peers
+Mon May 15 11:58:46 2017: Connection closed
+Mon May 15 11:58:46 2017: Initiating connection to 50.47.54.50 via (TCP)
+Mon May 15 11:58:46 2017: Initiating connection to 58.96.127.18 via (TCP)
+Mon May 15 11:58:46 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 11:58:46 2017: Initiating connection to 80.197.146.219 via (TCP)
+Mon May 15 11:58:46 2017: Timeout occurred
+Mon May 15 11:58:46 2017: Authentication to 68.185.137.27 : failure
+Mon May 15 11:58:46 2017: Authentication to 78.235.89.214 : ok
+Mon May 15 11:58:46 2017: Authentication to 86.229.248.244 : failure
+Mon May 15 11:58:46 2017: Authentication to 58.96.127.18 : failure
+Mon May 15 11:58:46 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 11:58:46 2017: Connection closed
+Mon May 15 11:58:46 2017: Connection closed
+Mon May 15 11:58:46 2017: Initiating connection to 81.191.65.128 via (TCP)
+Mon May 15 11:58:46 2017: Initiating connection to 88.198.17.155 via (TCP)
+Mon May 15 11:58:46 2017: Initiating connection to 89.73.113.61 via (TCP)
+Mon May 15 11:58:46 2017: Initiating connection to 89.138.177.165 via (TCP)
+Mon May 15 11:58:46 2017: Initiating connection to 91.64.162.28 via (TCP)
+Mon May 15 11:58:46 2017: Authentication to 88.198.224.202 : failure
+Mon May 15 11:58:46 2017: Authentication to 91.64.162.28 : failure
+Mon May 15 11:58:46 2017: PEX: found 9 peers
+Mon May 15 11:58:46 2017: Initiating connection to 58.96.127.18 via (TCP)
+Mon May 15 11:58:46 2017: Initiating connection to 67.87.172.214 via (TCP)
+Mon May 15 11:58:46 2017: Timeout occurred
+Mon May 15 11:58:46 2017: Authentication to 78.22.83.18 : failure
+Mon May 15 11:58:46 2017: Authentication to 80.197.146.219 : failure
+Mon May 15 11:58:46 2017: Authentication to 88.198.17.155 : failure
+Mon May 15 11:58:46 2017: Authentication to 89.73.113.61 : failure
+Mon May 15 11:58:46 2017: Authentication to 58.96.127.18 : failure
+Mon May 15 11:58:46 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 11:58:46 2017: Initiating connection to 79.27.180.56 via (TCP)
+Mon May 15 11:58:46 2017: Initiating connection to 92.7.244.222 via (TCP)
+Mon May 15 11:58:46 2017: Initiating connection to 92.221.146.192 via (TCP)
+Mon May 15 11:58:46 2017: Initiating connection to 92.222.91.112 via (TCP)
+Mon May 15 11:58:47 2017: Authentication to 50.47.54.50 : ok
+Mon May 15 11:58:47 2017: Authentication to 50.47.54.50 : failure
+Mon May 15 11:58:47 2017: Authentication to 89.138.177.165 : failure
+Mon May 15 11:58:47 2017: Authentication to 67.87.172.214 : ok
+Mon May 15 11:58:47 2017: Authentication to 67.87.172.214 : failure
+Mon May 15 11:58:47 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 11:58:47 2017: Initiating connection to 93.65.120.21 via (TCP)
+Mon May 15 11:58:47 2017: Initiating connection to 94.21.82.255 via (TCP)
+Mon May 15 11:58:47 2017: Initiating connection to 94.32.213.184 via (TCP)
+Mon May 15 11:58:47 2017: Initiating connection to 94.181.94.218 via (TCP)
+Mon May 15 11:58:47 2017: Authentication to 92.221.146.192 : ok
+Mon May 15 11:58:47 2017: Authentication to 93.65.120.21 : ok
+Mon May 15 11:58:47 2017: PEX: found 18 peers
+Mon May 15 11:58:47 2017: Initiating connection to 37.187.102.234 via (TCP)
+Mon May 15 11:58:47 2017: Initiating connection to 68.149.68.81 via (TCP)
+Mon May 15 11:58:47 2017: Authentication to 92.222.91.112 : ok
+Mon May 15 11:58:47 2017: Authentication to 92.222.91.112 : failure
+Mon May 15 11:58:47 2017: Authentication to 94.21.82.255 : ok
+Mon May 15 11:58:47 2017: Connection closed
+Mon May 15 11:58:47 2017: Initiating connection to 69.29.89.113 via (TCP)
+Mon May 15 11:58:47 2017: Initiating connection to 70.95.162.80 via (TCP)
+Mon May 15 11:58:47 2017: Timeout occurred
+Mon May 15 11:58:47 2017: Authentication to 81.191.65.128 : failure
+Mon May 15 11:58:47 2017: Timeout occurred
+Mon May 15 11:58:47 2017: Authentication to 81.203.43.32 : failure
+Mon May 15 11:58:48 2017: Authentication to 68.149.68.81 : ok
+Mon May 15 11:58:48 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 11:58:48 2017: Initiating connection to 72.201.91.84 via (TCP)
+Mon May 15 11:58:48 2017: Initiating connection to 78.235.89.214 via (TCP)
+Mon May 15 11:58:48 2017: Timeout occurred
+Mon May 15 11:58:48 2017: Authentication to 83.36.88.142 : failure
+Mon May 15 11:58:48 2017: Authentication to 70.95.162.80 : failure
+Mon May 15 11:58:48 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 11:58:48 2017: Initiating connection to 80.7.35.78 via (TCP)
+Mon May 15 11:58:48 2017: Initiating connection to 80.197.146.219 via (TCP)
+Mon May 15 11:58:48 2017: Initiating connection to 81.203.43.32 via (TCP)
+Mon May 15 11:58:48 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 11:58:48 2017: Timeout occurred
+Mon May 15 11:58:48 2017: Authentication to 84.2.73.162 : failure
+Mon May 15 11:58:48 2017: Authentication to 37.187.102.234 : ok
+Mon May 15 11:58:48 2017: Authentication to 72.201.91.84 : failure
+Mon May 15 11:58:48 2017: PEX: found 6 peers
+Mon May 15 11:58:48 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 11:58:48 2017: Initiating connection to 86.1.132.119 via (TCP)
+Mon May 15 11:58:48 2017: Initiating connection to 88.198.224.202 via (TCP)
+Mon May 15 11:58:48 2017: Timeout occurred
+Mon May 15 11:58:48 2017: Authentication to 79.27.180.56 : failure
+Mon May 15 11:58:48 2017: Timeout occurred
+Mon May 15 11:58:48 2017: Authentication to 81.191.65.128 : failure
+Mon May 15 11:58:48 2017: Authentication to 78.235.89.214 : failure
+Mon May 15 11:58:48 2017: Authentication to 80.7.35.78 : failure
+Mon May 15 11:58:48 2017: Authentication to 80.197.146.219 : failure
+Mon May 15 11:58:48 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 11:58:48 2017: Initiating connection to 94.210.166.137 via (TCP)
+Mon May 15 11:58:48 2017: Initiating connection to 94.233.167.124 via (TCP)
+Mon May 15 11:58:48 2017: Initiating connection to 94.254.144.168 via (TCP)
+Mon May 15 11:58:48 2017: Initiating connection to 95.54.237.214 via (TCP)
+Mon May 15 11:58:48 2017: Initiating connection to 96.3.190.161 via (TCP)
+Mon May 15 11:58:48 2017: Initiating connection to 98.218.34.60 via (TCP)
+Mon May 15 11:58:48 2017: Timeout occurred
+Mon May 15 11:58:48 2017: Authentication to 85.183.149.50 : failure
+Mon May 15 11:58:49 2017: Authentication to 86.1.132.119 : ok
+Mon May 15 11:58:49 2017: Authentication to 86.1.132.119 : failure
+Mon May 15 11:58:49 2017: Authentication to 88.198.224.202 : failure
+Mon May 15 11:58:49 2017: Authentication to 96.3.190.161 : failure
+Mon May 15 11:58:49 2017: Initiating connection to 103.42.217.52 via (TCP)
+Mon May 15 11:58:49 2017: Initiating connection to 104.238.169.105 via (TCP)
+Mon May 15 11:58:49 2017: Initiating connection to 108.24.252.124 via (TCP)
+Mon May 15 11:58:49 2017: Initiating connection to 109.15.171.216 via (TCP)
+Mon May 15 11:58:49 2017: Authentication to 95.54.237.214 : ok
+Mon May 15 11:58:49 2017: Authentication to 104.238.169.105 : failure
+Mon May 15 11:58:49 2017: Connection closed
+Mon May 15 11:58:49 2017: Initiating connection to 109.129.29.159 via (TCP)
+Mon May 15 11:58:49 2017: Initiating connection to 109.198.128.42 via (TCP)
+Mon May 15 11:58:49 2017: Timeout occurred
+Mon May 15 11:58:49 2017: Authentication to 69.29.89.113 : failure
+Mon May 15 11:58:49 2017: Authentication to 98.218.34.60 : ok
+Mon May 15 11:58:49 2017: Authentication to 109.15.171.216 : ok
+Mon May 15 11:58:49 2017: Connection closed
+Mon May 15 11:58:49 2017: Initiating connection to 112.87.130.40 via (TCP)
+Mon May 15 11:58:49 2017: Initiating connection to 114.113.116.243 via (TCP)
+Mon May 15 11:58:49 2017: Initiating connection to 115.97.37.94 via (TCP)
+Mon May 15 11:58:49 2017: Authentication to 94.210.166.137 : ok
+Mon May 15 11:58:49 2017: Authentication to 109.129.29.159 : ok
+Mon May 15 11:58:49 2017: Authentication to 114.113.116.243 : failure
+Mon May 15 11:58:49 2017: Connection closed
+Mon May 15 11:58:49 2017: Initiating connection to 117.197.71.216 via (TCP)
+Mon May 15 11:58:49 2017: Initiating connection to 118.92.192.31 via (TCP)
+Mon May 15 11:58:49 2017: Initiating connection to 118.189.197.168 via (TCP)
+Mon May 15 11:58:49 2017: Timeout occurred
+Mon May 15 11:58:49 2017: Authentication to 69.29.89.113 : failure
+Mon May 15 11:58:50 2017: Initiating connection to 123.3.217.65 via (TCP)
+Mon May 15 11:58:50 2017: Authentication to 118.189.197.168 : ok
+Mon May 15 11:58:50 2017: PEX: found 5 peers
+Mon May 15 11:58:50 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 11:58:50 2017: Authentication to 109.198.128.42 : ok
+Mon May 15 11:58:50 2017: Authentication to 115.97.37.94 : failure
+Mon May 15 11:58:50 2017: Authentication to 123.3.217.65 : ok
+Mon May 15 11:58:50 2017: Authentication to 123.3.217.65 : failure
+Mon May 15 11:58:50 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 11:58:50 2017: Connection closed
+Mon May 15 11:58:50 2017: Initiating connection to 86.1.132.119 via (TCP)
+Mon May 15 11:58:50 2017: Initiating connection to 104.238.169.105 via (TCP)
+Mon May 15 11:58:50 2017: Initiating connection to 114.113.116.243 via (TCP)
+Mon May 15 11:58:50 2017: Initiating connection to 130.75.178.37 via (TCP)
+Mon May 15 11:58:50 2017: Timeout occurred
+Mon May 15 11:58:50 2017: Authentication to 81.191.65.128 : failure
+Mon May 15 11:58:50 2017: Timeout occurred
+Mon May 15 11:58:50 2017: Authentication to 81.203.43.32 : failure
+Mon May 15 11:58:50 2017: Authentication to 117.197.71.216 : failure
+Mon May 15 11:58:50 2017: Authentication to 118.92.192.31 : failure
+Mon May 15 11:58:50 2017: Authentication to 104.238.169.105 : failure
+Mon May 15 11:58:50 2017: Authentication to 114.113.116.243 : failure
+Mon May 15 11:58:50 2017: Connection closed
+Mon May 15 11:58:50 2017: Initiating connection to 130.111.182.45 via (TCP)
+Mon May 15 11:58:50 2017: Initiating connection to 136.32.213.237 via (TCP)
+Mon May 15 11:58:50 2017: Initiating connection to 136.61.48.57 via (TCP)
+Mon May 15 11:58:50 2017: Initiating connection to 148.0.121.156 via (TCP)
+Mon May 15 11:58:50 2017: Initiating connection to 151.80.44.75 via (TCP)
+Mon May 15 11:58:50 2017: Initiating connection to 157.50.14.230 via (TCP)
+Mon May 15 11:58:50 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 11:58:50 2017: Timeout occurred
+Mon May 15 11:58:50 2017: Authentication to 86.211.212.126 : failure
+Mon May 15 11:58:51 2017: Authentication to 92.7.244.222 : ok
+Mon May 15 11:58:51 2017: Authentication to 86.1.132.119 : ok
+Mon May 15 11:58:51 2017: Authentication to 86.1.132.119 : failure
+Mon May 15 11:58:51 2017: Authentication to 130.75.178.37 : failure
+Mon May 15 11:58:51 2017: Connection closed
+Mon May 15 11:58:51 2017: Initiating connection to 173.239.230.77 via (TCP)
+Mon May 15 11:58:51 2017: Initiating connection to 178.192.14.112 via (TCP)
+Mon May 15 11:58:51 2017: Initiating connection to 184.59.137.247 via (TCP)
+Mon May 15 11:58:51 2017: Initiating connection to 186.0.204.114 via (TCP)
+Mon May 15 11:58:51 2017: Authentication to 130.111.182.45 : failure
+Mon May 15 11:58:51 2017: Authentication to 173.239.230.77 : failure
+Mon May 15 11:58:51 2017: Authentication to 186.0.204.114 : failure
+Mon May 15 11:58:51 2017: Connection closed
+Mon May 15 11:58:51 2017: Initiating connection to 188.72.104.48 via (TCP)
+Mon May 15 11:58:51 2017: Initiating connection to 188.165.250.220 via (TCP)
+Mon May 15 11:58:51 2017: Initiating connection to 195.234.20.195 via (TCP)
+Mon May 15 11:58:51 2017: Timeout occurred
+Mon May 15 11:58:51 2017: Authentication to 81.191.65.128 : failure
+Mon May 15 11:58:51 2017: Authentication to 136.32.213.237 : ok
+Mon May 15 11:58:51 2017: Authentication to 151.80.44.75 : ok
+Mon May 15 11:58:51 2017: Authentication to 151.80.44.75 : failure
+Mon May 15 11:58:51 2017: Initiating connection to 197.148.44.91 via (TCP)
+Mon May 15 11:58:51 2017: Initiating connection to 206.223.208.40 via (TCP)
+Mon May 15 11:58:51 2017: Initiating connection to 207.155.50.196 via (TCP)
+Mon May 15 11:58:51 2017: Authentication to 136.61.48.57 : ok
+Mon May 15 11:58:51 2017: Authentication to 148.0.121.156 : ok
+Mon May 15 11:58:51 2017: Authentication to 184.59.137.247 : failure
+Mon May 15 11:58:51 2017: Authentication to 188.165.250.220 : ok
+Mon May 15 11:58:51 2017: Initiating connection to 212.24.102.20 via (TCP)
+Mon May 15 11:58:51 2017: Initiating connection to 212.33.3.134 via (TCP)
+Mon May 15 11:58:51 2017: Initiating connection to 212.159.118.203 via (TCP)
+Mon May 15 11:58:51 2017: Initiating connection to 213.41.150.98 via (TCP)
+Mon May 15 11:58:51 2017: Timeout occurred
+Mon May 15 11:58:51 2017: Authentication to 79.27.180.56 : failure
+Mon May 15 11:58:52 2017: Authentication to 206.223.208.40 : ok
+Mon May 15 11:58:52 2017: Authentication to 206.223.208.40 : failure
+Mon May 15 11:58:52 2017: Authentication to 207.155.50.196 : failure
+Mon May 15 11:58:52 2017: PEX: found 12 peers
+Mon May 15 11:58:52 2017: PEX: found 3 peers
+Mon May 15 11:58:52 2017: Initiating connection to 46.166.188.251 via (TCP)
+Mon May 15 11:58:52 2017: Initiating connection to 62.102.148.156 via (TCP)
+Mon May 15 11:58:52 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 11:58:52 2017: Timeout occurred
+Mon May 15 11:58:52 2017: Authentication to 94.32.213.184 : failure
+Mon May 15 11:58:52 2017: Timeout occurred
+Mon May 15 11:58:52 2017: Authentication to 94.181.94.218 : failure
+Mon May 15 11:58:52 2017: Authentication to 212.24.102.20 : failure
+Mon May 15 11:58:52 2017: Authentication to 212.159.118.203 : failure
+Mon May 15 11:58:52 2017: Authentication to 46.166.188.251 : failure
+Mon May 15 11:58:52 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 11:58:52 2017: Connection closed
+Mon May 15 11:58:52 2017: PEX: found 5 peers
+Mon May 15 11:58:52 2017: Connection closed
+Mon May 15 11:58:52 2017: Initiating connection to 58.96.127.18 via (TCP)
+Mon May 15 11:58:52 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 11:58:52 2017: Initiating connection to 78.235.89.214 via (TCP)
+Mon May 15 11:58:52 2017: Initiating connection to 81.220.169.48 via (TCP)
+Mon May 15 11:58:52 2017: Initiating connection to 86.211.212.126 via (TCP)
+Mon May 15 11:58:52 2017: Initiating connection to 94.254.144.168 via (TCP)
+Mon May 15 11:58:52 2017: Authentication to 213.41.150.98 : ok
+Mon May 15 11:58:52 2017: Authentication to 58.96.127.18 : failure
+Mon May 15 11:58:52 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 11:58:52 2017: Initiating connection to 114.113.116.243 via (TCP)
+Mon May 15 11:58:52 2017: Initiating connection to 118.92.192.31 via (TCP)
+Mon May 15 11:58:52 2017: Initiating connection to 195.215.85.72 via (TCP)
+Mon May 15 11:58:52 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 11:58:52 2017: Authentication to 114.113.116.243 : failure
+Mon May 15 11:58:52 2017: Initiating connection to 206.223.208.40 via (TCP)
+Mon May 15 11:58:52 2017: Timeout occurred
+Mon May 15 11:58:52 2017: Authentication to 69.29.89.113 : failure
+Mon May 15 11:58:53 2017: Authentication to 197.148.44.91 : failure
+Mon May 15 11:58:53 2017: Authentication to 62.102.148.156 : ok
+Mon May 15 11:58:53 2017: Authentication to 62.102.148.156 : failure
+Mon May 15 11:58:53 2017: Initiating connection to 213.220.227.207 via (TCP)
+Mon May 15 11:58:53 2017: Initiating connection to 216.134.234.50 via (TCP)
+Mon May 15 11:58:53 2017: Initiating connection to 217.77.217.253 via (TCP)
+Mon May 15 11:58:53 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 11:58:53 2017: Authentication to 78.235.89.214 : ok
+Mon May 15 11:58:53 2017: Authentication to 81.220.169.48 : failure
+Mon May 15 11:58:53 2017: Authentication to 206.223.208.40 : ok
+Mon May 15 11:58:53 2017: Authentication to 206.223.208.40 : failure
+Mon May 15 11:58:53 2017: Authentication to 217.77.217.253 : failure
+Mon May 15 11:58:53 2017: Initiating connection to 219.250.109.251 via (TCP)
+Mon May 15 11:58:53 2017: Initiating connection to 220.105.168.132 via (TCP)
+Mon May 15 11:58:53 2017: Initiating connection to ::FFFF:58C6:E0CA via (TCP)
+Mon May 15 11:58:53 2017: Initiating connection to ::FFFF:58CB:79EE via (TCP)
+Mon May 15 11:58:53 2017: Timeout occurred
+Mon May 15 11:58:53 2017: Authentication to 81.203.43.32 : failure
+Mon May 15 11:58:53 2017: Authentication to 118.92.192.31 : ok
+Mon May 15 11:58:53 2017: Authentication to 118.92.192.31 : failure
+Mon May 15 11:58:53 2017: Authentication to 213.220.227.207 : ok
+Mon May 15 11:58:53 2017: Authentication to 213.220.227.207 : failure
+Mon May 15 11:58:53 2017: Authentication to 216.134.234.50 : ok
+Mon May 15 11:58:53 2017: Authentication to 216.134.234.50 : failure
+Mon May 15 11:58:53 2017: Connection closed
+Mon May 15 11:58:53 2017: Initiating connection to ::FFFF:594B:3FE1 via (TCP)
+Mon May 15 11:58:53 2017: Initiating connection to ::FFFF:59A3:C41F via (TCP)
+Mon May 15 11:58:53 2017: Initiating connection to ::FFFF:59E9:E92E via (TCP)
+Mon May 15 11:58:53 2017: Initiating connection to ::FFFF:5A92:BF11 via (TCP)
+Mon May 15 11:58:53 2017: Authentication to 220.105.168.132 : ok
+Mon May 15 11:58:53 2017: Authentication to ::FFFF:58C6:E0CA : failure
+Mon May 15 11:58:53 2017: Authentication to ::FFFF:58CB:79EE : failure
+Mon May 15 11:58:53 2017: Connection closed
+Mon May 15 11:58:53 2017: Connection closed
+Mon May 15 11:58:53 2017: Initiating connection to ::FFFF:5B3F:E279 via (TCP)
+Mon May 15 11:58:53 2017: Initiating connection to ::FFFF:5B56:27A5 via (TCP)
+Mon May 15 11:58:53 2017: Initiating connection to ::FFFF:5BE7:195A via (TCP)
+Mon May 15 11:58:53 2017: Timeout occurred
+Mon May 15 11:58:53 2017: Authentication to 94.233.167.124 : failure
+Mon May 15 11:58:53 2017: Timeout occurred
+Mon May 15 11:58:53 2017: Authentication to 94.254.144.168 : failure
+Mon May 15 11:58:54 2017: Authentication to ::FFFF:59A3:C41F : ok
+Mon May 15 11:58:54 2017: Authentication to ::FFFF:59A3:C41F : failure
+Mon May 15 11:58:54 2017: Authentication to ::FFFF:59E9:E92E : ok
+Mon May 15 11:58:54 2017: Authentication to ::FFFF:5B56:27A5 : failure
+Mon May 15 11:58:54 2017: Authentication to ::FFFF:5BE7:195A : failure
+Mon May 15 11:58:54 2017: Connection closed
+Mon May 15 11:58:54 2017: Initiating connection to ::FFFF:5D2F:77DF via (TCP)
+Mon May 15 11:58:54 2017: Initiating connection to ::FFFF:5E15:52FF via (TCP)
+Mon May 15 11:58:54 2017: Initiating connection to ::FFFF:5E4B:5A42 via (TCP)
+Mon May 15 11:58:54 2017: Initiating connection to ::FFFF:5EB5:5EDA via (TCP)
+Mon May 15 11:58:54 2017: Initiating connection to ::FFFF:5ED2:A689 via (TCP)
+Mon May 15 11:58:54 2017: Initiating connection to ::FFFF:5F1E:DC08 via (TCP)
+Mon May 15 11:58:54 2017: Timeout occurred
+Mon May 15 11:58:54 2017: Authentication to 103.42.217.52 : failure
+Mon May 15 11:58:54 2017: Timeout occurred
+Mon May 15 11:58:54 2017: Authentication to 108.24.252.124 : failure
+Mon May 15 11:58:54 2017: Connection closed
+Mon May 15 11:58:54 2017: Initiating connection to ::FFFF:5F40:D701 via (TCP)
+Mon May 15 11:58:54 2017: Initiating connection to ::FFFF:5F67:22E3 via (TCP)
+Mon May 15 11:58:54 2017: Authentication to ::FFFF:5F67:22E3 : failure
+Mon May 15 11:58:54 2017: Initiating connection to ::FFFF:5F90:B82C via (TCP)
+Mon May 15 11:58:54 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 11:58:54 2017: Timeout occurred
+Mon May 15 11:58:54 2017: Authentication to 112.87.130.40 : failure
+Mon May 15 11:58:54 2017: Authentication to ::FFFF:5ED2:A689 : ok
+Mon May 15 11:58:54 2017: Initiating connection to ::FFFF:605D:42A2 via (TCP)
+Mon May 15 11:58:54 2017: Initiating connection to ::FFFF:62CF:5140 via (TCP)
+Mon May 15 11:58:55 2017: Authentication to ::FFFF:5E15:52FF : ok
+Mon May 15 11:58:55 2017: Authentication to ::FFFF:5F1E:DC08 : ok
+Mon May 15 11:58:55 2017: Initiating connection to ::FFFF:62FC:B899 via (TCP)
+Mon May 15 11:58:55 2017: Initiating connection to ::FFFF:6365:619E via (TCP)
+Mon May 15 11:58:55 2017: Connection closed
+Mon May 15 11:58:55 2017: Connection closed
+Mon May 15 11:58:55 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 11:58:55 2017: Timeout occurred
+Mon May 15 11:58:55 2017: Authentication to 157.50.14.230 : failure
+Mon May 15 11:58:56 2017: Initiating connection to ::FFFF:63C6:A42E via (TCP)
+Mon May 15 11:58:56 2017: Timeout occurred
+Mon May 15 11:58:56 2017: Authentication to 178.192.14.112 : failure
+Mon May 15 11:58:56 2017: Initiating connection to ::FFFF:63F5:452E via (TCP)
+Mon May 15 11:58:56 2017: Timeout occurred
+Mon May 15 11:58:56 2017: Authentication to 188.72.104.48 : failure
+Mon May 15 11:58:56 2017: Timeout occurred
+Mon May 15 11:58:56 2017: Authentication to 195.234.20.195 : failure
+Mon May 15 11:58:56 2017: Authentication to ::FFFF:63C6:A42E : ok
+Mon May 15 11:58:56 2017: Initiating connection to ::FFFF:66F8:26D6 via (TCP)
+Mon May 15 11:58:56 2017: Initiating connection to ::FFFF:68A9:5552 via (TCP)
+Mon May 15 11:58:56 2017: Initiating connection to ::FFFF:6C24:9495 via (TCP)
+Mon May 15 11:58:56 2017: Connection closed
+Mon May 15 11:58:56 2017: Timeout occurred
+Mon May 15 11:58:56 2017: Authentication to 212.33.3.134 : failure
+Mon May 15 11:58:57 2017: Authentication to ::FFFF:6C24:9495 : ok
+Mon May 15 11:58:57 2017: Initiating connection to ::FFFF:6D43:8CE2 via (TCP)
+Mon May 15 11:58:57 2017: Initiating connection to ::FFFF:6D5A:F187 via (TCP)
+Mon May 15 11:58:57 2017: Timeout occurred
+Mon May 15 11:58:57 2017: Authentication to 86.211.212.126 : failure
+Mon May 15 11:58:57 2017: Timeout occurred
+Mon May 15 11:58:57 2017: Authentication to 94.254.144.168 : failure
+Mon May 15 11:58:57 2017: Initiating connection to ::FFFF:6DF2:4BB0 via (TCP)
+Mon May 15 11:58:57 2017: Initiating connection to ::FFFF:74EA:24 via (TCP)
+Mon May 15 11:58:57 2017: Timeout occurred
+Mon May 15 11:58:57 2017: Authentication to 195.215.85.72 : failure
+Mon May 15 11:58:57 2017: Initiating connection to ::FFFF:76BD:C5A8 via (TCP)
+Mon May 15 11:58:58 2017: Authentication to 219.250.109.251 : ok
+Mon May 15 11:58:58 2017: Initiating connection to ::FFFF:76D0:80A7 via (TCP)
+Mon May 15 11:58:58 2017: Authentication to ::FFFF:6DF2:4BB0 : ok
+Mon May 15 11:58:58 2017: Authentication to ::FFFF:76BD:C5A8 : ok
+Mon May 15 11:58:58 2017: Initiating connection to ::FFFF:79D6:6CBA via (TCP)
+Mon May 15 11:58:58 2017: Initiating connection to ::FFFF:7C65:E71E via (TCP)
+Mon May 15 11:58:58 2017: Timeout occurred
+Mon May 15 11:58:58 2017: Authentication to ::FFFF:594B:3FE1 : failure
+Mon May 15 11:58:58 2017: Timeout occurred
+Mon May 15 11:58:58 2017: Authentication to ::FFFF:5A92:BF11 : failure
+Mon May 15 11:58:58 2017: Connection closed
+Mon May 15 11:58:58 2017: Initiating connection to ::FFFF:824B:B225 via (TCP)
+Mon May 15 11:58:58 2017: Initiating connection to ::FFFF:883D:3039 via (TCP)
+Mon May 15 11:58:58 2017: Timeout occurred
+Mon May 15 11:58:58 2017: Authentication to ::FFFF:5B3F:E279 : failure
+Mon May 15 11:58:59 2017: Authentication to ::FFFF:7C65:E71E : ok
+Mon May 15 11:58:59 2017: Authentication to ::FFFF:7C65:E71E : failure
+Mon May 15 11:58:59 2017: Connection closed
+Mon May 15 11:58:59 2017: Initiating connection to ::FFFF:88A9:E48A via (TCP)
+Mon May 15 11:58:59 2017: Initiating connection to ::FFFF:8D1C:9CC1 via (TCP)
+Mon May 15 11:58:59 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 11:58:59 2017: Timeout occurred
+Mon May 15 11:58:59 2017: Authentication to ::FFFF:5D2F:77DF : failure
+Mon May 15 11:58:59 2017: Timeout occurred
+Mon May 15 11:58:59 2017: Authentication to ::FFFF:5E4B:5A42 : failure
+Mon May 15 11:58:59 2017: Timeout occurred
+Mon May 15 11:58:59 2017: Authentication to ::FFFF:5EB5:5EDA : failure
+Mon May 15 11:58:59 2017: Authentication to ::FFFF:76D0:80A7 : ok
+Mon May 15 11:58:59 2017: Initiating connection to ::FFFF:91FF:152F via (TCP)
+Mon May 15 11:58:59 2017: Initiating connection to ::FFFF:9400:799C via (TCP)
+Mon May 15 11:58:59 2017: Initiating connection to ::FFFF:97E2:F108 via (TCP)
+Mon May 15 11:58:59 2017: Initiating connection to ::FFFF:A578:4B82 via (TCP)
+Mon May 15 11:58:59 2017: Timeout occurred
+Mon May 15 11:58:59 2017: Authentication to ::FFFF:5F40:D701 : failure
+Mon May 15 11:58:59 2017: Authentication to ::FFFF:824B:B225 : ok
+Mon May 15 11:58:59 2017: Authentication to ::FFFF:824B:B225 : failure
+Mon May 15 11:58:59 2017: Authentication to ::FFFF:88A9:E48A : ok
+Mon May 15 11:58:59 2017: PEX: found 7 peers
+Mon May 15 11:58:59 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 11:58:59 2017: Initiating connection to 81.191.65.128 via (TCP)
+Mon May 15 11:58:59 2017: Initiating connection to 103.42.217.52 via (TCP)
+Mon May 15 11:58:59 2017: Timeout occurred
+Mon May 15 11:58:59 2017: Authentication to ::FFFF:5F90:B82C : failure
+Mon May 15 11:58:59 2017: Authentication to ::FFFF:883D:3039 : ok
+Mon May 15 11:58:59 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 11:58:59 2017: Connection closed
+Mon May 15 11:58:59 2017: Initiating connection to 109.15.171.216 via (TCP)
+Mon May 15 11:58:59 2017: Initiating connection to 114.113.116.243 via (TCP)
+Mon May 15 11:58:59 2017: Initiating connection to 157.50.14.230 via (TCP)
+Mon May 15 11:58:59 2017: Timeout occurred
+Mon May 15 11:58:59 2017: Authentication to ::FFFF:605D:42A2 : failure
+Mon May 15 11:58:59 2017: Timeout occurred
+Mon May 15 11:58:59 2017: Authentication to ::FFFF:62CF:5140 : failure
+Mon May 15 11:59:00 2017: Authentication to 114.113.116.243 : failure
+Mon May 15 11:59:00 2017: Initiating connection to ::FFFF:A8C4:4303 via (TCP)
+Mon May 15 11:59:00 2017: Initiating connection to ::FFFF:A900:91D9 via (TCP)
+Mon May 15 11:59:00 2017: Initiating connection to ::FFFF:AB42:D5C3 via (TCP)
+Mon May 15 11:59:00 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 11:59:00 2017: Timeout occurred
+Mon May 15 11:59:00 2017: Authentication to ::FFFF:62FC:B899 : failure
+Mon May 15 11:59:00 2017: Timeout occurred
+Mon May 15 11:59:00 2017: Authentication to ::FFFF:6365:619E : failure
+Mon May 15 11:59:00 2017: Authentication to ::FFFF:9400:799C : ok
+Mon May 15 11:59:00 2017: Authentication to 109.15.171.216 : ok
+Mon May 15 11:59:00 2017: Authentication to 109.15.171.216 : failure
+Mon May 15 11:59:00 2017: Authentication to ::FFFF:A8C4:4303 : failure
+Mon May 15 11:59:00 2017: Initiating connection to ::FFFF:AC08:C54E via (TCP)
+Mon May 15 11:59:00 2017: Initiating connection to ::FFFF:AC7E:8C64 via (TCP)
+Mon May 15 11:59:00 2017: Initiating connection to ::FFFF:AD17:A643 via (TCP)
+Mon May 15 11:59:00 2017: Initiating connection to ::FFFF:ADC6:7F06 via (TCP)
+Mon May 15 11:59:00 2017: Initiating connection to ::FFFF:ADEF:D81A via (TCP)
+Mon May 15 11:59:00 2017: Authentication to ::FFFF:97E2:F108 : ok
+Mon May 15 11:59:00 2017: Authentication to ::FFFF:97E2:F108 : failure
+Mon May 15 11:59:00 2017: Authentication to ::FFFF:ADC6:7F06 : failure
+Mon May 15 11:59:00 2017: Authentication to ::FFFF:ADEF:D81A : failure
+Mon May 15 11:59:00 2017: Initiating connection to ::FFFF:ADEF:E471 via (TCP)
+Mon May 15 11:59:00 2017: Initiating connection to ::FFFF:AE34:5DF2 via (TCP)
+Mon May 15 11:59:00 2017: Initiating connection to ::FFFF:AE37:C4D via (TCP)
+Mon May 15 11:59:00 2017: Authentication to ::FFFF:AD17:A643 : ok
+Mon May 15 11:59:00 2017: Authentication to ::FFFF:AD17:A643 : failure
+Mon May 15 11:59:00 2017: Authentication to ::FFFF:ADEF:E471 : failure
+Mon May 15 11:59:00 2017: Initiating connection to ::FFFF:B00A:9A13 via (TCP)
+Mon May 15 11:59:00 2017: Initiating connection to ::FFFF:B034:7481 via (TCP)
+Mon May 15 11:59:01 2017: Authentication to ::FFFF:AE34:5DF2 : ok
+Mon May 15 11:59:01 2017: Initiating connection to ::FFFF:B03B:CDF via (TCP)
+Mon May 15 11:59:01 2017: Authentication to ::FFFF:AC7E:8C64 : ok
+Mon May 15 11:59:01 2017: Connection closed
+Mon May 15 11:59:01 2017: Initiating connection to ::FFFF:B213:FFC7 via (TCP)
+Mon May 15 11:59:01 2017: Timeout occurred
+Mon May 15 11:59:01 2017: Authentication to ::FFFF:63F5:452E : failure
+Mon May 15 11:59:01 2017: Initiating connection to ::FFFF:B21B:B0B8 via (TCP)
+Mon May 15 11:59:01 2017: Timeout occurred
+Mon May 15 11:59:01 2017: Authentication to ::FFFF:66F8:26D6 : failure
+Mon May 15 11:59:01 2017: Timeout occurred
+Mon May 15 11:59:01 2017: Authentication to ::FFFF:68A9:5552 : failure
+Mon May 15 11:59:01 2017: Authentication to ::FFFF:B034:7481 : ok
+Mon May 15 11:59:01 2017: Initiating connection to ::FFFF:B274:D9F3 via (TCP)
+Mon May 15 11:59:01 2017: Initiating connection to ::FFFF:B2A4:CD14 via (TCP)
+Mon May 15 11:59:01 2017: Initiating connection to ::FFFF:B2B8:3B6B via (TCP)
+Mon May 15 11:59:02 2017: Timeout occurred
+Mon May 15 11:59:02 2017: Authentication to ::FFFF:6D43:8CE2 : failure
+Mon May 15 11:59:02 2017: Timeout occurred
+Mon May 15 11:59:02 2017: Authentication to ::FFFF:6D5A:F187 : failure
+Mon May 15 11:59:02 2017: Authentication to ::FFFF:A900:91D9 : failure
+Mon May 15 11:59:02 2017: Authentication to ::FFFF:B2A4:CD14 : ok
+Mon May 15 11:59:02 2017: Connection closed
+Mon May 15 11:59:02 2017: Initiating connection to ::FFFF:B308:DC9D via (TCP)
+Mon May 15 11:59:02 2017: Initiating connection to ::FFFF:B496:9D27 via (TCP)
+Mon May 15 11:59:02 2017: Initiating connection to ::FFFF:B5EA:BE5C via (TCP)
+Mon May 15 11:59:02 2017: Initiating connection to ::FFFF:B898:6A2A via (TCP)
+Mon May 15 11:59:02 2017: Authentication to ::FFFF:B21B:B0B8 : ok
+Mon May 15 11:59:02 2017: Authentication to ::FFFF:B21B:B0B8 : failure
+Mon May 15 11:59:02 2017: Connection closed
+Mon May 15 11:59:02 2017: Initiating connection to ::FFFF:B92A:7022 via (TCP)
+Mon May 15 11:59:02 2017: Timeout occurred
+Mon May 15 11:59:02 2017: Authentication to ::FFFF:74EA:24 : failure
+Mon May 15 11:59:02 2017: Authentication to ::FFFF:B2B8:3B6B : ok
+Mon May 15 11:59:02 2017: Authentication to ::FFFF:B308:DC9D : failure
+Mon May 15 11:59:02 2017: Initiating connection to ::FFFF:B994:D6F5 via (TCP)
+Mon May 15 11:59:02 2017: Initiating connection to ::FFFF:B995:5A5A via (TCP)
+Mon May 15 11:59:02 2017: Initiating connection to ::FFFF:B995:5A66 via (TCP)
+Mon May 15 11:59:03 2017: Authentication to ::FFFF:B995:5A5A : ok
+Mon May 15 11:59:03 2017: Authentication to ::FFFF:B995:5A66 : ok
+Mon May 15 11:59:03 2017: Connection closed
+Mon May 15 11:59:03 2017: Initiating connection to ::FFFF:BA2E:AEA9 via (TCP)
+Mon May 15 11:59:03 2017: Initiating connection to ::FFFF:BB5F:1040 via (TCP)
+Mon May 15 11:59:03 2017: Connection closed
+Mon May 15 11:59:03 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 11:59:03 2017: Timeout occurred
+Mon May 15 11:59:03 2017: Authentication to ::FFFF:79D6:6CBA : failure
+Mon May 15 11:59:03 2017: Initiating connection to ::FFFF:BB5F:6F82 via (TCP)
+Mon May 15 11:59:04 2017: Timeout occurred
+Mon May 15 11:59:04 2017: Authentication to ::FFFF:8D1C:9CC1 : failure
+Mon May 15 11:59:04 2017: Initiating connection to ::FFFF:BC32:6CC9 via (TCP)
+Mon May 15 11:59:04 2017: Timeout occurred
+Mon May 15 11:59:04 2017: Authentication to ::FFFF:91FF:152F : failure
+Mon May 15 11:59:04 2017: Timeout occurred
+Mon May 15 11:59:04 2017: Authentication to ::FFFF:A578:4B82 : failure
+Mon May 15 11:59:04 2017: Initiating connection to ::FFFF:BC4F:86C5 via (TCP)
+Mon May 15 11:59:04 2017: Initiating connection to ::FFFF:BCA5:FADC via (TCP)
+Mon May 15 11:59:04 2017: Timeout occurred
+Mon May 15 11:59:04 2017: Authentication to 81.191.65.128 : failure
+Mon May 15 11:59:04 2017: Timeout occurred
+Mon May 15 11:59:04 2017: Authentication to 103.42.217.52 : failure
+Mon May 15 11:59:04 2017: Initiating connection to ::FFFF:BDBE:E8C4 via (TCP)
+Mon May 15 11:59:04 2017: Initiating connection to ::FFFF:BE68:E56A via (TCP)
+Mon May 15 11:59:04 2017: Timeout occurred
+Mon May 15 11:59:04 2017: Authentication to 157.50.14.230 : failure
+Mon May 15 11:59:05 2017: Authentication to ::FFFF:BCA5:FADC : failure
+Mon May 15 11:59:05 2017: Initiating connection to ::FFFF:BFBD:6C02 via (TCP)
+Mon May 15 11:59:05 2017: Initiating connection to ::FFFF:BFDF:F76E via (TCP)
+Mon May 15 11:59:05 2017: Timeout occurred
+Mon May 15 11:59:05 2017: Authentication to ::FFFF:AB42:D5C3 : failure
+Mon May 15 11:59:05 2017: Authentication to ::FFFF:BDBE:E8C4 : ok
+Mon May 15 11:59:05 2017: Authentication to ::FFFF:BDBE:E8C4 : failure
+Mon May 15 11:59:05 2017: Initiating connection to ::FFFF:C028:5F1E via (TCP)
+Mon May 15 11:59:05 2017: Initiating connection to ::FFFF:C0F1:A0B5 via (TCP)
+Mon May 15 11:59:05 2017: Timeout occurred
+Mon May 15 11:59:05 2017: Authentication to ::FFFF:AC08:C54E : failure
+Mon May 15 11:59:05 2017: Authentication to ::FFFF:BC4F:86C5 : failure
+Mon May 15 11:59:05 2017: Authentication to ::FFFF:BFBD:6C02 : failure
+Mon May 15 11:59:05 2017: Authentication to ::FFFF:C028:5F1E : failure
+Mon May 15 11:59:05 2017: Connection closed
+Mon May 15 11:59:05 2017: Initiating connection to ::FFFF:C169:86E5 via (TCP)
+Mon May 15 11:59:05 2017: Initiating connection to ::FFFF:C39A:E133 via (TCP)
+Mon May 15 11:59:05 2017: Initiating connection to ::FFFF:C6F5:3C71 via (TCP)
+Mon May 15 11:59:05 2017: Initiating connection to ::FFFF:CA96:68FB via (TCP)
+Mon May 15 11:59:05 2017: Timeout occurred
+Mon May 15 11:59:05 2017: Authentication to ::FFFF:AE37:C4D : failure
+Mon May 15 11:59:05 2017: Authentication to ::FFFF:C0F1:A0B5 : ok
+Mon May 15 11:59:05 2017: Authentication to ::FFFF:C0F1:A0B5 : failure
+Mon May 15 11:59:05 2017: Authentication to ::FFFF:C169:86E5 : failure
+Mon May 15 11:59:05 2017: Initiating connection to ::FFFF:CF9B:32C4 via (TCP)
+Mon May 15 11:59:05 2017: Initiating connection to ::FFFF:D236:23C9 via (TCP)
+Mon May 15 11:59:05 2017: Initiating connection to ::FFFF:D403:C17F via (TCP)
+Mon May 15 11:59:05 2017: Timeout occurred
+Mon May 15 11:59:05 2017: Authentication to ::FFFF:B00A:9A13 : failure
+Mon May 15 11:59:06 2017: Authentication to ::FFFF:C39A:E133 : ok
+Mon May 15 11:59:06 2017: Authentication to ::FFFF:C39A:E133 : failure
+Mon May 15 11:59:06 2017: Authentication to ::FFFF:C6F5:3C71 : ok
+Mon May 15 11:59:06 2017: Authentication to ::FFFF:C6F5:3C71 : failure
+Mon May 15 11:59:06 2017: Authentication to ::FFFF:CA96:68FB : ok
+Mon May 15 11:59:06 2017: Initiating connection to ::FFFF:D433:8C26 via (TCP)
+Mon May 15 11:59:06 2017: Initiating connection to ::FFFF:D433:9665 via (TCP)
+Mon May 15 11:59:06 2017: Initiating connection to ::FFFF:D461:DE61 via (TCP)
+Mon May 15 11:59:06 2017: Initiating connection to ::FFFF:D464:3768 via (TCP)
+Mon May 15 11:59:06 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 11:59:06 2017: Timeout occurred
+Mon May 15 11:59:06 2017: Authentication to ::FFFF:B03B:CDF : failure
+Mon May 15 11:59:06 2017: Authentication to ::FFFF:CF9B:32C4 : failure
+Mon May 15 11:59:06 2017: Authentication to ::FFFF:D236:23C9 : failure
+Mon May 15 11:59:06 2017: Connection closed
+Mon May 15 11:59:06 2017: Connection closed
+Mon May 15 11:59:06 2017: Initiating connection to ::FFFF:D539:FA1D via (TCP)
+Mon May 15 11:59:06 2017: Initiating connection to ::FFFF:D56A:B35E via (TCP)
+Mon May 15 11:59:06 2017: Initiating connection to ::FFFF:D5DC:E3CF via (TCP)
+Mon May 15 11:59:06 2017: Timeout occurred
+Mon May 15 11:59:06 2017: Authentication to ::FFFF:B213:FFC7 : failure
+Mon May 15 11:59:06 2017: Connection closed
+Mon May 15 11:59:06 2017: Initiating connection to ::FFFF:D946:C072 via (TCP)
+Mon May 15 11:59:06 2017: Authentication to ::FFFF:D539:FA1D : ok
+Mon May 15 11:59:06 2017: Authentication to ::FFFF:D56A:B35E : ok
+Mon May 15 11:59:06 2017: Authentication to ::FFFF:D5DC:E3CF : ok
+Mon May 15 11:59:06 2017: Initiating connection to ::FFFF:D950:39E0 via (TCP)
+Mon May 15 11:59:06 2017: Initiating connection to ::FFFF:D9F0:535C via (TCP)
+Mon May 15 11:59:06 2017: Initiating connection to 2001:56A:F2C0:5A00:AD9A:2540:A525:47BA via (TCP)
+Mon May 15 11:59:06 2017: Cannot connect to host 2001:56A:F2C0:5A00:AD9A:2540:A525:47BA : Network is unreachable
+Mon May 15 11:59:06 2017: Timeout occurred
+Mon May 15 11:59:06 2017: Authentication to ::FFFF:B274:D9F3 : failure
+Mon May 15 11:59:06 2017: Timeout occurred
+Mon May 15 11:59:06 2017: Authentication to 2001:56A:F2C0:5A00:AD9A:2540:A525:47BA : failure
+Mon May 15 11:59:07 2017: Connection closed
+Mon May 15 11:59:07 2017: Connection closed
+Mon May 15 11:59:07 2017: Connection closed
+Mon May 15 11:59:07 2017: Initiating connection to 2001:8A0:6666:4301:6809:89D:F327:F300 via (TCP)
+Mon May 15 11:59:07 2017: Cannot connect to host 2001:8A0:6666:4301:6809:89D:F327:F300 : Network is unreachable
+Mon May 15 11:59:07 2017: Initiating connection to 2001:980:35CC:1:ECC3:54E6:D9F5:4116 via (TCP)
+Mon May 15 11:59:07 2017: Cannot connect to host 2001:980:35CC:1:ECC3:54E6:D9F5:4116 : Network is unreachable
+Mon May 15 11:59:07 2017: Timeout occurred
+Mon May 15 11:59:07 2017: Authentication to 2001:8A0:6666:4301:6809:89D:F327:F300 : failure
+Mon May 15 11:59:07 2017: Timeout occurred
+Mon May 15 11:59:07 2017: Authentication to 2001:980:35CC:1:ECC3:54E6:D9F5:4116 : failure
+Mon May 15 11:59:07 2017: Initiating connection to 2001:41D0:A:4C2::1 via (TCP)
+Mon May 15 11:59:07 2017: Cannot connect to host 2001:41D0:A:4C2::1 : Network is unreachable
+Mon May 15 11:59:07 2017: Initiating connection to 2607:FEA8:A260:49E:18D:638:6F2A:1BA via (TCP)
+Mon May 15 11:59:07 2017: Cannot connect to host 2607:FEA8:A260:49E:18D:638:6F2A:1BA : Network is unreachable
+Mon May 15 11:59:07 2017: Timeout occurred
+Mon May 15 11:59:07 2017: Authentication to ::FFFF:B496:9D27 : failure
+Mon May 15 11:59:07 2017: Timeout occurred
+Mon May 15 11:59:07 2017: Authentication to ::FFFF:B5EA:BE5C : failure
+Mon May 15 11:59:07 2017: Timeout occurred
+Mon May 15 11:59:07 2017: Authentication to ::FFFF:B898:6A2A : failure
+Mon May 15 11:59:07 2017: Timeout occurred
+Mon May 15 11:59:07 2017: Authentication to 2001:41D0:A:4C2::1 : failure
+Mon May 15 11:59:07 2017: Timeout occurred
+Mon May 15 11:59:07 2017: Authentication to 2607:FEA8:A260:49E:18D:638:6F2A:1BA : failure
+Mon May 15 11:59:07 2017: Initiating connection to 2804:14D:1685:830F:4CFF:59EA:C07A:1869 via (TCP)
+Mon May 15 11:59:07 2017: Cannot connect to host 2804:14D:1685:830F:4CFF:59EA:C07A:1869 : Network is unreachable
+Mon May 15 11:59:07 2017: Initiating connection to 2804:7F2:2080:B56D:2C1F:20E7:4C7A:845E via (TCP)
+Mon May 15 11:59:07 2017: Cannot connect to host 2804:7F2:2080:B56D:2C1F:20E7:4C7A:845E : Network is unreachable
+Mon May 15 11:59:07 2017: Initiating connection to 2A01:E35:8AE2:E060:211:32FF:FE3A:C552 via (TCP)
+Mon May 15 11:59:07 2017: Cannot connect to host 2A01:E35:8AE2:E060:211:32FF:FE3A:C552 : Network is unreachable
+Mon May 15 11:59:07 2017: Initiating connection to 2A02:1811:CC02:8000:8045:252D:51A7:7103 via (TCP)
+Mon May 15 11:59:07 2017: Cannot connect to host 2A02:1811:CC02:8000:8045:252D:51A7:7103 : Network is unreachable
+Mon May 15 11:59:07 2017: Timeout occurred
+Mon May 15 11:59:07 2017: Authentication to ::FFFF:B92A:7022 : failure
+Mon May 15 11:59:07 2017: Timeout occurred
+Mon May 15 11:59:07 2017: Authentication to 2804:14D:1685:830F:4CFF:59EA:C07A:1869 : failure
+Mon May 15 11:59:07 2017: Timeout occurred
+Mon May 15 11:59:07 2017: Authentication to 2804:7F2:2080:B56D:2C1F:20E7:4C7A:845E : failure
+Mon May 15 11:59:07 2017: Timeout occurred
+Mon May 15 11:59:07 2017: Authentication to 2A01:E35:8AE2:E060:211:32FF:FE3A:C552 : failure
+Mon May 15 11:59:07 2017: Timeout occurred
+Mon May 15 11:59:07 2017: Authentication to 2A02:1811:CC02:8000:8045:252D:51A7:7103 : failure
+Mon May 15 11:59:07 2017: Timeout occurred
+Mon May 15 11:59:07 2017: Authentication to ::FFFF:B994:D6F5 : failure
+Mon May 15 11:59:08 2017: Timeout occurred
+Mon May 15 11:59:08 2017: Authentication to ::FFFF:BA2E:AEA9 : failure
+Mon May 15 11:59:08 2017: Timeout occurred
+Mon May 15 11:59:08 2017: Authentication to ::FFFF:BB5F:1040 : failure
+Mon May 15 11:59:08 2017: Timeout occurred
+Mon May 15 11:59:08 2017: Authentication to ::FFFF:BB5F:6F82 : failure
+Mon May 15 11:59:09 2017: Timeout occurred
+Mon May 15 11:59:09 2017: Authentication to ::FFFF:BC32:6CC9 : failure
+Mon May 15 11:59:09 2017: Timeout occurred
+Mon May 15 11:59:09 2017: Authentication to ::FFFF:BE68:E56A : failure
+Mon May 15 11:59:10 2017: Timeout occurred
+Mon May 15 11:59:10 2017: Authentication to ::FFFF:BFDF:F76E : failure
+Mon May 15 11:59:10 2017: Timeout occurred
+Mon May 15 11:59:10 2017: Authentication to ::FFFF:D403:C17F : failure
+Mon May 15 11:59:11 2017: Timeout occurred
+Mon May 15 11:59:11 2017: Authentication to ::FFFF:D433:8C26 : failure
+Mon May 15 11:59:11 2017: Timeout occurred
+Mon May 15 11:59:11 2017: Authentication to ::FFFF:D433:9665 : failure
+Mon May 15 11:59:11 2017: Timeout occurred
+Mon May 15 11:59:11 2017: Authentication to ::FFFF:D461:DE61 : failure
+Mon May 15 11:59:11 2017: Timeout occurred
+Mon May 15 11:59:11 2017: Authentication to ::FFFF:D464:3768 : failure
+Mon May 15 11:59:11 2017: Timeout occurred
+Mon May 15 11:59:11 2017: Authentication to ::FFFF:D946:C072 : failure
+Mon May 15 11:59:11 2017: Timeout occurred
+Mon May 15 11:59:11 2017: Authentication to ::FFFF:D950:39E0 : failure
+Mon May 15 11:59:11 2017: Timeout occurred
+Mon May 15 11:59:11 2017: Authentication to ::FFFF:D9F0:535C : failure
+Mon May 15 11:59:17 2017: Piece cache: memory in use 0 B, memory freed 80.00 KiB
+Mon May 15 11:59:27 2017: Piece cache: memory in use 0 B, memory freed 32.00 KiB
+Mon May 15 11:59:37 2017: Piece cache: memory in use 0 B, memory freed 80.00 KiB
+Mon May 15 11:59:39 2017: PEX: found 14 peers
+Mon May 15 11:59:39 2017: Initiating connection to 37.200.14.89 via (TCP)
+Mon May 15 11:59:39 2017: Initiating connection to 45.59.142.38 via (TCP)
+Mon May 15 11:59:39 2017: Initiating connection to 62.98.181.172 via (TCP)
+Mon May 15 11:59:39 2017: Initiating connection to 67.180.224.19 via (TCP)
+Mon May 15 11:59:39 2017: Initiating connection to 80.7.35.78 via (TCP)
+Mon May 15 11:59:39 2017: Initiating connection to 80.95.67.184 via (TCP)
+Mon May 15 11:59:39 2017: Initiating connection to 80.197.146.219 via (TCP)
+Mon May 15 11:59:39 2017: Initiating connection to 91.22.251.11 via (TCP)
+Mon May 15 11:59:39 2017: Initiating connection to 95.30.220.8 via (TCP)
+Mon May 15 11:59:39 2017: Initiating connection to 99.5.73.181 via (TCP)
+Mon May 15 11:59:39 2017: Initiating connection to 117.197.71.216 via (TCP)
+Mon May 15 11:59:39 2017: Initiating connection to 136.169.228.138 via (TCP)
+Mon May 15 11:59:39 2017: Initiating connection to 151.226.241.8 via (TCP)
+Mon May 15 11:59:39 2017: Initiating connection to 213.93.237.85 via (TCP)
+Mon May 15 11:59:39 2017: Authentication to 67.180.224.19 : ok
+Mon May 15 11:59:39 2017: Authentication to 136.169.228.138 : ok
+Mon May 15 11:59:39 2017: Authentication to 213.93.237.85 : failure
+Mon May 15 11:59:39 2017: Authentication to 37.200.14.89 : ok
+Mon May 15 11:59:39 2017: Connection closed
+Mon May 15 11:59:39 2017: Connection closed
+Mon May 15 11:59:40 2017: Authentication to 80.95.67.184 : ok
+Mon May 15 11:59:40 2017: Authentication to 80.197.146.219 : ok
+Mon May 15 11:59:40 2017: Authentication to 95.30.220.8 : ok
+Mon May 15 11:59:40 2017: Authentication to 151.226.241.8 : ok
+Mon May 15 11:59:40 2017: Connection closed
+Mon May 15 11:59:40 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 11:59:40 2017: Authentication to 45.59.142.38 : ok
+Mon May 15 11:59:40 2017: Authentication to 80.7.35.78 : ok
+Mon May 15 11:59:40 2017: Authentication to 117.197.71.216 : ok
+Mon May 15 11:59:43 2017: PEX: found 5 peers
+Mon May 15 11:59:43 2017: Initiating connection to 58.97.16.16 via (TCP)
+Mon May 15 11:59:43 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 11:59:43 2017: Initiating connection to 96.3.190.161 via (TCP)
+Mon May 15 11:59:43 2017: Initiating connection to 219.250.109.251 via (TCP)
+Mon May 15 11:59:43 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 11:59:43 2017: Authentication to 96.3.190.161 : failure
+Mon May 15 11:59:44 2017: Timeout occurred
+Mon May 15 11:59:44 2017: Authentication to 62.98.181.172 : failure
+Mon May 15 11:59:44 2017: Timeout occurred
+Mon May 15 11:59:44 2017: Authentication to 91.22.251.11 : failure
+Mon May 15 11:59:44 2017: Timeout occurred
+Mon May 15 11:59:44 2017: Authentication to 99.5.73.181 : failure
+Mon May 15 11:59:44 2017: Authentication to 219.250.109.251 : ok
+Mon May 15 11:59:45 2017: Authentication to 58.97.16.16 : failure
+Mon May 15 11:59:47 2017: PEX: found 2 peers
+Mon May 15 11:59:47 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 11:59:47 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 11:59:50 2017: Piece cache: memory in use 0 B, memory freed 64.00 KiB
+Mon May 15 12:00:01 2017: Piece cache: memory in use 0 B, memory freed 64.00 KiB
+Mon May 15 12:00:11 2017: Piece cache: memory in use 0 B, memory freed 80.00 KiB
+Mon May 15 12:00:21 2017: Piece cache: memory in use 0 B, memory freed 64.00 KiB
+Mon May 15 12:00:31 2017: Piece cache: memory in use 0 B, memory freed 96.00 KiB
+Mon May 15 12:00:41 2017: Piece cache: memory in use 0 B, memory freed 64.00 KiB
+Mon May 15 12:00:43 2017: PEX: found 17 peers
+Mon May 15 12:00:43 2017: Initiating connection to 5.186.88.131 via (TCP)
+Mon May 15 12:00:43 2017: Initiating connection to 46.138.17.139 via (TCP)
+Mon May 15 12:00:43 2017: Initiating connection to 62.192.240.154 via (TCP)
+Mon May 15 12:00:43 2017: Initiating connection to 65.60.181.203 via (TCP)
+Mon May 15 12:00:43 2017: Initiating connection to 66.96.238.82 via (TCP)
+Mon May 15 12:00:43 2017: Initiating connection to 70.29.82.254 via (TCP)
+Mon May 15 12:00:43 2017: Initiating connection to 78.60.97.187 via (TCP)
+Mon May 15 12:00:43 2017: Initiating connection to 79.140.42.20 via (TCP)
+Mon May 15 12:00:43 2017: Initiating connection to 81.227.11.34 via (TCP)
+Mon May 15 12:00:43 2017: Initiating connection to 82.30.58.107 via (TCP)
+Mon May 15 12:00:43 2017: Initiating connection to 82.161.248.75 via (TCP)
+Mon May 15 12:00:43 2017: Initiating connection to 86.15.59.207 via (TCP)
+Mon May 15 12:00:43 2017: Initiating connection to 86.181.59.192 via (TCP)
+Mon May 15 12:00:43 2017: Initiating connection to 88.198.17.155 via (TCP)
+Mon May 15 12:00:43 2017: Initiating connection to 139.59.148.215 via (TCP)
+Mon May 15 12:00:43 2017: Initiating connection to 197.148.44.91 via (TCP)
+Mon May 15 12:00:43 2017: Initiating connection to 213.220.227.207 via (TCP)
+Mon May 15 12:00:43 2017: Authentication to 62.192.240.154 : ok
+Mon May 15 12:00:43 2017: Authentication to 65.60.181.203 : ok
+Mon May 15 12:00:43 2017: Authentication to 70.29.82.254 : ok
+Mon May 15 12:00:43 2017: Authentication to 86.15.59.207 : ok
+Mon May 15 12:00:43 2017: Authentication to 139.59.148.215 : ok
+Mon May 15 12:00:43 2017: Authentication to 213.220.227.207 : ok
+Mon May 15 12:00:44 2017: Authentication to 5.186.88.131 : failure
+Mon May 15 12:00:44 2017: Authentication to 88.198.17.155 : ok
+Mon May 15 12:00:44 2017: Connection closed
+Mon May 15 12:00:44 2017: Connection closed
+Mon May 15 12:00:44 2017: Connection closed
+Mon May 15 12:00:44 2017: Connection closed
+Mon May 15 12:00:44 2017: Authentication to 79.140.42.20 : ok
+Mon May 15 12:00:44 2017: Authentication to 81.227.11.34 : ok
+Mon May 15 12:00:44 2017: Connection closed
+Mon May 15 12:00:44 2017: Connection closed
+Mon May 15 12:00:44 2017: Piece cache: memory in use 0 B, memory freed 32.00 KiB
+Mon May 15 12:00:45 2017: Authentication to 197.148.44.91 : failure
+Mon May 15 12:00:48 2017: Timeout occurred
+Mon May 15 12:00:48 2017: Authentication to 46.138.17.139 : failure
+Mon May 15 12:00:48 2017: Timeout occurred
+Mon May 15 12:00:48 2017: Authentication to 66.96.238.82 : failure
+Mon May 15 12:00:48 2017: Timeout occurred
+Mon May 15 12:00:48 2017: Authentication to 78.60.97.187 : failure
+Mon May 15 12:00:48 2017: Timeout occurred
+Mon May 15 12:00:48 2017: Authentication to 82.30.58.107 : failure
+Mon May 15 12:00:48 2017: Timeout occurred
+Mon May 15 12:00:48 2017: Authentication to 82.161.248.75 : failure
+Mon May 15 12:00:48 2017: Timeout occurred
+Mon May 15 12:00:48 2017: Authentication to 86.181.59.192 : failure
+Mon May 15 12:00:55 2017: Piece cache: memory in use 0 B, memory freed 128.00 KiB
+Mon May 15 12:01:05 2017: Piece cache: memory in use 0 B, memory freed 96.00 KiB
+Mon May 15 12:01:15 2017: Piece cache: memory in use 0 B, memory freed 80.00 KiB
+Mon May 15 12:01:25 2017: Piece cache: memory in use 0 B, memory freed 80.00 KiB
+Mon May 15 12:01:35 2017: Piece cache: memory in use 0 B, memory freed 112.00 KiB
+Mon May 15 12:01:45 2017: Piece cache: memory in use 0 B, memory freed 112.00 KiB
+Mon May 15 12:01:46 2017: PEX: found 20 peers
+Mon May 15 12:01:46 2017: Initiating connection to 5.254.103.3 via (TCP)
+Mon May 15 12:01:46 2017: Initiating connection to 24.128.160.111 via (TCP)
+Mon May 15 12:01:46 2017: Initiating connection to 45.17.185.75 via (TCP)
+Mon May 15 12:01:46 2017: Initiating connection to 50.35.91.86 via (TCP)
+Mon May 15 12:01:46 2017: Initiating connection to 61.213.80.194 via (TCP)
+Mon May 15 12:01:46 2017: Initiating connection to 74.57.70.123 via (TCP)
+Mon May 15 12:01:46 2017: Initiating connection to 75.85.141.162 via (TCP)
+Mon May 15 12:01:46 2017: Initiating connection to 75.136.31.40 via (TCP)
+Mon May 15 12:01:46 2017: Initiating connection to 77.174.180.118 via (TCP)
+Mon May 15 12:01:46 2017: Initiating connection to 77.222.96.178 via (TCP)
+Mon May 15 12:01:46 2017: Initiating connection to 83.54.132.204 via (TCP)
+Mon May 15 12:01:46 2017: Initiating connection to 84.24.142.235 via (TCP)
+Mon May 15 12:01:46 2017: Initiating connection to 85.74.170.228 via (TCP)
+Mon May 15 12:01:46 2017: Initiating connection to 94.233.167.124 via (TCP)
+Mon May 15 12:01:46 2017: Initiating connection to 150.101.108.18 via (TCP)
+Mon May 15 12:01:46 2017: Initiating connection to 173.163.213.138 via (TCP)
+Mon May 15 12:01:46 2017: Initiating connection to 188.72.104.48 via (TCP)
+Mon May 15 12:01:46 2017: Initiating connection to 199.126.53.38 via (TCP)
+Mon May 15 12:01:46 2017: Initiating connection to 212.117.17.27 via (TCP)
+Mon May 15 12:01:46 2017: Initiating connection to 217.28.208.219 via (TCP)
+Mon May 15 12:01:46 2017: Authentication to 5.254.103.3 : failure
+Mon May 15 12:01:46 2017: Authentication to 212.117.17.27 : failure
+Mon May 15 12:01:46 2017: Authentication to 24.128.160.111 : ok
+Mon May 15 12:01:46 2017: Authentication to 74.57.70.123 : failure
+Mon May 15 12:01:46 2017: Authentication to 75.136.31.40 : ok
+Mon May 15 12:01:46 2017: Authentication to 84.24.142.235 : ok
+Mon May 15 12:01:46 2017: Connection closed
+Mon May 15 12:01:46 2017: Connection closed
+Mon May 15 12:01:46 2017: Connection closed
+Mon May 15 12:01:47 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 12:01:47 2017: Authentication to 85.74.170.228 : ok
+Mon May 15 12:01:48 2017: Connection closed
+Mon May 15 12:01:48 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 12:01:51 2017: Timeout occurred
+Mon May 15 12:01:51 2017: Authentication to 45.17.185.75 : failure
+Mon May 15 12:01:51 2017: Timeout occurred
+Mon May 15 12:01:51 2017: Authentication to 50.35.91.86 : failure
+Mon May 15 12:01:51 2017: Timeout occurred
+Mon May 15 12:01:51 2017: Authentication to 61.213.80.194 : failure
+Mon May 15 12:01:51 2017: Timeout occurred
+Mon May 15 12:01:51 2017: Authentication to 75.85.141.162 : failure
+Mon May 15 12:01:51 2017: Timeout occurred
+Mon May 15 12:01:51 2017: Authentication to 77.174.180.118 : failure
+Mon May 15 12:01:51 2017: Timeout occurred
+Mon May 15 12:01:51 2017: Authentication to 77.222.96.178 : failure
+Mon May 15 12:01:51 2017: Timeout occurred
+Mon May 15 12:01:51 2017: Authentication to 83.54.132.204 : failure
+Mon May 15 12:01:51 2017: Timeout occurred
+Mon May 15 12:01:51 2017: Authentication to 94.233.167.124 : failure
+Mon May 15 12:01:51 2017: Timeout occurred
+Mon May 15 12:01:51 2017: Authentication to 150.101.108.18 : failure
+Mon May 15 12:01:51 2017: Timeout occurred
+Mon May 15 12:01:51 2017: Authentication to 173.163.213.138 : failure
+Mon May 15 12:01:51 2017: Timeout occurred
+Mon May 15 12:01:51 2017: Authentication to 188.72.104.48 : failure
+Mon May 15 12:01:51 2017: Timeout occurred
+Mon May 15 12:01:51 2017: Authentication to 199.126.53.38 : failure
+Mon May 15 12:01:51 2017: Timeout occurred
+Mon May 15 12:01:51 2017: Authentication to 217.28.208.219 : failure
+Mon May 15 12:01:59 2017: Piece cache: memory in use 0 B, memory freed 64.00 KiB
+Mon May 15 12:02:09 2017: Piece cache: memory in use 0 B, memory freed 80.00 KiB
+Mon May 15 12:02:19 2017: Piece cache: memory in use 0 B, memory freed 80.00 KiB
+Mon May 15 12:02:29 2017: Piece cache: memory in use 0 B, memory freed 64.00 KiB
+Mon May 15 12:02:39 2017: Piece cache: memory in use 0 B, memory freed 48.00 KiB
+Mon May 15 12:02:49 2017: Piece cache: memory in use 0 B, memory freed 160.00 KiB
+Mon May 15 12:02:53 2017: PEX: found 10 peers
+Mon May 15 12:02:53 2017: Initiating connection to 37.200.14.89 via (TCP)
+Mon May 15 12:02:53 2017: Initiating connection to 51.7.148.177 via (TCP)
+Mon May 15 12:02:53 2017: Initiating connection to 62.192.240.154 via (TCP)
+Mon May 15 12:02:53 2017: Initiating connection to 89.134.72.154 via (TCP)
+Mon May 15 12:02:53 2017: Initiating connection to 95.30.220.8 via (TCP)
+Mon May 15 12:02:53 2017: Initiating connection to 108.76.115.4 via (TCP)
+Mon May 15 12:02:53 2017: Initiating connection to 121.214.108.186 via (TCP)
+Mon May 15 12:02:53 2017: Initiating connection to 203.213.225.210 via (TCP)
+Mon May 15 12:02:53 2017: Initiating connection to 212.92.121.77 via (TCP)
+Mon May 15 12:02:53 2017: Initiating connection to 219.75.243.198 via (TCP)
+Mon May 15 12:02:53 2017: Authentication to 108.76.115.4 : failure
+Mon May 15 12:02:53 2017: Authentication to 212.92.121.77 : failure
+Mon May 15 12:02:54 2017: Authentication to 219.75.243.198 : ok
+Mon May 15 12:02:54 2017: Authentication to 51.7.148.177 : ok
+Mon May 15 12:02:54 2017: Authentication to 62.192.240.154 : ok
+Mon May 15 12:02:54 2017: Connection closed
+Mon May 15 12:02:54 2017: Authentication to 95.30.220.8 : ok
+Mon May 15 12:02:54 2017: Connection closed
+Mon May 15 12:02:54 2017: Piece cache: memory in use 0 B, memory freed 32.00 KiB
+Mon May 15 12:02:54 2017: Authentication to 37.200.14.89 : ok
+Mon May 15 12:02:55 2017: Connection closed
+Mon May 15 12:02:58 2017: Timeout occurred
+Mon May 15 12:02:58 2017: Authentication to 89.134.72.154 : failure
+Mon May 15 12:02:58 2017: Timeout occurred
+Mon May 15 12:02:58 2017: Authentication to 121.214.108.186 : failure
+Mon May 15 12:02:58 2017: Timeout occurred
+Mon May 15 12:02:58 2017: Authentication to 203.213.225.210 : failure
+Mon May 15 12:03:05 2017: Piece cache: memory in use 0 B, memory freed 64.00 KiB
+Mon May 15 12:03:15 2017: Piece cache: memory in use 0 B, memory freed 96.00 KiB
+Mon May 15 12:03:25 2017: Piece cache: memory in use 0 B, memory freed 48.00 KiB
+Mon May 15 12:03:35 2017: Piece cache: memory in use 0 B, memory freed 80.00 KiB
+Mon May 15 12:03:45 2017: Piece cache: memory in use 0 B, memory freed 64.00 KiB
+Mon May 15 12:03:55 2017: Piece cache: memory in use 0 B, memory freed 48.00 KiB
+Mon May 15 12:03:56 2017: PEX: found 10 peers
+Mon May 15 12:03:56 2017: Initiating connection to 80.99.103.108 via (TCP)
+Mon May 15 12:03:56 2017: Initiating connection to 82.39.41.233 via (TCP)
+Mon May 15 12:03:56 2017: Initiating connection to 84.217.43.10 via (TCP)
+Mon May 15 12:03:56 2017: Initiating connection to 85.17.132.65 via (TCP)
+Mon May 15 12:03:56 2017: Initiating connection to 85.74.170.228 via (TCP)
+Mon May 15 12:03:56 2017: Initiating connection to 114.113.116.243 via (TCP)
+Mon May 15 12:03:56 2017: Initiating connection to 130.204.56.59 via (TCP)
+Mon May 15 12:03:56 2017: Initiating connection to 187.75.229.196 via (TCP)
+Mon May 15 12:03:56 2017: Initiating connection to 193.81.171.156 via (TCP)
+Mon May 15 12:03:56 2017: Initiating connection to 212.92.122.56 via (TCP)
+Mon May 15 12:03:56 2017: Authentication to 114.113.116.243 : failure
+Mon May 15 12:03:56 2017: Authentication to 212.92.122.56 : failure
+Mon May 15 12:03:56 2017: Authentication to 80.99.103.108 : ok
+Mon May 15 12:03:56 2017: Authentication to 82.39.41.233 : ok
+Mon May 15 12:03:56 2017: Authentication to 85.17.132.65 : ok
+Mon May 15 12:03:56 2017: Authentication to 193.81.171.156 : ok
+Mon May 15 12:03:56 2017: Connection closed
+Mon May 15 12:03:56 2017: Connection closed
+Mon May 15 12:03:57 2017: Authentication to 84.217.43.10 : ok
+Mon May 15 12:03:57 2017: Authentication to 130.204.56.59 : ok
+Mon May 15 12:03:57 2017: PEX: found 4 peers
+Mon May 15 12:03:57 2017: Connection closed
+Mon May 15 12:03:57 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 12:03:57 2017: Initiating connection to 104.238.169.105 via (TCP)
+Mon May 15 12:03:57 2017: Initiating connection to 157.50.14.230 via (TCP)
+Mon May 15 12:03:57 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 12:03:57 2017: Authentication to 104.238.169.105 : failure
+Mon May 15 12:03:57 2017: Connection closed
+Mon May 15 12:03:57 2017: Authentication to 85.74.170.228 : ok
+Mon May 15 12:03:58 2017: Connection closed
+Mon May 15 12:04:01 2017: Timeout occurred
+Mon May 15 12:04:01 2017: Authentication to 187.75.229.196 : failure
+Mon May 15 12:04:02 2017: Timeout occurred
+Mon May 15 12:04:02 2017: Authentication to 157.50.14.230 : failure
+Mon May 15 12:04:09 2017: Piece cache: memory in use 0 B, memory freed 32.00 KiB
+Mon May 15 12:04:19 2017: Piece cache: memory in use 0 B, memory freed 64.00 KiB
+Mon May 15 12:04:29 2017: Piece cache: memory in use 0 B, memory freed 48.00 KiB
+Mon May 15 12:04:39 2017: Piece cache: memory in use 0 B, memory freed 48.00 KiB
+Mon May 15 12:04:49 2017: Piece cache: memory in use 0 B, memory freed 32.00 KiB
+Mon May 15 12:04:57 2017: PEX: found 19 peers
+Mon May 15 12:04:57 2017: Initiating connection to 24.209.171.16 via (TCP)
+Mon May 15 12:04:57 2017: Initiating connection to 62.192.240.154 via (TCP)
+Mon May 15 12:04:57 2017: Initiating connection to 68.44.251.169 via (TCP)
+Mon May 15 12:04:57 2017: Initiating connection to 78.60.97.187 via (TCP)
+Mon May 15 12:04:57 2017: Initiating connection to 82.14.90.192 via (TCP)
+Mon May 15 12:04:57 2017: Initiating connection to 83.54.132.204 via (TCP)
+Mon May 15 12:04:57 2017: Initiating connection to 85.56.183.17 via (TCP)
+Mon May 15 12:04:57 2017: Initiating connection to 88.198.17.155 via (TCP)
+Mon May 15 12:04:57 2017: Initiating connection to 89.75.63.225 via (TCP)
+Mon May 15 12:04:57 2017: Initiating connection to 89.134.72.154 via (TCP)
+Mon May 15 12:04:57 2017: Initiating connection to 96.233.76.232 via (TCP)
+Mon May 15 12:04:57 2017: Initiating connection to 109.198.128.42 via (TCP)
+Mon May 15 12:04:57 2017: Initiating connection to 121.54.39.146 via (TCP)
+Mon May 15 12:04:57 2017: Initiating connection to 150.101.108.18 via (TCP)
+Mon May 15 12:04:57 2017: Initiating connection to 151.80.44.75 via (TCP)
+Mon May 15 12:04:57 2017: Initiating connection to 184.59.137.247 via (TCP)
+Mon May 15 12:04:57 2017: Initiating connection to 190.39.253.252 via (TCP)
+Mon May 15 12:04:57 2017: Initiating connection to 213.220.227.207 via (TCP)
+Mon May 15 12:04:57 2017: Initiating connection to 217.25.231.243 via (TCP)
+Mon May 15 12:04:58 2017: Authentication to 217.25.231.243 : failure
+Mon May 15 12:04:58 2017: Authentication to 24.209.171.16 : failure
+Mon May 15 12:04:58 2017: Authentication to 68.44.251.169 : failure
+Mon May 15 12:04:58 2017: Authentication to 88.198.17.155 : ok
+Mon May 15 12:04:58 2017: Authentication to 190.39.253.252 : failure
+Mon May 15 12:04:58 2017: Authentication to 213.220.227.207 : ok
+Mon May 15 12:04:58 2017: Authentication to 151.80.44.75 : ok
+Mon May 15 12:04:58 2017: Connection closed
+Mon May 15 12:04:58 2017: Connection closed
+Mon May 15 12:04:58 2017: Authentication to 85.56.183.17 : ok
+Mon May 15 12:04:58 2017: Authentication to 96.233.76.232 : ok
+Mon May 15 12:04:58 2017: Authentication to 184.59.137.247 : ok
+Mon May 15 12:04:59 2017: Authentication to 62.192.240.154 : ok
+Mon May 15 12:04:59 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 12:05:00 2017: Authentication to 82.14.90.192 : failure
+Mon May 15 12:05:01 2017: Authentication to 109.198.128.42 : ok
+Mon May 15 12:05:01 2017: Connection closed
+Mon May 15 12:05:02 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 12:05:02 2017: Timeout occurred
+Mon May 15 12:05:02 2017: Authentication to 78.60.97.187 : failure
+Mon May 15 12:05:02 2017: Timeout occurred
+Mon May 15 12:05:02 2017: Authentication to 83.54.132.204 : failure
+Mon May 15 12:05:02 2017: Timeout occurred
+Mon May 15 12:05:02 2017: Authentication to 89.75.63.225 : failure
+Mon May 15 12:05:02 2017: Timeout occurred
+Mon May 15 12:05:02 2017: Authentication to 89.134.72.154 : failure
+Mon May 15 12:05:02 2017: Timeout occurred
+Mon May 15 12:05:02 2017: Authentication to 121.54.39.146 : failure
+Mon May 15 12:05:02 2017: Timeout occurred
+Mon May 15 12:05:02 2017: Authentication to 150.101.108.18 : failure
+Mon May 15 12:05:12 2017: Piece cache: memory in use 0 B, memory freed 48.00 KiB
+Mon May 15 12:05:22 2017: Piece cache: memory in use 0 B, memory freed 32.00 KiB
+Mon May 15 12:05:32 2017: Piece cache: memory in use 0 B, memory freed 48.00 KiB
+Mon May 15 12:05:42 2017: Piece cache: memory in use 0 B, memory freed 32.00 KiB
+Mon May 15 12:05:52 2017: Piece cache: memory in use 0 B, memory freed 64.00 KiB
+Mon May 15 12:06:01 2017: PEX: found 8 peers
+Mon May 15 12:06:01 2017: Initiating connection to 5.254.103.3 via (TCP)
+Mon May 15 12:06:01 2017: Initiating connection to 81.164.118.234 via (TCP)
+Mon May 15 12:06:01 2017: Initiating connection to 84.217.43.10 via (TCP)
+Mon May 15 12:06:01 2017: Initiating connection to 85.66.251.250 via (TCP)
+Mon May 15 12:06:01 2017: Initiating connection to 93.227.152.54 via (TCP)
+Mon May 15 12:06:01 2017: Initiating connection to 94.233.167.124 via (TCP)
+Mon May 15 12:06:01 2017: Initiating connection to 130.204.56.59 via (TCP)
+Mon May 15 12:06:01 2017: Initiating connection to 193.81.171.156 via (TCP)
+Mon May 15 12:06:02 2017: Authentication to 5.254.103.3 : failure
+Mon May 15 12:06:02 2017: Authentication to 81.164.118.234 : failure
+Mon May 15 12:06:02 2017: Authentication to 193.81.171.156 : ok
+Mon May 15 12:06:02 2017: Piece cache: memory in use 0 B, memory freed 48.00 KiB
+Mon May 15 12:06:02 2017: Authentication to 130.204.56.59 : ok
+Mon May 15 12:06:02 2017: Authentication to 84.217.43.10 : ok
+Mon May 15 12:06:03 2017: Authentication to 85.66.251.250 : ok
+Mon May 15 12:06:03 2017: Connection closed
+Mon May 15 12:06:03 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 12:06:06 2017: Timeout occurred
+Mon May 15 12:06:06 2017: Authentication to 93.227.152.54 : failure
+Mon May 15 12:06:06 2017: Timeout occurred
+Mon May 15 12:06:06 2017: Authentication to 94.233.167.124 : failure
+Mon May 15 12:06:14 2017: Piece cache: memory in use 0 B, memory freed 48.00 KiB
+Mon May 15 12:06:24 2017: Piece cache: memory in use 0 B, memory freed 32.00 KiB
+Mon May 15 12:06:34 2017: Piece cache: memory in use 0 B, memory freed 32.00 KiB
+Mon May 15 12:06:44 2017: Piece cache: memory in use 0 B, memory freed 80.00 KiB
+Mon May 15 12:06:54 2017: Piece cache: memory in use 0 B, memory freed 48.00 KiB
+Mon May 15 12:07:03 2017: PEX: found 14 peers
+Mon May 15 12:07:03 2017: Initiating connection to 24.209.171.16 via (TCP)
+Mon May 15 12:07:03 2017: Initiating connection to 69.136.24.168 via (TCP)
+Mon May 15 12:07:03 2017: Initiating connection to 78.60.97.187 via (TCP)
+Mon May 15 12:07:03 2017: Initiating connection to 80.99.103.108 via (TCP)
+Mon May 15 12:07:03 2017: Initiating connection to 82.14.90.192 via (TCP)
+Mon May 15 12:07:03 2017: Initiating connection to 84.105.76.193 via (TCP)
+Mon May 15 12:07:03 2017: Initiating connection to 84.113.133.245 via (TCP)
+Mon May 15 12:07:03 2017: Initiating connection to 85.68.11.229 via (TCP)
+Mon May 15 12:07:03 2017: Initiating connection to 85.74.170.228 via (TCP)
+Mon May 15 12:07:03 2017: Initiating connection to 85.206.186.121 via (TCP)
+Mon May 15 12:07:03 2017: Initiating connection to 92.7.244.222 via (TCP)
+Mon May 15 12:07:03 2017: Initiating connection to 114.113.116.243 via (TCP)
+Mon May 15 12:07:03 2017: Initiating connection to 136.32.213.237 via (TCP)
+Mon May 15 12:07:03 2017: Initiating connection to 173.199.80.131 via (TCP)
+Mon May 15 12:07:03 2017: Authentication to 85.68.11.229 : failure
+Mon May 15 12:07:03 2017: Authentication to 173.199.80.131 : failure
+Mon May 15 12:07:03 2017: Authentication to 24.209.171.16 : failure
+Mon May 15 12:07:03 2017: Authentication to 80.99.103.108 : ok
+Mon May 15 12:07:03 2017: Authentication to 84.113.133.245 : ok
+Mon May 15 12:07:03 2017: Authentication to 85.206.186.121 : ok
+Mon May 15 12:07:03 2017: Authentication to 85.206.186.121 : failure
+Mon May 15 12:07:03 2017: Authentication to 114.113.116.243 : failure
+Mon May 15 12:07:04 2017: Authentication to 136.32.213.237 : ok
+Mon May 15 12:07:04 2017: Connection closed
+Mon May 15 12:07:04 2017: Connection closed
+Mon May 15 12:07:04 2017: Connection closed
+Mon May 15 12:07:04 2017: Authentication to 92.7.244.222 : ok
+Mon May 15 12:07:04 2017: Piece cache: memory in use 0 B, memory freed 32.00 KiB
+Mon May 15 12:07:04 2017: Authentication to 84.105.76.193 : ok
+Mon May 15 12:07:05 2017: Authentication to 85.74.170.228 : ok
+Mon May 15 12:07:05 2017: PEX: found 14 peers
+Mon May 15 12:07:05 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 12:07:05 2017: Initiating connection to 78.235.89.214 via (TCP)
+Mon May 15 12:07:05 2017: Initiating connection to 81.67.45.173 via (TCP)
+Mon May 15 12:07:05 2017: Initiating connection to 81.191.65.128 via (TCP)
+Mon May 15 12:07:05 2017: Initiating connection to 83.160.75.134 via (TCP)
+Mon May 15 12:07:05 2017: Initiating connection to 84.0.106.200 via (TCP)
+Mon May 15 12:07:05 2017: Initiating connection to 86.91.140.68 via (TCP)
+Mon May 15 12:07:05 2017: Initiating connection to 88.178.102.236 via (TCP)
+Mon May 15 12:07:05 2017: Initiating connection to 97.83.132.241 via (TCP)
+Mon May 15 12:07:05 2017: Initiating connection to 104.238.169.105 via (TCP)
+Mon May 15 12:07:05 2017: Initiating connection to 114.113.116.243 via (TCP)
+Mon May 15 12:07:05 2017: Initiating connection to 118.208.128.167 via (TCP)
+Mon May 15 12:07:05 2017: Initiating connection to 217.25.231.243 via (TCP)
+Mon May 15 12:07:06 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 12:07:06 2017: Authentication to 104.238.169.105 : failure
+Mon May 15 12:07:06 2017: Authentication to 217.25.231.243 : failure
+Mon May 15 12:07:06 2017: Connection closed
+Mon May 15 12:07:06 2017: Authentication to 84.0.106.200 : ok
+Mon May 15 12:07:06 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 12:07:06 2017: Authentication to 78.235.89.214 : ok
+Mon May 15 12:07:06 2017: Authentication to 81.67.45.173 : failure
+Mon May 15 12:07:06 2017: Authentication to 83.160.75.134 : ok
+Mon May 15 12:07:06 2017: Authentication to 97.83.132.241 : ok
+Mon May 15 12:07:07 2017: Authentication to 88.178.102.236 : ok
+Mon May 15 12:07:07 2017: Authentication to 82.14.90.192 : ok
+Mon May 15 12:07:07 2017: Authentication to 118.208.128.167 : ok
+Mon May 15 12:07:08 2017: PEX: found 13 peers
+Mon May 15 12:07:08 2017: Initiating connection to 2.247.244.129 via (TCP)
+Mon May 15 12:07:08 2017: Initiating connection to 24.144.57.192 via (TCP)
+Mon May 15 12:07:08 2017: Initiating connection to 47.15.14.130 via (TCP)
+Mon May 15 12:07:08 2017: Initiating connection to 49.144.184.44 via (TCP)
+Mon May 15 12:07:08 2017: Initiating connection to 58.97.16.16 via (TCP)
+Mon May 15 12:07:08 2017: Initiating connection to 62.85.32.33 via (TCP)
+Mon May 15 12:07:08 2017: Initiating connection to 76.219.76.126 via (TCP)
+Mon May 15 12:07:08 2017: Initiating connection to 77.98.254.56 via (TCP)
+Mon May 15 12:07:08 2017: Initiating connection to 81.203.43.32 via (TCP)
+Mon May 15 12:07:08 2017: Initiating connection to 89.138.177.165 via (TCP)
+Mon May 15 12:07:08 2017: Initiating connection to 114.113.116.243 via (TCP)
+Mon May 15 12:07:08 2017: Initiating connection to 197.2.192.54 via (TCP)
+Mon May 15 12:07:08 2017: Connection closed
+Mon May 15 12:07:08 2017: Timeout occurred
+Mon May 15 12:07:08 2017: Authentication to 69.136.24.168 : failure
+Mon May 15 12:07:08 2017: Timeout occurred
+Mon May 15 12:07:08 2017: Authentication to 78.60.97.187 : failure
+Mon May 15 12:07:08 2017: Authentication to 24.144.57.192 : ok
+Mon May 15 12:07:08 2017: Authentication to 77.98.254.56 : ok
+Mon May 15 12:07:08 2017: Authentication to 77.98.254.56 : failure
+Mon May 15 12:07:08 2017: Authentication to 197.2.192.54 : failure
+Mon May 15 12:07:08 2017: Connection closed
+Mon May 15 12:07:09 2017: Authentication to 89.138.177.165 : failure
+Mon May 15 12:07:09 2017: Authentication to 114.113.116.243 : failure
+Mon May 15 12:07:09 2017: Authentication to 62.85.32.33 : ok
+Mon May 15 12:07:09 2017: Authentication to 58.97.16.16 : failure
+Mon May 15 12:07:10 2017: Timeout occurred
+Mon May 15 12:07:10 2017: Authentication to 81.191.65.128 : failure
+Mon May 15 12:07:10 2017: Timeout occurred
+Mon May 15 12:07:10 2017: Authentication to 86.91.140.68 : failure
+Mon May 15 12:07:11 2017: Authentication to 114.113.116.243 : failure
+Mon May 15 12:07:12 2017: PEX: found 5 peers
+Mon May 15 12:07:12 2017: Initiating connection to 24.144.57.192 via (TCP)
+Mon May 15 12:07:12 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 12:07:12 2017: Initiating connection to 86.91.140.68 via (TCP)
+Mon May 15 12:07:12 2017: Initiating connection to 104.238.169.105 via (TCP)
+Mon May 15 12:07:12 2017: Initiating connection to 109.15.171.216 via (TCP)
+Mon May 15 12:07:12 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 12:07:12 2017: Authentication to 104.238.169.105 : failure
+Mon May 15 12:07:12 2017: Authentication to 24.144.57.192 : ok
+Mon May 15 12:07:12 2017: Authentication to 109.15.171.216 : ok
+Mon May 15 12:07:13 2017: Connection closed
+Mon May 15 12:07:13 2017: Timeout occurred
+Mon May 15 12:07:13 2017: Authentication to 2.247.244.129 : failure
+Mon May 15 12:07:13 2017: Timeout occurred
+Mon May 15 12:07:13 2017: Authentication to 47.15.14.130 : failure
+Mon May 15 12:07:13 2017: Timeout occurred
+Mon May 15 12:07:13 2017: Authentication to 49.144.184.44 : failure
+Mon May 15 12:07:13 2017: Timeout occurred
+Mon May 15 12:07:13 2017: Authentication to 76.219.76.126 : failure
+Mon May 15 12:07:13 2017: Timeout occurred
+Mon May 15 12:07:13 2017: Authentication to 81.203.43.32 : failure
+Mon May 15 12:07:13 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 12:07:17 2017: Timeout occurred
+Mon May 15 12:07:17 2017: Authentication to 86.91.140.68 : failure
+Mon May 15 12:07:23 2017: Piece cache: memory in use 0 B, memory freed 64.00 KiB
+Mon May 15 12:07:33 2017: Piece cache: memory in use 0 B, memory freed 32.00 KiB
+Mon May 15 12:07:43 2017: Piece cache: memory in use 0 B, memory freed 32.00 KiB
+Mon May 15 12:07:53 2017: Piece cache: memory in use 0 B, memory freed 64.00 KiB
+Mon May 15 12:08:03 2017: Piece cache: memory in use 0 B, memory freed 32.00 KiB
+Mon May 15 12:08:04 2017: PEX: found 12 peers
+Mon May 15 12:08:04 2017: Initiating connection to 70.91.213.114 via (TCP)
+Mon May 15 12:08:04 2017: Initiating connection to 82.169.21.25 via (TCP)
+Mon May 15 12:08:04 2017: Initiating connection to 84.24.142.235 via (TCP)
+Mon May 15 12:08:04 2017: Initiating connection to 86.15.59.207 via (TCP)
+Mon May 15 12:08:04 2017: Initiating connection to 89.134.72.154 via (TCP)
+Mon May 15 12:08:04 2017: Initiating connection to 94.233.167.124 via (TCP)
+Mon May 15 12:08:04 2017: Initiating connection to 118.189.197.168 via (TCP)
+Mon May 15 12:08:04 2017: Initiating connection to 155.4.158.175 via (TCP)
+Mon May 15 12:08:04 2017: Initiating connection to 173.244.48.66 via (TCP)
+Mon May 15 12:08:04 2017: Initiating connection to 202.150.104.251 via (TCP)
+Mon May 15 12:08:04 2017: Initiating connection to 213.55.176.129 via (TCP)
+Mon May 15 12:08:04 2017: Initiating connection to 213.93.237.85 via (TCP)
+Mon May 15 12:08:04 2017: Authentication to 70.91.213.114 : failure
+Mon May 15 12:08:04 2017: Authentication to 86.15.59.207 : failure
+Mon May 15 12:08:04 2017: Authentication to 173.244.48.66 : failure
+Mon May 15 12:08:05 2017: Authentication to 84.24.142.235 : ok
+Mon May 15 12:08:05 2017: Authentication to 118.189.197.168 : ok
+Mon May 15 12:08:05 2017: Authentication to 155.4.158.175 : ok
+Mon May 15 12:08:05 2017: Authentication to 202.150.104.251 : ok
+Mon May 15 12:08:05 2017: Connection closed
+Mon May 15 12:08:05 2017: Connection closed
+Mon May 15 12:08:05 2017: Connection closed
+Mon May 15 12:08:05 2017: Connection closed
+Mon May 15 12:08:05 2017: Authentication to 213.93.237.85 : failure
+Mon May 15 12:08:09 2017: Timeout occurred
+Mon May 15 12:08:09 2017: Authentication to 82.169.21.25 : failure
+Mon May 15 12:08:09 2017: Timeout occurred
+Mon May 15 12:08:09 2017: Authentication to 89.134.72.154 : failure
+Mon May 15 12:08:09 2017: Timeout occurred
+Mon May 15 12:08:09 2017: Authentication to 94.233.167.124 : failure
+Mon May 15 12:08:09 2017: Timeout occurred
+Mon May 15 12:08:09 2017: Authentication to 213.55.176.129 : failure
+Mon May 15 12:08:15 2017: Piece cache: memory in use 0 B, memory freed 64.00 KiB
+Mon May 15 12:08:25 2017: Piece cache: memory in use 0 B, memory freed 64.00 KiB
+Mon May 15 12:08:35 2017: Piece cache: memory in use 0 B, memory freed 64.00 KiB
+Mon May 15 12:08:45 2017: Piece cache: memory in use 0 B, memory freed 64.00 KiB
+Mon May 15 12:08:55 2017: Piece cache: memory in use 0 B, memory freed 48.00 KiB
+Mon May 15 12:09:05 2017: PEX: found 13 peers
+Mon May 15 12:09:05 2017: Initiating connection to 2.39.192.68 via (TCP)
+Mon May 15 12:09:05 2017: Initiating connection to 70.115.152.159 via (TCP)
+Mon May 15 12:09:05 2017: Initiating connection to 78.152.136.164 via (TCP)
+Mon May 15 12:09:05 2017: Initiating connection to 80.99.103.108 via (TCP)
+Mon May 15 12:09:05 2017: Initiating connection to 82.169.21.25 via (TCP)
+Mon May 15 12:09:05 2017: Initiating connection to 85.66.251.250 via (TCP)
+Mon May 15 12:09:05 2017: Initiating connection to 148.0.226.194 via (TCP)
+Mon May 15 12:09:05 2017: Initiating connection to 151.226.241.8 via (TCP)
+Mon May 15 12:09:05 2017: Initiating connection to 155.4.158.175 via (TCP)
+Mon May 15 12:09:05 2017: Initiating connection to 172.126.140.100 via (TCP)
+Mon May 15 12:09:05 2017: Initiating connection to 179.155.229.76 via (TCP)
+Mon May 15 12:09:05 2017: Initiating connection to 184.59.137.247 via (TCP)
+Mon May 15 12:09:05 2017: Initiating connection to 200.148.109.141 via (TCP)
+Mon May 15 12:09:05 2017: Authentication to 78.152.136.164 : ok
+Mon May 15 12:09:05 2017: Authentication to 80.99.103.108 : ok
+Mon May 15 12:09:05 2017: Authentication to 148.0.226.194 : ok
+Mon May 15 12:09:05 2017: Authentication to 155.4.158.175 : ok
+Mon May 15 12:09:05 2017: Authentication to 179.155.229.76 : ok
+Mon May 15 12:09:05 2017: Piece cache: memory in use 0 B, memory freed 64.00 KiB
+Mon May 15 12:09:05 2017: Authentication to 172.126.140.100 : ok
+Mon May 15 12:09:05 2017: Connection closed
+Mon May 15 12:09:05 2017: Connection closed
+Mon May 15 12:09:05 2017: Connection closed
+Mon May 15 12:09:05 2017: Connection closed
+Mon May 15 12:09:06 2017: Authentication to 85.66.251.250 : failure
+Mon May 15 12:09:06 2017: Authentication to 184.59.137.247 : ok
+Mon May 15 12:09:06 2017: Authentication to 151.226.241.8 : ok
+Mon May 15 12:09:08 2017: Authentication to 2.39.192.68 : ok
+Mon May 15 12:09:08 2017: Authentication to 70.115.152.159 : failure
+Mon May 15 12:09:09 2017: Connection closed
+Mon May 15 12:09:09 2017: Piece cache: memory in use 0 B, memory freed 32.00 KiB
+Mon May 15 12:09:10 2017: Timeout occurred
+Mon May 15 12:09:10 2017: Authentication to 82.169.21.25 : failure
+Mon May 15 12:09:10 2017: Timeout occurred
+Mon May 15 12:09:10 2017: Authentication to 200.148.109.141 : failure
+Mon May 15 12:09:20 2017: Piece cache: memory in use 0 B, memory freed 64.00 KiB
+Mon May 15 12:09:30 2017: Piece cache: memory in use 0 B, memory freed 64.00 KiB
+Mon May 15 12:09:40 2017: Piece cache: memory in use 0 B, memory freed 64.00 KiB
+Mon May 15 12:09:50 2017: Piece cache: memory in use 0 B, memory freed 32.00 KiB
+Mon May 15 12:10:00 2017: Piece cache: memory in use 0 B, memory freed 48.00 KiB
+Mon May 15 12:10:07 2017: PEX: found 18 peers
+Mon May 15 12:10:07 2017: Initiating connection to 2.39.192.68 via (TCP)
+Mon May 15 12:10:07 2017: Initiating connection to 37.133.236.94 via (TCP)
+Mon May 15 12:10:07 2017: Initiating connection to 37.200.14.89 via (TCP)
+Mon May 15 12:10:07 2017: Initiating connection to 74.57.70.123 via (TCP)
+Mon May 15 12:10:07 2017: Initiating connection to 78.60.97.187 via (TCP)
+Mon May 15 12:10:07 2017: Initiating connection to 78.97.173.94 via (TCP)
+Mon May 15 12:10:07 2017: Initiating connection to 82.169.21.25 via (TCP)
+Mon May 15 12:10:07 2017: Initiating connection to 85.68.11.229 via (TCP)
+Mon May 15 12:10:07 2017: Initiating connection to 86.15.59.207 via (TCP)
+Mon May 15 12:10:07 2017: Initiating connection to 88.198.17.155 via (TCP)
+Mon May 15 12:10:07 2017: Initiating connection to 89.133.34.18 via (TCP)
+Mon May 15 12:10:07 2017: Initiating connection to 89.134.72.154 via (TCP)
+Mon May 15 12:10:07 2017: Initiating connection to 92.7.244.222 via (TCP)
+Mon May 15 12:10:07 2017: Initiating connection to 114.113.116.243 via (TCP)
+Mon May 15 12:10:07 2017: Initiating connection to 118.189.197.168 via (TCP)
+Mon May 15 12:10:07 2017: Initiating connection to 158.58.134.121 via (TCP)
+Mon May 15 12:10:07 2017: Initiating connection to 173.239.216.26 via (TCP)
+Mon May 15 12:10:07 2017: Initiating connection to 200.148.109.141 via (TCP)
+Mon May 15 12:10:08 2017: Authentication to 85.68.11.229 : failure
+Mon May 15 12:10:08 2017: Authentication to 86.15.59.207 : failure
+Mon May 15 12:10:08 2017: Authentication to 158.58.134.121 : failure
+Mon May 15 12:10:08 2017: Authentication to 173.239.216.26 : failure
+Mon May 15 12:10:08 2017: Authentication to 74.57.70.123 : failure
+Mon May 15 12:10:08 2017: Authentication to 88.198.17.155 : ok
+Mon May 15 12:10:08 2017: Authentication to 89.133.34.18 : failure
+Mon May 15 12:10:08 2017: Authentication to 118.189.197.168 : ok
+Mon May 15 12:10:08 2017: Authentication to 37.133.236.94 : failure
+Mon May 15 12:10:08 2017: Authentication to 37.200.14.89 : ok
+Mon May 15 12:10:08 2017: Connection closed
+Mon May 15 12:10:08 2017: Connection closed
+Mon May 15 12:10:08 2017: Authentication to 78.97.173.94 : ok
+Mon May 15 12:10:08 2017: Connection closed
+Mon May 15 12:10:08 2017: Piece cache: memory in use 0 B, memory freed 32.00 KiB
+Mon May 15 12:10:09 2017: Authentication to 92.7.244.222 : ok
+Mon May 15 12:10:09 2017: Authentication to 114.113.116.243 : failure
+Mon May 15 12:10:09 2017: Connection closed
+Mon May 15 12:10:09 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 12:10:10 2017: Authentication to 2.39.192.68 : ok
+Mon May 15 12:10:10 2017: Connection closed
+Mon May 15 12:10:12 2017: Timeout occurred
+Mon May 15 12:10:12 2017: Authentication to 78.60.97.187 : failure
+Mon May 15 12:10:12 2017: Timeout occurred
+Mon May 15 12:10:12 2017: Authentication to 82.169.21.25 : failure
+Mon May 15 12:10:12 2017: Timeout occurred
+Mon May 15 12:10:12 2017: Authentication to 89.134.72.154 : failure
+Mon May 15 12:10:12 2017: Timeout occurred
+Mon May 15 12:10:12 2017: Authentication to 200.148.109.141 : failure
+Mon May 15 12:10:21 2017: Piece cache: memory in use 0 B, memory freed 48.00 KiB
+Mon May 15 12:10:31 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 12:10:41 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 12:10:51 2017: Piece cache: memory in use 0 B, memory freed 80.00 KiB
+Mon May 15 12:11:01 2017: Piece cache: memory in use 0 B, memory freed 48.00 KiB
+Mon May 15 12:11:07 2017: PEX: found 16 peers
+Mon May 15 12:11:07 2017: Initiating connection to 2.121.143.232 via (TCP)
+Mon May 15 12:11:07 2017: Initiating connection to 2.238.145.139 via (TCP)
+Mon May 15 12:11:07 2017: Initiating connection to 50.35.91.86 via (TCP)
+Mon May 15 12:11:07 2017: Initiating connection to 66.235.10.65 via (TCP)
+Mon May 15 12:11:07 2017: Initiating connection to 69.136.24.168 via (TCP)
+Mon May 15 12:11:07 2017: Initiating connection to 70.91.213.114 via (TCP)
+Mon May 15 12:11:07 2017: Initiating connection to 83.35.187.51 via (TCP)
+Mon May 15 12:11:07 2017: Initiating connection to 84.113.133.245 via (TCP)
+Mon May 15 12:11:07 2017: Initiating connection to 84.217.43.10 via (TCP)
+Mon May 15 12:11:07 2017: Initiating connection to 85.98.22.128 via (TCP)
+Mon May 15 12:11:07 2017: Initiating connection to 99.5.73.181 via (TCP)
+Mon May 15 12:11:07 2017: Initiating connection to 129.93.15.204 via (TCP)
+Mon May 15 12:11:07 2017: Initiating connection to 148.0.121.156 via (TCP)
+Mon May 15 12:11:07 2017: Initiating connection to 150.101.108.18 via (TCP)
+Mon May 15 12:11:07 2017: Initiating connection to 169.0.173.127 via (TCP)
+Mon May 15 12:11:07 2017: Initiating connection to 173.244.48.66 via (TCP)
+Mon May 15 12:11:08 2017: Authentication to 70.91.213.114 : failure
+Mon May 15 12:11:08 2017: Authentication to 173.244.48.66 : failure
+Mon May 15 12:11:08 2017: Authentication to 2.121.143.232 : ok
+Mon May 15 12:11:08 2017: Authentication to 83.35.187.51 : ok
+Mon May 15 12:11:08 2017: Authentication to 84.113.133.245 : failure
+Mon May 15 12:11:08 2017: Authentication to 84.217.43.10 : failure
+Mon May 15 12:11:08 2017: Authentication to 66.235.10.65 : failure
+Mon May 15 12:11:08 2017: Authentication to 148.0.121.156 : failure
+Mon May 15 12:11:08 2017: Connection closed
+Mon May 15 12:11:08 2017: Connection closed
+Mon May 15 12:11:08 2017: Authentication to 2.238.145.139 : ok
+Mon May 15 12:11:08 2017: Authentication to 85.98.22.128 : ok
+Mon May 15 12:11:08 2017: Piece cache: memory in use 0 B, memory freed 32.00 KiB
+Mon May 15 12:11:11 2017: PEX: found 6 peers
+Mon May 15 12:11:11 2017: Initiating connection to 2.235.175.226 via (TCP)
+Mon May 15 12:11:11 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 12:11:11 2017: Initiating connection to 81.191.65.128 via (TCP)
+Mon May 15 12:11:11 2017: Initiating connection to 104.238.169.105 via (TCP)
+Mon May 15 12:11:11 2017: Initiating connection to 114.113.116.243 via (TCP)
+Mon May 15 12:11:11 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 12:11:11 2017: Authentication to 104.238.169.105 : failure
+Mon May 15 12:11:11 2017: Authentication to 2.235.175.226 : ok
+Mon May 15 12:11:11 2017: Authentication to 114.113.116.243 : failure
+Mon May 15 12:11:11 2017: PEX: found 12 peers
+Mon May 15 12:11:11 2017: Initiating connection to 24.233.172.245 via (TCP)
+Mon May 15 12:11:11 2017: Initiating connection to 46.166.188.251 via (TCP)
+Mon May 15 12:11:11 2017: Initiating connection to 58.97.16.16 via (TCP)
+Mon May 15 12:11:11 2017: Initiating connection to 67.61.86.49 via (TCP)
+Mon May 15 12:11:11 2017: Initiating connection to 69.29.89.113 via (TCP)
+Mon May 15 12:11:11 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 12:11:11 2017: Initiating connection to 86.1.132.119 via (TCP)
+Mon May 15 12:11:11 2017: Initiating connection to 88.198.17.155 via (TCP)
+Mon May 15 12:11:11 2017: Initiating connection to 97.83.132.241 via (TCP)
+Mon May 15 12:11:11 2017: Initiating connection to 104.238.169.105 via (TCP)
+Mon May 15 12:11:11 2017: Initiating connection to 206.223.208.40 via (TCP)
+Mon May 15 12:11:12 2017: Authentication to 46.166.188.251 : failure
+Mon May 15 12:11:12 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 12:11:12 2017: Authentication to 104.238.169.105 : failure
+Mon May 15 12:11:12 2017: Authentication to 58.97.16.16 : failure
+Mon May 15 12:11:12 2017: Authentication to 86.1.132.119 : ok
+Mon May 15 12:11:12 2017: Authentication to 88.198.17.155 : ok
+Mon May 15 12:11:12 2017: PEX: found 15 peers
+Mon May 15 12:11:12 2017: Initiating connection to 65.19.10.118 via (TCP)
+Mon May 15 12:11:12 2017: Initiating connection to 67.61.86.49 via (TCP)
+Mon May 15 12:11:12 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 12:11:12 2017: Initiating connection to 73.215.219.147 via (TCP)
+Mon May 15 12:11:12 2017: Initiating connection to 76.100.166.254 via (TCP)
+Mon May 15 12:11:12 2017: Initiating connection to 80.101.63.133 via (TCP)
+Mon May 15 12:11:12 2017: Initiating connection to 93.227.152.54 via (TCP)
+Mon May 15 12:11:12 2017: Initiating connection to 98.218.34.60 via (TCP)
+Mon May 15 12:11:12 2017: Initiating connection to 104.238.169.105 via (TCP)
+Mon May 15 12:11:12 2017: Authentication to 206.223.208.40 : failure
+Mon May 15 12:11:12 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 12:11:12 2017: Authentication to 104.238.169.105 : failure
+Mon May 15 12:11:12 2017: Connection closed
+Mon May 15 12:11:12 2017: Connection closed
+Mon May 15 12:11:12 2017: Initiating connection to 110.23.141.37 via (TCP)
+Mon May 15 12:11:12 2017: Initiating connection to 184.59.137.247 via (TCP)
+Mon May 15 12:11:12 2017: Initiating connection to 190.229.211.26 via (TCP)
+Mon May 15 12:11:12 2017: Authentication to 97.83.132.241 : ok
+Mon May 15 12:11:12 2017: Authentication to 65.19.10.118 : failure
+Mon May 15 12:11:12 2017: Authentication to 76.100.166.254 : failure
+Mon May 15 12:11:12 2017: Authentication to 98.218.34.60 : failure
+Mon May 15 12:11:12 2017: Initiating connection to 194.228.76.171 via (TCP)
+Mon May 15 12:11:12 2017: Initiating connection to 206.223.208.40 via (TCP)
+Mon May 15 12:11:12 2017: Initiating connection to 212.24.102.20 via (TCP)
+Mon May 15 12:11:12 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 12:11:12 2017: Timeout occurred
+Mon May 15 12:11:12 2017: Authentication to 50.35.91.86 : failure
+Mon May 15 12:11:12 2017: Timeout occurred
+Mon May 15 12:11:12 2017: Authentication to 69.136.24.168 : failure
+Mon May 15 12:11:12 2017: Timeout occurred
+Mon May 15 12:11:12 2017: Authentication to 99.5.73.181 : failure
+Mon May 15 12:11:12 2017: Timeout occurred
+Mon May 15 12:11:12 2017: Authentication to 129.93.15.204 : failure
+Mon May 15 12:11:12 2017: Timeout occurred
+Mon May 15 12:11:12 2017: Authentication to 150.101.108.18 : failure
+Mon May 15 12:11:12 2017: Timeout occurred
+Mon May 15 12:11:12 2017: Authentication to 169.0.173.127 : failure
+Mon May 15 12:11:13 2017: Authentication to 80.101.63.133 : ok
+Mon May 15 12:11:13 2017: Authentication to 206.223.208.40 : ok
+Mon May 15 12:11:13 2017: Authentication to 110.23.141.37 : ok
+Mon May 15 12:11:13 2017: PEX: found 9 peers
+Mon May 15 12:11:13 2017: Connection closed
+Mon May 15 12:11:13 2017: Initiating connection to 2.235.175.226 via (TCP)
+Mon May 15 12:11:13 2017: Initiating connection to 66.192.207.78 via (TCP)
+Mon May 15 12:11:13 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 12:11:13 2017: Initiating connection to 81.191.65.128 via (TCP)
+Mon May 15 12:11:13 2017: Initiating connection to 88.198.17.155 via (TCP)
+Mon May 15 12:11:13 2017: Initiating connection to 93.227.152.54 via (TCP)
+Mon May 15 12:11:13 2017: Initiating connection to 97.83.132.241 via (TCP)
+Mon May 15 12:11:13 2017: Initiating connection to 104.238.169.105 via (TCP)
+Mon May 15 12:11:13 2017: Initiating connection to 109.228.53.87 via (TCP)
+Mon May 15 12:11:13 2017: Authentication to 184.59.137.247 : ok
+Mon May 15 12:11:13 2017: Authentication to 184.59.137.247 : failure
+Mon May 15 12:11:13 2017: Authentication to 212.24.102.20 : ok
+Mon May 15 12:11:13 2017: Authentication to 212.24.102.20 : failure
+Mon May 15 12:11:13 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 12:11:13 2017: Authentication to 104.238.169.105 : failure
+Mon May 15 12:11:14 2017: Authentication to 88.198.17.155 : ok
+Mon May 15 12:11:14 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 12:11:14 2017: Authentication to 2.235.175.226 : ok
+Mon May 15 12:11:14 2017: Authentication to 109.228.53.87 : ok
+Mon May 15 12:11:14 2017: Authentication to 97.83.132.241 : ok
+Mon May 15 12:11:14 2017: PEX: found 14 peers
+Mon May 15 12:11:14 2017: Initiating connection to 65.19.10.118 via (TCP)
+Mon May 15 12:11:14 2017: Initiating connection to 66.192.207.78 via (TCP)
+Mon May 15 12:11:14 2017: Initiating connection to 67.61.86.49 via (TCP)
+Mon May 15 12:11:14 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 12:11:14 2017: Initiating connection to 73.215.219.147 via (TCP)
+Mon May 15 12:11:14 2017: Initiating connection to 76.100.166.254 via (TCP)
+Mon May 15 12:11:14 2017: Initiating connection to 79.27.180.56 via (TCP)
+Mon May 15 12:11:14 2017: Initiating connection to 80.101.63.133 via (TCP)
+Mon May 15 12:11:14 2017: Initiating connection to 104.238.169.105 via (TCP)
+Mon May 15 12:11:15 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 12:11:15 2017: Authentication to 104.238.169.105 : failure
+Mon May 15 12:11:15 2017: Initiating connection to 184.59.137.247 via (TCP)
+Mon May 15 12:11:15 2017: Initiating connection to 190.229.211.26 via (TCP)
+Mon May 15 12:11:15 2017: Authentication to 65.19.10.118 : failure
+Mon May 15 12:11:15 2017: Authentication to 76.100.166.254 : failure
+Mon May 15 12:11:15 2017: Authentication to 80.101.63.133 : failure
+Mon May 15 12:11:15 2017: Initiating connection to 194.228.76.171 via (TCP)
+Mon May 15 12:11:15 2017: Initiating connection to 206.223.208.40 via (TCP)
+Mon May 15 12:11:15 2017: Initiating connection to 212.24.102.20 via (TCP)
+Mon May 15 12:11:15 2017: Authentication to 184.59.137.247 : failure
+Mon May 15 12:11:15 2017: Authentication to 206.223.208.40 : ok
+Mon May 15 12:11:16 2017: Connection closed
+Mon May 15 12:11:16 2017: Authentication to 212.24.102.20 : ok
+Mon May 15 12:11:16 2017: Timeout occurred
+Mon May 15 12:11:16 2017: Authentication to 81.191.65.128 : failure
+Mon May 15 12:11:16 2017: Timeout occurred
+Mon May 15 12:11:16 2017: Authentication to 24.233.172.245 : failure
+Mon May 15 12:11:16 2017: Timeout occurred
+Mon May 15 12:11:16 2017: Authentication to 67.61.86.49 : failure
+Mon May 15 12:11:16 2017: Timeout occurred
+Mon May 15 12:11:16 2017: Authentication to 69.29.89.113 : failure
+Mon May 15 12:11:17 2017: Authentication to 190.229.211.26 : failure
+Mon May 15 12:11:17 2017: Timeout occurred
+Mon May 15 12:11:17 2017: Authentication to 67.61.86.49 : failure
+Mon May 15 12:11:17 2017: Timeout occurred
+Mon May 15 12:11:17 2017: Authentication to 73.215.219.147 : failure
+Mon May 15 12:11:17 2017: Timeout occurred
+Mon May 15 12:11:17 2017: Authentication to 93.227.152.54 : failure
+Mon May 15 12:11:17 2017: Timeout occurred
+Mon May 15 12:11:17 2017: Authentication to 190.229.211.26 : failure
+Mon May 15 12:11:17 2017: Timeout occurred
+Mon May 15 12:11:17 2017: Authentication to 194.228.76.171 : failure
+Mon May 15 12:11:18 2017: Timeout occurred
+Mon May 15 12:11:18 2017: Authentication to 66.192.207.78 : failure
+Mon May 15 12:11:18 2017: Timeout occurred
+Mon May 15 12:11:18 2017: Authentication to 81.191.65.128 : failure
+Mon May 15 12:11:18 2017: Timeout occurred
+Mon May 15 12:11:18 2017: Authentication to 93.227.152.54 : failure
+Mon May 15 12:11:19 2017: PEX: found 14 peers
+Mon May 15 12:11:19 2017: Initiating connection to 2.235.175.226 via (TCP)
+Mon May 15 12:11:19 2017: Initiating connection to 2.238.145.139 via (TCP)
+Mon May 15 12:11:19 2017: Initiating connection to 23.94.215.197 via (TCP)
+Mon May 15 12:11:19 2017: Initiating connection to 58.96.127.18 via (TCP)
+Mon May 15 12:11:19 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 12:11:19 2017: Initiating connection to 78.56.194.249 via (TCP)
+Mon May 15 12:11:19 2017: Initiating connection to 85.183.149.50 via (TCP)
+Mon May 15 12:11:19 2017: Initiating connection to 91.64.162.28 via (TCP)
+Mon May 15 12:11:19 2017: Initiating connection to 93.103.251.53 via (TCP)
+Mon May 15 12:11:19 2017: Initiating connection to 104.238.169.105 via (TCP)
+Mon May 15 12:11:19 2017: Initiating connection to 109.15.171.216 via (TCP)
+Mon May 15 12:11:19 2017: Initiating connection to 114.113.116.243 via (TCP)
+Mon May 15 12:11:19 2017: Initiating connection to 157.50.14.230 via (TCP)
+Mon May 15 12:11:19 2017: Initiating connection to 190.229.211.26 via (TCP)
+Mon May 15 12:11:19 2017: Authentication to 58.96.127.18 : failure
+Mon May 15 12:11:19 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 12:11:19 2017: Authentication to 91.64.162.28 : failure
+Mon May 15 12:11:19 2017: Authentication to 104.238.169.105 : failure
+Mon May 15 12:11:19 2017: Authentication to 2.235.175.226 : ok
+Mon May 15 12:11:19 2017: Authentication to 78.56.194.249 : ok
+Mon May 15 12:11:19 2017: Authentication to 93.103.251.53 : ok
+Mon May 15 12:11:19 2017: Authentication to 114.113.116.243 : failure
+Mon May 15 12:11:19 2017: Timeout occurred
+Mon May 15 12:11:19 2017: Authentication to 66.192.207.78 : failure
+Mon May 15 12:11:19 2017: Timeout occurred
+Mon May 15 12:11:19 2017: Authentication to 67.61.86.49 : failure
+Mon May 15 12:11:19 2017: Timeout occurred
+Mon May 15 12:11:19 2017: Authentication to 73.215.219.147 : failure
+Mon May 15 12:11:19 2017: Timeout occurred
+Mon May 15 12:11:19 2017: Authentication to 79.27.180.56 : failure
+Mon May 15 12:11:20 2017: Authentication to 109.15.171.216 : ok
+Mon May 15 12:11:20 2017: Connection closed
+Mon May 15 12:11:20 2017: Connection closed
+Mon May 15 12:11:20 2017: PEX: found 11 peers
+Mon May 15 12:11:20 2017: Initiating connection to 65.19.10.118 via (TCP)
+Mon May 15 12:11:20 2017: Initiating connection to 66.192.207.78 via (TCP)
+Mon May 15 12:11:20 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 12:11:20 2017: Initiating connection to 73.215.219.147 via (TCP)
+Mon May 15 12:11:20 2017: Initiating connection to 79.27.180.56 via (TCP)
+Mon May 15 12:11:20 2017: Initiating connection to 104.238.169.105 via (TCP)
+Mon May 15 12:11:20 2017: Initiating connection to 184.59.137.247 via (TCP)
+Mon May 15 12:11:20 2017: Initiating connection to 190.229.211.26 via (TCP)
+Mon May 15 12:11:20 2017: Initiating connection to 194.228.76.171 via (TCP)
+Mon May 15 12:11:20 2017: Initiating connection to 206.223.208.40 via (TCP)
+Mon May 15 12:11:20 2017: Piece cache: memory in use 0 B, memory freed 32.00 KiB
+Mon May 15 12:11:20 2017: Timeout occurred
+Mon May 15 12:11:20 2017: Authentication to 194.228.76.171 : failure
+Mon May 15 12:11:20 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 12:11:20 2017: Authentication to 104.238.169.105 : failure
+Mon May 15 12:11:20 2017: Authentication to 2.238.145.139 : ok
+Mon May 15 12:11:20 2017: Authentication to 65.19.10.118 : failure
+Mon May 15 12:11:21 2017: Authentication to 190.229.211.26 : failure
+Mon May 15 12:11:21 2017: Authentication to 184.59.137.247 : ok
+Mon May 15 12:11:21 2017: Authentication to 206.223.208.40 : ok
+Mon May 15 12:11:21 2017: Authentication to 190.229.211.26 : failure
+Mon May 15 12:11:21 2017: Connection closed
+Mon May 15 12:11:24 2017: Timeout occurred
+Mon May 15 12:11:24 2017: Authentication to 23.94.215.197 : failure
+Mon May 15 12:11:24 2017: Timeout occurred
+Mon May 15 12:11:24 2017: Authentication to 85.183.149.50 : failure
+Mon May 15 12:11:24 2017: Timeout occurred
+Mon May 15 12:11:24 2017: Authentication to 157.50.14.230 : failure
+Mon May 15 12:11:25 2017: Timeout occurred
+Mon May 15 12:11:25 2017: Authentication to 66.192.207.78 : failure
+Mon May 15 12:11:25 2017: Timeout occurred
+Mon May 15 12:11:25 2017: Authentication to 73.215.219.147 : failure
+Mon May 15 12:11:25 2017: Timeout occurred
+Mon May 15 12:11:25 2017: Authentication to 79.27.180.56 : failure
+Mon May 15 12:11:25 2017: Timeout occurred
+Mon May 15 12:11:25 2017: Authentication to 194.228.76.171 : failure
+Mon May 15 12:11:32 2017: Piece cache: memory in use 0 B, memory freed 64.00 KiB
+Mon May 15 12:11:42 2017: Piece cache: memory in use 0 B, memory freed 48.00 KiB
+Mon May 15 12:11:52 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 12:12:02 2017: Piece cache: memory in use 0 B, memory freed 48.00 KiB
+Mon May 15 12:12:08 2017: PEX: found 12 peers
+Mon May 15 12:12:08 2017: Initiating connection to 37.200.14.89 via (TCP)
+Mon May 15 12:12:08 2017: Initiating connection to 61.213.80.194 via (TCP)
+Mon May 15 12:12:08 2017: Initiating connection to 74.57.70.123 via (TCP)
+Mon May 15 12:12:08 2017: Initiating connection to 75.136.31.40 via (TCP)
+Mon May 15 12:12:08 2017: Initiating connection to 77.102.117.2 via (TCP)
+Mon May 15 12:12:08 2017: Initiating connection to 85.66.251.250 via (TCP)
+Mon May 15 12:12:08 2017: Initiating connection to 85.74.170.228 via (TCP)
+Mon May 15 12:12:08 2017: Initiating connection to 85.206.186.121 via (TCP)
+Mon May 15 12:12:08 2017: Initiating connection to 173.163.213.138 via (TCP)
+Mon May 15 12:12:08 2017: Initiating connection to 186.0.204.114 via (TCP)
+Mon May 15 12:12:08 2017: Initiating connection to 200.148.109.141 via (TCP)
+Mon May 15 12:12:08 2017: Initiating connection to 217.132.24.158 via (TCP)
+Mon May 15 12:12:08 2017: Authentication to 186.0.204.114 : failure
+Mon May 15 12:12:08 2017: Authentication to 74.57.70.123 : failure
+Mon May 15 12:12:08 2017: Authentication to 75.136.31.40 : ok
+Mon May 15 12:12:08 2017: Authentication to 77.102.117.2 : ok
+Mon May 15 12:12:08 2017: Authentication to 85.206.186.121 : ok
+Mon May 15 12:12:08 2017: Authentication to 217.132.24.158 : failure
+Mon May 15 12:12:09 2017: Authentication to 37.200.14.89 : ok
+Mon May 15 12:12:09 2017: Connection closed
+Mon May 15 12:12:09 2017: Connection closed
+Mon May 15 12:12:09 2017: Connection closed
+Mon May 15 12:12:09 2017: Piece cache: memory in use 0 B, memory freed 32.00 KiB
+Mon May 15 12:12:09 2017: Connection closed
+Mon May 15 12:12:09 2017: Authentication to 85.74.170.228 : ok
+Mon May 15 12:12:10 2017: Authentication to 85.66.251.250 : failure
+Mon May 15 12:12:10 2017: Connection closed
+Mon May 15 12:12:13 2017: Timeout occurred
+Mon May 15 12:12:13 2017: Authentication to 61.213.80.194 : failure
+Mon May 15 12:12:13 2017: Timeout occurred
+Mon May 15 12:12:13 2017: Authentication to 173.163.213.138 : failure
+Mon May 15 12:12:13 2017: Timeout occurred
+Mon May 15 12:12:13 2017: Authentication to 200.148.109.141 : failure
+Mon May 15 12:12:21 2017: Piece cache: memory in use 0 B, memory freed 32.00 KiB
+Mon May 15 12:12:31 2017: Piece cache: memory in use 0 B, memory freed 48.00 KiB
+Mon May 15 12:12:41 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 12:12:51 2017: Piece cache: memory in use 0 B, memory freed 32.00 KiB
+Mon May 15 12:13:01 2017: Piece cache: memory in use 0 B, memory freed 48.00 KiB
+Mon May 15 12:13:08 2017: PEX: found 10 peers
+Mon May 15 12:13:08 2017: Initiating connection to 5.254.103.3 via (TCP)
+Mon May 15 12:13:08 2017: Initiating connection to 23.27.14.87 via (TCP)
+Mon May 15 12:13:08 2017: Initiating connection to 37.200.14.89 via (TCP)
+Mon May 15 12:13:08 2017: Initiating connection to 82.237.52.82 via (TCP)
+Mon May 15 12:13:08 2017: Initiating connection to 93.227.152.54 via (TCP)
+Mon May 15 12:13:08 2017: Initiating connection to 118.92.192.31 via (TCP)
+Mon May 15 12:13:08 2017: Initiating connection to 155.4.48.9 via (TCP)
+Mon May 15 12:13:08 2017: Initiating connection to 195.234.20.195 via (TCP)
+Mon May 15 12:13:08 2017: Initiating connection to 213.55.176.129 via (TCP)
+Mon May 15 12:13:08 2017: Initiating connection to 217.132.24.158 via (TCP)
+Mon May 15 12:13:08 2017: Authentication to 5.254.103.3 : failure
+Mon May 15 12:13:08 2017: Authentication to 37.200.14.89 : failure
+Mon May 15 12:13:08 2017: Authentication to 155.4.48.9 : ok
+Mon May 15 12:13:09 2017: Connection closed
+Mon May 15 12:13:09 2017: Authentication to 82.237.52.82 : failure
+Mon May 15 12:13:09 2017: Piece cache: memory in use 0 B, memory freed 48.00 KiB
+Mon May 15 12:13:09 2017: Authentication to 118.92.192.31 : ok
+Mon May 15 12:13:09 2017: Authentication to 217.132.24.158 : ok
+Mon May 15 12:13:10 2017: Connection closed
+Mon May 15 12:13:13 2017: Timeout occurred
+Mon May 15 12:13:13 2017: Authentication to 23.27.14.87 : failure
+Mon May 15 12:13:13 2017: Timeout occurred
+Mon May 15 12:13:13 2017: Authentication to 93.227.152.54 : failure
+Mon May 15 12:13:13 2017: Timeout occurred
+Mon May 15 12:13:13 2017: Authentication to 195.234.20.195 : failure
+Mon May 15 12:13:13 2017: Timeout occurred
+Mon May 15 12:13:13 2017: Authentication to 213.55.176.129 : failure
+Mon May 15 12:13:21 2017: Piece cache: memory in use 0 B, memory freed 64.00 KiB
+Mon May 15 12:13:31 2017: Piece cache: memory in use 0 B, memory freed 80.00 KiB
+Mon May 15 12:13:41 2017: Piece cache: memory in use 0 B, memory freed 48.00 KiB
+Mon May 15 12:13:51 2017: Piece cache: memory in use 0 B, memory freed 32.00 KiB
+Mon May 15 12:14:01 2017: Piece cache: memory in use 0 B, memory freed 64.00 KiB
+Mon May 15 12:14:09 2017: PEX: found 16 peers
+Mon May 15 12:14:09 2017: Initiating connection to 2.39.192.68 via (TCP)
+Mon May 15 12:14:09 2017: Initiating connection to 5.28.184.142 via (TCP)
+Mon May 15 12:14:09 2017: Initiating connection to 64.137.228.121 via (TCP)
+Mon May 15 12:14:09 2017: Initiating connection to 72.74.130.248 via (TCP)
+Mon May 15 12:14:09 2017: Initiating connection to 77.102.117.2 via (TCP)
+Mon May 15 12:14:09 2017: Initiating connection to 79.140.42.20 via (TCP)
+Mon May 15 12:14:09 2017: Initiating connection to 80.7.35.78 via (TCP)
+Mon May 15 12:14:09 2017: Initiating connection to 81.165.19.194 via (TCP)
+Mon May 15 12:14:09 2017: Initiating connection to 89.133.34.18 via (TCP)
+Mon May 15 12:14:09 2017: Initiating connection to 93.99.220.1 via (TCP)
+Mon May 15 12:14:09 2017: Initiating connection to 136.32.213.237 via (TCP)
+Mon May 15 12:14:09 2017: Initiating connection to 142.4.212.123 via (TCP)
+Mon May 15 12:14:09 2017: Initiating connection to 200.148.109.141 via (TCP)
+Mon May 15 12:14:09 2017: Initiating connection to 202.150.104.251 via (TCP)
+Mon May 15 12:14:09 2017: Initiating connection to 212.92.124.61 via (TCP)
+Mon May 15 12:14:09 2017: Initiating connection to 213.167.58.194 via (TCP)
+Mon May 15 12:14:09 2017: Authentication to 81.165.19.194 : failure
+Mon May 15 12:14:09 2017: Authentication to 93.99.220.1 : failure
+Mon May 15 12:14:09 2017: Authentication to 212.92.124.61 : failure
+Mon May 15 12:14:10 2017: Authentication to 5.28.184.142 : ok
+Mon May 15 12:14:10 2017: Authentication to 64.137.228.121 : failure
+Mon May 15 12:14:10 2017: Authentication to 72.74.130.248 : ok
+Mon May 15 12:14:10 2017: Authentication to 77.102.117.2 : ok
+Mon May 15 12:14:10 2017: Authentication to 89.133.34.18 : failure
+Mon May 15 12:14:10 2017: Authentication to 213.167.58.194 : ok
+Mon May 15 12:14:10 2017: Authentication to 136.32.213.237 : ok
+Mon May 15 12:14:10 2017: Authentication to 142.4.212.123 : ok
+Mon May 15 12:14:10 2017: Connection closed
+Mon May 15 12:14:10 2017: Connection closed
+Mon May 15 12:14:10 2017: Connection closed
+Mon May 15 12:14:10 2017: Connection closed
+Mon May 15 12:14:10 2017: Authentication to 79.140.42.20 : ok
+Mon May 15 12:14:10 2017: Authentication to 80.7.35.78 : ok
+Mon May 15 12:14:10 2017: PEX: found 12 peers
+Mon May 15 12:14:10 2017: Initiating connection to 2.238.145.139 via (TCP)
+Mon May 15 12:14:10 2017: Initiating connection to 5.186.88.131 via (TCP)
+Mon May 15 12:14:10 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 12:14:10 2017: Initiating connection to 72.201.91.84 via (TCP)
+Mon May 15 12:14:10 2017: Initiating connection to 81.132.107.237 via (TCP)
+Mon May 15 12:14:10 2017: Initiating connection to 81.191.65.128 via (TCP)
+Mon May 15 12:14:10 2017: Initiating connection to 84.0.106.200 via (TCP)
+Mon May 15 12:14:10 2017: Initiating connection to 86.1.132.119 via (TCP)
+Mon May 15 12:14:10 2017: Initiating connection to 104.238.169.105 via (TCP)
+Mon May 15 12:14:10 2017: Initiating connection to 109.15.171.216 via (TCP)
+Mon May 15 12:14:10 2017: Initiating connection to 114.113.116.243 via (TCP)
+Mon May 15 12:14:10 2017: Initiating connection to 213.143.126.215 via (TCP)
+Mon May 15 12:14:10 2017: Piece cache: memory in use 0 B, memory freed 32.00 KiB
+Mon May 15 12:14:10 2017: Authentication to 202.150.104.251 : ok
+Mon May 15 12:14:10 2017: Authentication to 202.150.104.251 : failure
+Mon May 15 12:14:10 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 12:14:10 2017: Authentication to 104.238.169.105 : failure
+Mon May 15 12:14:10 2017: Authentication to 114.113.116.243 : failure
+Mon May 15 12:14:10 2017: PEX: found 7 peers
+Mon May 15 12:14:10 2017: Initiating connection to 58.96.127.18 via (TCP)
+Mon May 15 12:14:10 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 12:14:10 2017: Initiating connection to 82.103.140.46 via (TCP)
+Mon May 15 12:14:10 2017: Initiating connection to 84.0.106.200 via (TCP)
+Mon May 15 12:14:10 2017: Initiating connection to 104.238.169.105 via (TCP)
+Mon May 15 12:14:10 2017: Initiating connection to 178.27.176.184 via (TCP)
+Mon May 15 12:14:11 2017: Authentication to 2.39.192.68 : ok
+Mon May 15 12:14:11 2017: Authentication to 84.0.106.200 : ok
+Mon May 15 12:14:11 2017: Authentication to 109.15.171.216 : ok
+Mon May 15 12:14:11 2017: Authentication to 109.15.171.216 : failure
+Mon May 15 12:14:11 2017: Authentication to 213.143.126.215 : ok
+Mon May 15 12:14:11 2017: Authentication to 213.143.126.215 : failure
+Mon May 15 12:14:11 2017: Authentication to 58.96.127.18 : failure
+Mon May 15 12:14:11 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 12:14:11 2017: Authentication to 82.103.140.46 : failure
+Mon May 15 12:14:11 2017: Authentication to 104.238.169.105 : failure
+Mon May 15 12:14:11 2017: Authentication to 5.186.88.131 : failure
+Mon May 15 12:14:11 2017: Authentication to 72.201.91.84 : ok
+Mon May 15 12:14:11 2017: Authentication to 86.1.132.119 : ok
+Mon May 15 12:14:11 2017: Authentication to 84.0.106.200 : ok
+Mon May 15 12:14:11 2017: Authentication to 2.238.145.139 : ok
+Mon May 15 12:14:14 2017: PEX: found 13 peers
+Mon May 15 12:14:14 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 12:14:14 2017: Initiating connection to 81.132.107.237 via (TCP)
+Mon May 15 12:14:14 2017: Initiating connection to 81.191.65.128 via (TCP)
+Mon May 15 12:14:14 2017: Initiating connection to 84.0.106.200 via (TCP)
+Mon May 15 12:14:14 2017: Initiating connection to 85.183.149.50 via (TCP)
+Mon May 15 12:14:14 2017: Initiating connection to 86.1.132.119 via (TCP)
+Mon May 15 12:14:14 2017: Initiating connection to 88.177.66.3 via (TCP)
+Mon May 15 12:14:14 2017: Initiating connection to 94.32.213.184 via (TCP)
+Mon May 15 12:14:14 2017: Initiating connection to 104.238.169.105 via (TCP)
+Mon May 15 12:14:14 2017: Initiating connection to 109.15.171.216 via (TCP)
+Mon May 15 12:14:14 2017: Initiating connection to 114.113.116.243 via (TCP)
+Mon May 15 12:14:14 2017: Initiating connection to 136.32.213.237 via (TCP)
+Mon May 15 12:14:14 2017: Initiating connection to 184.59.137.247 via (TCP)
+Mon May 15 12:14:14 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 12:14:14 2017: Authentication to 104.238.169.105 : failure
+Mon May 15 12:14:14 2017: Authentication to 114.113.116.243 : failure
+Mon May 15 12:14:14 2017: Authentication to 86.1.132.119 : ok
+Mon May 15 12:14:14 2017: Authentication to 109.15.171.216 : ok
+Mon May 15 12:14:14 2017: Timeout occurred
+Mon May 15 12:14:14 2017: Authentication to 200.148.109.141 : failure
+Mon May 15 12:14:14 2017: Authentication to 84.0.106.200 : ok
+Mon May 15 12:14:14 2017: Authentication to 136.32.213.237 : ok
+Mon May 15 12:14:14 2017: Connection closed
+Mon May 15 12:14:15 2017: Authentication to 184.59.137.247 : ok
+Mon May 15 12:14:15 2017: Connection closed
+Mon May 15 12:14:15 2017: PEX: found 13 peers
+Mon May 15 12:14:15 2017: Initiating connection to 5.186.88.131 via (TCP)
+Mon May 15 12:14:15 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 12:14:15 2017: Initiating connection to 72.201.91.84 via (TCP)
+Mon May 15 12:14:15 2017: Initiating connection to 81.132.107.237 via (TCP)
+Mon May 15 12:14:15 2017: Initiating connection to 81.191.65.128 via (TCP)
+Mon May 15 12:14:15 2017: Initiating connection to 83.160.75.134 via (TCP)
+Mon May 15 12:14:15 2017: Initiating connection to 86.1.132.119 via (TCP)
+Mon May 15 12:14:15 2017: Initiating connection to 104.238.169.105 via (TCP)
+Mon May 15 12:14:15 2017: Initiating connection to 114.113.116.243 via (TCP)
+Mon May 15 12:14:15 2017: Initiating connection to 213.143.126.215 via (TCP)
+Mon May 15 12:14:15 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 12:14:15 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 12:14:15 2017: Authentication to 104.238.169.105 : failure
+Mon May 15 12:14:15 2017: Authentication to 114.113.116.243 : failure
+Mon May 15 12:14:15 2017: Authentication to 86.1.132.119 : ok
+Mon May 15 12:14:15 2017: Authentication to 213.143.126.215 : ok
+Mon May 15 12:14:15 2017: Timeout occurred
+Mon May 15 12:14:15 2017: Authentication to 81.132.107.237 : failure
+Mon May 15 12:14:15 2017: Timeout occurred
+Mon May 15 12:14:15 2017: Authentication to 81.191.65.128 : failure
+Mon May 15 12:14:15 2017: Authentication to 178.27.176.184 : ok
+Mon May 15 12:14:15 2017: Authentication to 5.186.88.131 : failure
+Mon May 15 12:14:15 2017: Connection closed
+Mon May 15 12:14:16 2017: Authentication to 72.201.91.84 : ok
+Mon May 15 12:14:16 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 12:14:16 2017: Authentication to 83.160.75.134 : failure
+Mon May 15 12:14:19 2017: Timeout occurred
+Mon May 15 12:14:19 2017: Authentication to 81.132.107.237 : failure
+Mon May 15 12:14:19 2017: Timeout occurred
+Mon May 15 12:14:19 2017: Authentication to 81.191.65.128 : failure
+Mon May 15 12:14:19 2017: Timeout occurred
+Mon May 15 12:14:19 2017: Authentication to 85.183.149.50 : failure
+Mon May 15 12:14:19 2017: Timeout occurred
+Mon May 15 12:14:19 2017: Authentication to 88.177.66.3 : failure
+Mon May 15 12:14:19 2017: Timeout occurred
+Mon May 15 12:14:19 2017: Authentication to 94.32.213.184 : failure
+Mon May 15 12:14:20 2017: Timeout occurred
+Mon May 15 12:14:20 2017: Authentication to 81.132.107.237 : failure
+Mon May 15 12:14:20 2017: Timeout occurred
+Mon May 15 12:14:20 2017: Authentication to 81.191.65.128 : failure
+Mon May 15 12:14:21 2017: PEX: found 38 peers
+Mon May 15 12:14:21 2017: Initiating connection to 2.225.231.78 via (TCP)
+Mon May 15 12:14:21 2017: Initiating connection to 2.235.175.226 via (TCP)
+Mon May 15 12:14:21 2017: Initiating connection to 5.28.184.142 via (TCP)
+Mon May 15 12:14:21 2017: Initiating connection to 37.187.107.142 via (TCP)
+Mon May 15 12:14:21 2017: Initiating connection to 37.187.123.154 via (TCP)
+Mon May 15 12:14:21 2017: Initiating connection to 46.166.188.251 via (TCP)
+Mon May 15 12:14:21 2017: Initiating connection to 47.187.110.141 via (TCP)
+Mon May 15 12:14:21 2017: Initiating connection to 50.47.54.50 via (TCP)
+Mon May 15 12:14:21 2017: Initiating connection to 67.175.29.184 via (TCP)
+Mon May 15 12:14:21 2017: Initiating connection to 69.29.89.113 via (TCP)
+Mon May 15 12:14:21 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 12:14:21 2017: Initiating connection to 74.12.88.75 via (TCP)
+Mon May 15 12:14:21 2017: Initiating connection to 74.57.70.123 via (TCP)
+Mon May 15 12:14:21 2017: Initiating connection to 75.83.154.96 via (TCP)
+Mon May 15 12:14:21 2017: Initiating connection to 76.100.166.254 via (TCP)
+Mon May 15 12:14:21 2017: Initiating connection to 80.243.101.96 via (TCP)
+Mon May 15 12:14:21 2017: Initiating connection to 81.132.107.237 via (TCP)
+Mon May 15 12:14:21 2017: Initiating connection to 81.183.183.229 via (TCP)
+Mon May 15 12:14:21 2017: Initiating connection to 81.191.65.128 via (TCP)
+Mon May 15 12:14:21 2017: Initiating connection to 81.227.11.34 via (TCP)
+Mon May 15 12:14:21 2017: Initiating connection to 83.198.192.209 via (TCP)
+Mon May 15 12:14:22 2017: Authentication to 46.166.188.251 : failure
+Mon May 15 12:14:22 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 12:14:22 2017: Initiating connection to 84.0.106.200 via (TCP)
+Mon May 15 12:14:22 2017: Initiating connection to 85.144.24.173 via (TCP)
+Mon May 15 12:14:22 2017: Authentication to 2.225.231.78 : ok
+Mon May 15 12:14:22 2017: Authentication to 5.28.184.142 : ok
+Mon May 15 12:14:22 2017: Authentication to 37.187.107.142 : ok
+Mon May 15 12:14:22 2017: Authentication to 67.175.29.184 : ok
+Mon May 15 12:14:22 2017: Authentication to 74.12.88.75 : ok
+Mon May 15 12:14:22 2017: Authentication to 74.57.70.123 : failure
+Mon May 15 12:14:22 2017: Authentication to 81.183.183.229 : failure
+Mon May 15 12:14:22 2017: Initiating connection to 85.243.232.111 via (TCP)
+Mon May 15 12:14:22 2017: Initiating connection to 86.1.132.119 via (TCP)
+Mon May 15 12:14:22 2017: Initiating connection to 86.131.90.169 via (TCP)
+Mon May 15 12:14:22 2017: Initiating connection to 94.21.82.255 via (TCP)
+Mon May 15 12:14:22 2017: Initiating connection to 94.210.166.137 via (TCP)
+Mon May 15 12:14:22 2017: Initiating connection to 104.238.169.105 via (TCP)
+Mon May 15 12:14:22 2017: Initiating connection to 110.23.141.37 via (TCP)
+Mon May 15 12:14:22 2017: Authentication to 47.187.110.141 : ok
+Mon May 15 12:14:22 2017: Authentication to 75.83.154.96 : ok
+Mon May 15 12:14:22 2017: Authentication to 76.100.166.254 : failure
+Mon May 15 12:14:22 2017: Authentication to 81.227.11.34 : ok
+Mon May 15 12:14:22 2017: Authentication to 81.227.11.34 : failure
+Mon May 15 12:14:22 2017: Authentication to 84.0.106.200 : ok
+Mon May 15 12:14:22 2017: Authentication to 84.0.106.200 : failure
+Mon May 15 12:14:22 2017: Authentication to 104.238.169.105 : failure
+Mon May 15 12:14:22 2017: Connection closed
+Mon May 15 12:14:22 2017: Connection closed
+Mon May 15 12:14:22 2017: Connection closed
+Mon May 15 12:14:22 2017: Initiating connection to 114.113.116.243 via (TCP)
+Mon May 15 12:14:22 2017: Initiating connection to 118.208.128.167 via (TCP)
+Mon May 15 12:14:22 2017: Initiating connection to 125.168.230.15 via (TCP)
+Mon May 15 12:14:22 2017: Initiating connection to 138.68.245.159 via (TCP)
+Mon May 15 12:14:22 2017: Initiating connection to 148.0.121.156 via (TCP)
+Mon May 15 12:14:22 2017: Initiating connection to 200.207.216.32 via (TCP)
+Mon May 15 12:14:22 2017: Authentication to 2.235.175.226 : ok
+Mon May 15 12:14:22 2017: Authentication to 37.187.123.154 : ok
+Mon May 15 12:14:22 2017: Authentication to 80.243.101.96 : ok
+Mon May 15 12:14:22 2017: Authentication to 80.243.101.96 : failure
+Mon May 15 12:14:22 2017: Authentication to 85.144.24.173 : failure
+Mon May 15 12:14:22 2017: Authentication to 85.243.232.111 : ok
+Mon May 15 12:14:22 2017: Authentication to 85.243.232.111 : failure
+Mon May 15 12:14:22 2017: Authentication to 86.131.90.169 : ok
+Mon May 15 12:14:22 2017: Authentication to 86.131.90.169 : failure
+Mon May 15 12:14:22 2017: Authentication to 94.210.166.137 : failure
+Mon May 15 12:14:22 2017: Authentication to 114.113.116.243 : failure
+Mon May 15 12:14:22 2017: PEX: found 6 peers
+Mon May 15 12:14:22 2017: PEX: found 4 peers
+Mon May 15 12:14:22 2017: Connection closed
+Mon May 15 12:14:22 2017: Initiating connection to 58.96.127.18 via (TCP)
+Mon May 15 12:14:22 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 12:14:22 2017: Initiating connection to 81.191.65.128 via (TCP)
+Mon May 15 12:14:22 2017: Initiating connection to 86.1.132.119 via (TCP)
+Mon May 15 12:14:22 2017: Initiating connection to 88.177.66.3 via (TCP)
+Mon May 15 12:14:22 2017: Initiating connection to 104.238.169.105 via (TCP)
+Mon May 15 12:14:22 2017: Initiating connection to 157.48.4.254 via (TCP)
+Mon May 15 12:14:22 2017: Initiating connection to 206.223.208.40 via (TCP)
+Mon May 15 12:14:22 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 12:14:23 2017: Authentication to 50.47.54.50 : ok
+Mon May 15 12:14:23 2017: Authentication to 86.1.132.119 : ok
+Mon May 15 12:14:23 2017: Authentication to 94.21.82.255 : ok
+Mon May 15 12:14:23 2017: Authentication to 110.23.141.37 : failure
+Mon May 15 12:14:23 2017: Authentication to 118.208.128.167 : failure
+Mon May 15 12:14:23 2017: Authentication to 138.68.245.159 : ok
+Mon May 15 12:14:23 2017: Authentication to 138.68.245.159 : failure
+Mon May 15 12:14:23 2017: Authentication to 148.0.121.156 : ok
+Mon May 15 12:14:23 2017: Authentication to 200.207.216.32 : ok
+Mon May 15 12:14:23 2017: Authentication to 200.207.216.32 : failure
+Mon May 15 12:14:23 2017: Authentication to 58.96.127.18 : failure
+Mon May 15 12:14:23 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 12:14:23 2017: Authentication to 104.238.169.105 : failure
+Mon May 15 12:14:23 2017: Connection closed
+Mon May 15 12:14:23 2017: Connection closed
+Mon May 15 12:14:23 2017: Initiating connection to 212.24.102.20 via (TCP)
+Mon May 15 12:14:23 2017: Authentication to 125.168.230.15 : ok
+Mon May 15 12:14:23 2017: Authentication to 86.1.132.119 : ok
+Mon May 15 12:14:23 2017: Connection closed
+Mon May 15 12:14:23 2017: Connection closed
+Mon May 15 12:14:23 2017: Connection closed
+Mon May 15 12:14:23 2017: Connection closed
+Mon May 15 12:14:23 2017: Connection closed
+Mon May 15 12:14:23 2017: Authentication to 206.223.208.40 : ok
+Mon May 15 12:14:23 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 12:14:23 2017: PEX: found 14 peers
+Mon May 15 12:14:23 2017: Connection closed
+Mon May 15 12:14:23 2017: Connection closed
+Mon May 15 12:14:23 2017: Initiating connection to 2.238.145.139 via (TCP)
+Mon May 15 12:14:23 2017: Initiating connection to 5.28.184.142 via (TCP)
+Mon May 15 12:14:23 2017: Initiating connection to 46.166.188.251 via (TCP)
+Mon May 15 12:14:23 2017: Initiating connection to 58.97.16.16 via (TCP)
+Mon May 15 12:14:23 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 12:14:23 2017: Initiating connection to 81.227.11.34 via (TCP)
+Mon May 15 12:14:23 2017: Initiating connection to 86.1.132.119 via (TCP)
+Mon May 15 12:14:23 2017: Initiating connection to 86.131.90.169 via (TCP)
+Mon May 15 12:14:23 2017: Initiating connection to 130.111.182.45 via (TCP)
+Mon May 15 12:14:23 2017: Initiating connection to 178.27.176.184 via (TCP)
+Mon May 15 12:14:23 2017: Initiating connection to 197.148.44.91 via (TCP)
+Mon May 15 12:14:23 2017: Initiating connection to 200.207.216.32 via (TCP)
+Mon May 15 12:14:23 2017: Initiating connection to 213.41.150.98 via (TCP)
+Mon May 15 12:14:24 2017: Authentication to 212.24.102.20 : ok
+Mon May 15 12:14:24 2017: Authentication to 212.24.102.20 : failure
+Mon May 15 12:14:24 2017: Authentication to 46.166.188.251 : failure
+Mon May 15 12:14:24 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 12:14:24 2017: Authentication to 2.238.145.139 : failure
+Mon May 15 12:14:24 2017: Authentication to 86.1.132.119 : ok
+Mon May 15 12:14:24 2017: Authentication to 86.1.132.119 : failure
+Mon May 15 12:14:24 2017: Authentication to 86.131.90.169 : ok
+Mon May 15 12:14:24 2017: Authentication to 130.111.182.45 : ok
+Mon May 15 12:14:24 2017: Authentication to 130.111.182.45 : failure
+Mon May 15 12:14:24 2017: Authentication to 5.28.184.142 : ok
+Mon May 15 12:14:24 2017: Authentication to 200.207.216.32 : ok
+Mon May 15 12:14:24 2017: Connection closed
+Mon May 15 12:14:24 2017: Authentication to 81.227.11.34 : ok
+Mon May 15 12:14:24 2017: Authentication to 213.41.150.98 : ok
+Mon May 15 12:14:24 2017: PEX: found 8 peers
+Mon May 15 12:14:24 2017: Connection closed
+Mon May 15 12:14:24 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 12:14:24 2017: Initiating connection to 81.132.107.237 via (TCP)
+Mon May 15 12:14:24 2017: Initiating connection to 81.191.65.128 via (TCP)
+Mon May 15 12:14:24 2017: Initiating connection to 91.64.162.28 via (TCP)
+Mon May 15 12:14:24 2017: Initiating connection to 94.21.82.255 via (TCP)
+Mon May 15 12:14:24 2017: Initiating connection to 104.238.169.105 via (TCP)
+Mon May 15 12:14:24 2017: Initiating connection to 113.76.21.231 via (TCP)
+Mon May 15 12:14:24 2017: Initiating connection to 187.233.22.140 via (TCP)
+Mon May 15 12:14:25 2017: Authentication to 178.27.176.184 : failure
+Mon May 15 12:14:25 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 12:14:25 2017: Authentication to 91.64.162.28 : failure
+Mon May 15 12:14:25 2017: Authentication to 104.238.169.105 : failure
+Mon May 15 12:14:25 2017: Authentication to 58.97.16.16 : ok
+Mon May 15 12:14:25 2017: Authentication to 197.148.44.91 : failure
+Mon May 15 12:14:25 2017: Authentication to 94.21.82.255 : ok
+Mon May 15 12:14:25 2017: Authentication to 113.76.21.231 : failure
+Mon May 15 12:14:26 2017: PEX: found 9 peers
+Mon May 15 12:14:26 2017: Initiating connection to 2.238.145.139 via (TCP)
+Mon May 15 12:14:26 2017: Initiating connection to 46.166.188.251 via (TCP)
+Mon May 15 12:14:26 2017: Initiating connection to 66.192.207.78 via (TCP)
+Mon May 15 12:14:26 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 12:14:26 2017: Initiating connection to 86.1.132.119 via (TCP)
+Mon May 15 12:14:26 2017: Initiating connection to 130.111.182.45 via (TCP)
+Mon May 15 12:14:26 2017: Initiating connection to 178.27.176.184 via (TCP)
+Mon May 15 12:14:26 2017: Initiating connection to 197.148.44.91 via (TCP)
+Mon May 15 12:14:26 2017: Authentication to 46.166.188.251 : failure
+Mon May 15 12:14:26 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 12:14:26 2017: Authentication to 86.1.132.119 : ok
+Mon May 15 12:14:26 2017: Authentication to 86.1.132.119 : failure
+Mon May 15 12:14:26 2017: Connection closed
+Mon May 15 12:14:26 2017: Authentication to 130.111.182.45 : ok
+Mon May 15 12:14:26 2017: Authentication to 178.27.176.184 : failure
+Mon May 15 12:14:26 2017: Connection closed
+Mon May 15 12:14:26 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 12:14:26 2017: Timeout occurred
+Mon May 15 12:14:26 2017: Authentication to 69.29.89.113 : failure
+Mon May 15 12:14:26 2017: Timeout occurred
+Mon May 15 12:14:26 2017: Authentication to 81.132.107.237 : failure
+Mon May 15 12:14:26 2017: Timeout occurred
+Mon May 15 12:14:26 2017: Authentication to 81.191.65.128 : failure
+Mon May 15 12:14:26 2017: Timeout occurred
+Mon May 15 12:14:26 2017: Authentication to 83.198.192.209 : failure
+Mon May 15 12:14:27 2017: Authentication to 2.238.145.139 : ok
+Mon May 15 12:14:27 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 12:14:27 2017: PEX: found 11 peers
+Mon May 15 12:14:27 2017: Initiating connection to 5.28.184.142 via (TCP)
+Mon May 15 12:14:27 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 12:14:27 2017: Initiating connection to 81.132.107.237 via (TCP)
+Mon May 15 12:14:27 2017: Initiating connection to 81.191.65.128 via (TCP)
+Mon May 15 12:14:27 2017: Initiating connection to 91.64.162.28 via (TCP)
+Mon May 15 12:14:27 2017: Initiating connection to 94.21.82.255 via (TCP)
+Mon May 15 12:14:27 2017: Initiating connection to 104.238.169.105 via (TCP)
+Mon May 15 12:14:27 2017: Initiating connection to 113.76.21.231 via (TCP)
+Mon May 15 12:14:27 2017: Initiating connection to 187.233.22.140 via (TCP)
+Mon May 15 12:14:27 2017: Initiating connection to 212.24.102.20 via (TCP)
+Mon May 15 12:14:27 2017: Initiating connection to 213.41.150.98 via (TCP)
+Mon May 15 12:14:27 2017: Authentication to 197.148.44.91 : failure
+Mon May 15 12:14:27 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 12:14:27 2017: Authentication to 91.64.162.28 : failure
+Mon May 15 12:14:27 2017: Authentication to 104.238.169.105 : failure
+Mon May 15 12:14:27 2017: Authentication to 94.21.82.255 : failure
+Mon May 15 12:14:27 2017: Timeout occurred
+Mon May 15 12:14:27 2017: Authentication to 81.191.65.128 : failure
+Mon May 15 12:14:27 2017: Timeout occurred
+Mon May 15 12:14:27 2017: Authentication to 88.177.66.3 : failure
+Mon May 15 12:14:27 2017: Timeout occurred
+Mon May 15 12:14:27 2017: Authentication to 157.48.4.254 : failure
+Mon May 15 12:14:28 2017: Authentication to 5.28.184.142 : ok
+Mon May 15 12:14:28 2017: Authentication to 213.41.150.98 : ok
+Mon May 15 12:14:28 2017: Authentication to 113.76.21.231 : failure
+Mon May 15 12:14:28 2017: Connection closed
+Mon May 15 12:14:28 2017: Authentication to 212.24.102.20 : ok
+Mon May 15 12:14:29 2017: Piece cache: memory in use 0 B, memory freed 16.00 KiB
+Mon May 15 12:14:29 2017: Timeout occurred
+Mon May 15 12:14:29 2017: Authentication to 81.132.107.237 : failure
+Mon May 15 12:14:29 2017: Timeout occurred
+Mon May 15 12:14:29 2017: Authentication to 81.191.65.128 : failure
+Mon May 15 12:14:29 2017: Timeout occurred
+Mon May 15 12:14:29 2017: Authentication to 187.233.22.140 : failure
+Mon May 15 12:14:31 2017: Timeout occurred
+Mon May 15 12:14:31 2017: Authentication to 66.192.207.78 : failure
+Mon May 15 12:14:32 2017: Timeout occurred
+Mon May 15 12:14:32 2017: Authentication to 81.132.107.237 : failure
+Mon May 15 12:14:32 2017: Timeout occurred
+Mon May 15 12:14:32 2017: Authentication to 81.191.65.128 : failure
+Mon May 15 12:14:32 2017: Timeout occurred
+Mon May 15 12:14:32 2017: Authentication to 187.233.22.140 : failure
+Mon May 15 12:14:39 2017: Piece cache: memory in use 0 B, memory freed 64.00 KiB
+Mon May 15 12:14:49 2017: Piece cache: memory in use 0 B, memory freed 48.00 KiB
+Mon May 15 12:14:56 2017: Connection closed
+Mon May 15 12:14:56 2017: Piece cache: memory in use 0 B, memory freed 32.00 KiB
+Mon May 15 12:15:06 2017: Piece cache: memory in use 0 B, memory freed 48.00 KiB
+Mon May 15 12:15:10 2017: PEX: found 16 peers
+Mon May 15 12:15:10 2017: Initiating connection to 45.58.224.130 via (TCP)
+Mon May 15 12:15:10 2017: Initiating connection to 72.208.211.192 via (TCP)
+Mon May 15 12:15:10 2017: Initiating connection to 74.57.70.123 via (TCP)
+Mon May 15 12:15:10 2017: Initiating connection to 84.2.73.162 via (TCP)
+Mon May 15 12:15:10 2017: Initiating connection to 84.24.142.235 via (TCP)
+Mon May 15 12:15:10 2017: Initiating connection to 84.113.133.245 via (TCP)
+Mon May 15 12:15:10 2017: Initiating connection to 84.217.43.10 via (TCP)
+Mon May 15 12:15:10 2017: Initiating connection to 85.66.251.250 via (TCP)
+Mon May 15 12:15:10 2017: Initiating connection to 85.74.170.228 via (TCP)
+Mon May 15 12:15:10 2017: Initiating connection to 85.206.186.121 via (TCP)
+Mon May 15 12:15:10 2017: Initiating connection to 94.233.167.124 via (TCP)
+Mon May 15 12:15:10 2017: Initiating connection to 151.80.44.75 via (TCP)
+Mon May 15 12:15:10 2017: Initiating connection to 176.63.16.36 via (TCP)
+Mon May 15 12:15:10 2017: Initiating connection to 186.0.204.114 via (TCP)
+Mon May 15 12:15:10 2017: Initiating connection to 213.93.237.85 via (TCP)
+Mon May 15 12:15:10 2017: Initiating connection to 217.132.24.158 via (TCP)
+Mon May 15 12:15:10 2017: Authentication to 186.0.204.114 : failure
+Mon May 15 12:15:11 2017: Authentication to 72.208.211.192 : ok
+Mon May 15 12:15:11 2017: Authentication to 74.57.70.123 : failure
+Mon May 15 12:15:11 2017: Authentication to 84.24.142.235 : ok
+Mon May 15 12:15:11 2017: Authentication to 85.206.186.121 : ok
+Mon May 15 12:15:11 2017: Authentication to 213.93.237.85 : failure
+Mon May 15 12:15:11 2017: Authentication to 84.113.133.245 : failure
+Mon May 15 12:15:11 2017: Authentication to 151.80.44.75 : ok
+Mon May 15 12:15:11 2017: Connection closed
+Mon May 15 12:15:11 2017: Connection closed
+Mon May 15 12:15:11 2017: Connection closed
+Mon May 15 12:15:11 2017: Authentication to 84.217.43.10 : ok
+Mon May 15 12:15:11 2017: Authentication to 85.66.251.250 : failure
+Mon May 15 12:15:11 2017: Authentication to 217.132.24.158 : ok
+Mon May 15 12:15:11 2017: Piece cache: memory in use 0 B, memory freed 32.00 KiB
+Mon May 15 12:15:11 2017: Authentication to 85.74.170.228 : ok
+Mon May 15 12:15:12 2017: Connection closed
+Mon May 15 12:15:12 2017: Connection closed
+Mon May 15 12:15:15 2017: Timeout occurred
+Mon May 15 12:15:15 2017: Authentication to 45.58.224.130 : failure
+Mon May 15 12:15:15 2017: Timeout occurred
+Mon May 15 12:15:15 2017: Authentication to 84.2.73.162 : failure
+Mon May 15 12:15:15 2017: Timeout occurred
+Mon May 15 12:15:15 2017: Authentication to 94.233.167.124 : failure
+Mon May 15 12:15:15 2017: Timeout occurred
+Mon May 15 12:15:15 2017: Authentication to 176.63.16.36 : failure
+Mon May 15 12:15:22 2017: Piece cache: memory in use 0 B, memory freed 64.00 KiB
+Mon May 15 12:15:32 2017: Piece cache: memory in use 0 B, memory freed 48.00 KiB
+Mon May 15 12:15:42 2017: Piece cache: memory in use 0 B, memory freed 80.00 KiB
+Mon May 15 12:15:52 2017: Piece cache: memory in use 0 B, memory freed 48.00 KiB
+Mon May 15 12:16:02 2017: Piece cache: memory in use 0 B, memory freed 48.00 KiB
+Mon May 15 12:16:12 2017: Piece cache: memory in use 0 B, memory freed 32.00 KiB
+Mon May 15 12:16:13 2017: PEX: found 11 peers
+Mon May 15 12:16:13 2017: Initiating connection to 2.39.192.68 via (TCP)
+Mon May 15 12:16:13 2017: Initiating connection to 5.28.184.142 via (TCP)
+Mon May 15 12:16:13 2017: Initiating connection to 62.83.240.224 via (TCP)
+Mon May 15 12:16:13 2017: Initiating connection to 69.143.1.138 via (TCP)
+Mon May 15 12:16:13 2017: Initiating connection to 77.102.117.2 via (TCP)
+Mon May 15 12:16:13 2017: Initiating connection to 85.212.15.185 via (TCP)
+Mon May 15 12:16:13 2017: Initiating connection to 92.222.91.112 via (TCP)
+Mon May 15 12:16:13 2017: Initiating connection to 114.113.116.243 via (TCP)
+Mon May 15 12:16:13 2017: Initiating connection to 133.130.99.94 via (TCP)
+Mon May 15 12:16:13 2017: Initiating connection to 151.226.241.8 via (TCP)
+Mon May 15 12:16:13 2017: Initiating connection to 185.10.225.10 via (TCP)
+Mon May 15 12:16:13 2017: Authentication to 114.113.116.243 : failure
+Mon May 15 12:16:14 2017: Authentication to 5.28.184.142 : ok
+Mon May 15 12:16:14 2017: Authentication to 62.83.240.224 : ok
+Mon May 15 12:16:14 2017: Authentication to 77.102.117.2 : ok
+Mon May 15 12:16:14 2017: Authentication to 133.130.99.94 : ok
+Mon May 15 12:16:14 2017: Connection closed
+Mon May 15 12:16:14 2017: Connection closed
+Mon May 15 12:16:14 2017: Connection closed
+Mon May 15 12:16:14 2017: Authentication to 92.222.91.112 : ok
+Mon May 15 12:16:14 2017: PEX: found 7 peers
+Mon May 15 12:16:14 2017: Initiating connection to 50.47.54.50 via (TCP)
+Mon May 15 12:16:14 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 12:16:14 2017: Initiating connection to 81.191.65.128 via (TCP)
+Mon May 15 12:16:14 2017: Initiating connection to 82.38.95.144 via (TCP)
+Mon May 15 12:16:14 2017: Initiating connection to 84.0.106.200 via (TCP)
+Mon May 15 12:16:14 2017: Initiating connection to 94.32.213.184 via (TCP)
+Mon May 15 12:16:14 2017: Initiating connection to 104.238.169.105 via (TCP)
+Mon May 15 12:16:14 2017: Authentication to 2.39.192.68 : ok
+Mon May 15 12:16:14 2017: Authentication to 151.226.241.8 : ok
+Mon May 15 12:16:14 2017: Authentication to 151.226.241.8 : failure
+Mon May 15 12:16:14 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 12:16:14 2017: Authentication to 104.238.169.105 : failure
+Mon May 15 12:16:15 2017: Authentication to 84.0.106.200 : ok
+Mon May 15 12:16:15 2017: Authentication to 50.47.54.50 : ok
+Mon May 15 12:16:15 2017: Authentication to 50.47.54.50 : failure
+Mon May 15 12:16:17 2017: Authentication to 82.38.95.144 : failure
+Mon May 15 12:16:18 2017: PEX: found 14 peers
+Mon May 15 12:16:18 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 12:16:18 2017: Initiating connection to 70.187.3.18 via (TCP)
+Mon May 15 12:16:18 2017: Initiating connection to 71.174.233.168 via (TCP)
+Mon May 15 12:16:18 2017: Initiating connection to 79.27.180.56 via (TCP)
+Mon May 15 12:16:18 2017: Initiating connection to 81.191.65.128 via (TCP)
+Mon May 15 12:16:18 2017: Initiating connection to 81.203.43.32 via (TCP)
+Mon May 15 12:16:18 2017: Initiating connection to 84.0.106.200 via (TCP)
+Mon May 15 12:16:18 2017: Initiating connection to 85.183.149.50 via (TCP)
+Mon May 15 12:16:18 2017: Initiating connection to 88.177.66.3 via (TCP)
+Mon May 15 12:16:18 2017: Initiating connection to 91.115.111.141 via (TCP)
+Mon May 15 12:16:18 2017: Initiating connection to 104.238.169.105 via (TCP)
+Mon May 15 12:16:18 2017: Initiating connection to 109.129.29.159 via (TCP)
+Mon May 15 12:16:18 2017: Initiating connection to 128.199.97.254 via (TCP)
+Mon May 15 12:16:18 2017: Initiating connection to 133.130.99.94 via (TCP)
+Mon May 15 12:16:18 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 12:16:18 2017: Authentication to 91.115.111.141 : failure
+Mon May 15 12:16:18 2017: Authentication to 104.238.169.105 : failure
+Mon May 15 12:16:18 2017: Timeout occurred
+Mon May 15 12:16:18 2017: Authentication to 69.143.1.138 : failure
+Mon May 15 12:16:18 2017: Timeout occurred
+Mon May 15 12:16:18 2017: Authentication to 85.212.15.185 : failure
+Mon May 15 12:16:18 2017: Timeout occurred
+Mon May 15 12:16:18 2017: Authentication to 185.10.225.10 : failure
+Mon May 15 12:16:18 2017: Authentication to 71.174.233.168 : failure
+Mon May 15 12:16:19 2017: Authentication to 84.0.106.200 : ok
+Mon May 15 12:16:19 2017: Authentication to 133.130.99.94 : ok
+Mon May 15 12:16:19 2017: Connection closed
+Mon May 15 12:16:19 2017: PEX: found 5 peers
+Mon May 15 12:16:19 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 12:16:19 2017: Initiating connection to 81.191.65.128 via (TCP)
+Mon May 15 12:16:19 2017: Initiating connection to 82.38.95.144 via (TCP)
+Mon May 15 12:16:19 2017: Initiating connection to 84.0.106.200 via (TCP)
+Mon May 15 12:16:19 2017: Initiating connection to 104.238.169.105 via (TCP)
+Mon May 15 12:16:19 2017: Piece cache: memory in use 0 B, memory freed 32.00 KiB
+Mon May 15 12:16:19 2017: Timeout occurred
+Mon May 15 12:16:19 2017: Authentication to 81.191.65.128 : failure
+Mon May 15 12:16:19 2017: Timeout occurred
+Mon May 15 12:16:19 2017: Authentication to 94.32.213.184 : failure
+Mon May 15 12:16:19 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 12:16:19 2017: Authentication to 104.238.169.105 : failure
+Mon May 15 12:16:20 2017: Authentication to 84.0.106.200 : ok
+Mon May 15 12:16:20 2017: Connection closed
+Mon May 15 12:16:21 2017: Authentication to 82.38.95.144 : failure
+Mon May 15 12:16:22 2017: Authentication to 109.129.29.159 : ok
+Mon May 15 12:16:22 2017: PEX: found 13 peers
+Mon May 15 12:16:22 2017: Initiating connection to 50.47.54.50 via (TCP)
+Mon May 15 12:16:22 2017: Initiating connection to 58.97.16.16 via (TCP)
+Mon May 15 12:16:22 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 12:16:22 2017: Initiating connection to 75.136.31.40 via (TCP)
+Mon May 15 12:16:22 2017: Initiating connection to 81.132.107.237 via (TCP)
+Mon May 15 12:16:22 2017: Initiating connection to 81.191.65.128 via (TCP)
+Mon May 15 12:16:22 2017: Initiating connection to 84.0.106.200 via (TCP)
+Mon May 15 12:16:22 2017: Initiating connection to 84.112.51.58 via (TCP)
+Mon May 15 12:16:22 2017: Initiating connection to 88.177.66.3 via (TCP)
+Mon May 15 12:16:22 2017: Initiating connection to 91.115.111.141 via (TCP)
+Mon May 15 12:16:22 2017: Initiating connection to 94.32.213.184 via (TCP)
+Mon May 15 12:16:22 2017: Initiating connection to 104.238.169.105 via (TCP)
+Mon May 15 12:16:22 2017: Initiating connection to 114.113.116.243 via (TCP)
+Mon May 15 12:16:23 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 12:16:23 2017: Authentication to 91.115.111.141 : failure
+Mon May 15 12:16:23 2017: Authentication to 104.238.169.105 : failure
+Mon May 15 12:16:23 2017: Authentication to 114.113.116.243 : failure
+Mon May 15 12:16:23 2017: Authentication to 75.136.31.40 : ok
+Mon May 15 12:16:23 2017: Timeout occurred
+Mon May 15 12:16:23 2017: Authentication to 70.187.3.18 : failure
+Mon May 15 12:16:23 2017: Timeout occurred
+Mon May 15 12:16:23 2017: Authentication to 79.27.180.56 : failure
+Mon May 15 12:16:23 2017: Timeout occurred
+Mon May 15 12:16:23 2017: Authentication to 81.191.65.128 : failure
+Mon May 15 12:16:23 2017: Timeout occurred
+Mon May 15 12:16:23 2017: Authentication to 81.203.43.32 : failure
+Mon May 15 12:16:23 2017: Timeout occurred
+Mon May 15 12:16:23 2017: Authentication to 85.183.149.50 : failure
+Mon May 15 12:16:23 2017: Timeout occurred
+Mon May 15 12:16:23 2017: Authentication to 88.177.66.3 : failure
+Mon May 15 12:16:23 2017: Timeout occurred
+Mon May 15 12:16:23 2017: Authentication to 128.199.97.254 : failure
+Mon May 15 12:16:23 2017: Authentication to 58.97.16.16 : ok
+Mon May 15 12:16:23 2017: Authentication to 84.0.106.200 : ok
+Mon May 15 12:16:23 2017: Authentication to 84.112.51.58 : ok
+Mon May 15 12:16:23 2017: Connection closed
+Mon May 15 12:16:23 2017: Authentication to 50.47.54.50 : ok
+Mon May 15 12:16:23 2017: Connection closed
+Mon May 15 12:16:23 2017: Connection closed
+Mon May 15 12:16:24 2017: Timeout occurred
+Mon May 15 12:16:24 2017: Authentication to 81.191.65.128 : failure
+Mon May 15 12:16:27 2017: Timeout occurred
+Mon May 15 12:16:27 2017: Authentication to 81.132.107.237 : failure
+Mon May 15 12:16:27 2017: Timeout occurred
+Mon May 15 12:16:27 2017: Authentication to 81.191.65.128 : failure
+Mon May 15 12:16:27 2017: Timeout occurred
+Mon May 15 12:16:27 2017: Authentication to 88.177.66.3 : failure
+Mon May 15 12:16:27 2017: Timeout occurred
+Mon May 15 12:16:27 2017: Authentication to 94.32.213.184 : failure
+Mon May 15 12:16:34 2017: Piece cache: memory in use 0 B, memory freed 32.00 KiB
+Mon May 15 12:16:37 2017: Connection closed
+Mon May 15 12:16:38 2017: Piece cache: memory in use 0 B, memory freed 32.00 KiB
+Mon May 15 12:16:54 2017: Connection closed
