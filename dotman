@@ -38,14 +38,20 @@ function d()
 
 function argAdd() 
 {
+	# Filter out a `\` character
+	inpath="$(echo $1 | sed 's/\/$//g')"
+
 	# Call new item function
-	newItem "$1" "$1"
+	newItem "$inpath" "$inpath"
 }
 	
 function argImport() 
 {
+	# Filter out a `\` character
+	inpath="$(echo $1 | sed 's/\/$//g')"
+
 	# Call new item function
-	newItem "$1" "$2"
+	newItem "$inpath" "$2"
 }
 
 function newItem()
@@ -57,10 +63,7 @@ function newItem()
 		exit 1
 	fi
 
-	# Filter out a `\` character
-	$1=echo "$1" | sed "s/\/$//g"
-
-	# Get item's current location
+		# Get item's current location
 	cpath=$1
 
 	# Get item's use location
