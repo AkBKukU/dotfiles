@@ -1,0 +1,16 @@
+[Desktop Entry]
+DefaultProfile=New Profile.profile
+
+[Favorite Profiles]
+Favorites=New Profile.profile
+
+[KonsoleWindow]
+SaveGeometryOnExit=false
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAApEAAAGiAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
+
+[TabBar]
+TabBarPosition=Top
+TabBarVisibility=ShowTabBarWhenNeeded
