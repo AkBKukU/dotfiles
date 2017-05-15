@@ -109,7 +109,7 @@ Move or copy:\t\t$move"
 	result=$?
 
 	# Verify paths
-	if [[ "$result" != "0" && "$force" != "1" ]]
+	if [[ "$result" != "0" && "$force" != "1" && "$use" != "1" ]]
 	then 
 		exit 1
 	elif [[ "$result" != "2" && "$force" == "1" ]]
@@ -192,7 +192,7 @@ function gitSync()
 		for dir in "${cfglines[@]}"
 		do
 			# Stage any new files to commit
-			d "git add $configRoot${dir:1}/\\*"
+			d "git add $configRoot${dir:1}"
 		done
 		
 		# Get config name
