@@ -57,6 +57,9 @@ function newItem()
 		exit 1
 	fi
 
+	# Filter out a `\` character
+	$1=echo "$1" | sed "s/\/$//g"
+
 	# Get item's current location
 	cpath=$1
 
