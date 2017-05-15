@@ -31926,3 +31926,634 @@ Mon May 15 12:16:34 2017: Piece cache: memory in use 0 B, memory freed 32.00 KiB
 Mon May 15 12:16:37 2017: Connection closed
 Mon May 15 12:16:38 2017: Piece cache: memory in use 0 B, memory freed 32.00 KiB
 Mon May 15 12:16:54 2017: Connection closed
+Mon May 15 12:27:39 2017: Doing tracker request to url (via QHttp): http://tracker.raspberrypi.org:6969/announce?peer_id=-KT4310-YkK7crnO6FS7&port=6881&uploaded=57352119&downloaded=1426079794&left=0&compact=1&numwant=200&key=1632146454&info_hash=.%ed%aeT)%3a%aa%95%7c%da%b7%b9%f1%f2wm%16%da%8d%2b
+Mon May 15 12:27:39 2017: Request sent
+Mon May 15 12:27:39 2017: Doing scrape request to url : http://tracker.raspberrypi.org:6969/scrape?info_hash=.%ed%aeT)%3a%aa%95%7c%da%b7%b9%f1%f2wm%16%da%8d%2b
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:21A:2E70 via (TCP)
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:2EE:918B via (TCP)
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:514:C44B via (TCP)
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:51C:B88E via (TCP)
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:523:2EC5 via (TCP)
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:54F:4DE7 via (TCP)
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:591:D5FF via (TCP)
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:5A7:32BA via (TCP)
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:5E4:435F via (TCP)
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:5E6:9473 via (TCP)
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:184C:3924 via (TCP)
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:18D1:AB10 via (TCP)
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:18D4:8551 via (TCP)
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:1F2D:4275 via (TCP)
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:1F32:9626 via (TCP)
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:258B:185A via (TCP)
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:25BB:6122 via (TCP)
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:25C4:2AA6 via (TCP)
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:2943:8E68 via (TCP)
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:2D3B:8E26 via (TCP)
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:2E32:C2BC via (TCP)
+Mon May 15 12:27:40 2017: Scrape : leechers = 18, seeders = 850, downloaded = 10466
+Mon May 15 12:27:40 2017: Authentication to ::FFFF:21A:2E70 : ok
+Mon May 15 12:27:40 2017: Starting socketmonitor threads
+Mon May 15 12:27:40 2017: Authentication to ::FFFF:514:C44B : ok
+Mon May 15 12:27:40 2017: Authentication to ::FFFF:51C:B88E : ok
+Mon May 15 12:27:40 2017: Authentication to ::FFFF:54F:4DE7 : ok
+Mon May 15 12:27:40 2017: Authentication to ::FFFF:591:D5FF : ok
+Mon May 15 12:27:40 2017: Authentication to ::FFFF:5A7:32BA : ok
+Mon May 15 12:27:40 2017: Authentication to ::FFFF:5E6:9473 : ok
+Mon May 15 12:27:40 2017: Authentication to ::FFFF:18D1:AB10 : failure
+Mon May 15 12:27:40 2017: Authentication to ::FFFF:18D4:8551 : ok
+Mon May 15 12:27:40 2017: Authentication to ::FFFF:1F2D:4275 : ok
+Mon May 15 12:27:40 2017: Authentication to ::FFFF:258B:185A : ok
+Mon May 15 12:27:40 2017: Authentication to ::FFFF:25BB:6122 : ok
+Mon May 15 12:27:40 2017: Authentication to ::FFFF:25C4:2AA6 : ok
+Mon May 15 12:27:40 2017: Authentication to ::FFFF:2943:8E68 : failure
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:2E79:D2CB via (TCP)
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:2EF9:ED9F via (TCP)
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:2F88:C91D via (TCP)
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:3235:CF9 via (TCP)
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:3258:BFD1 via (TCP)
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:326A:180E via (TCP)
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:3E53:F0E0 via (TCP)
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:3E66:949C via (TCP)
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:413C:B5CB via (TCP)
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:41BA:371B via (TCP)
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:41BE:A58A via (TCP)
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:433D:19F8 via (TCP)
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:4477:DE17 via (TCP)
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:4495:979E via (TCP)
+Mon May 15 12:27:40 2017: Authentication to ::FFFF:1F32:9626 : ok
+Mon May 15 12:27:40 2017: Authentication to ::FFFF:1F32:9626 : failure
+Mon May 15 12:27:40 2017: Authentication to ::FFFF:2D3B:8E26 : failure
+Mon May 15 12:27:40 2017: Authentication to ::FFFF:3235:CF9 : failure
+Mon May 15 12:27:40 2017: Connection closed
+Mon May 15 12:27:40 2017: Connection closed
+Mon May 15 12:27:40 2017: Connection closed
+Mon May 15 12:27:40 2017: Connection closed
+Mon May 15 12:27:40 2017: Connection closed
+Mon May 15 12:27:40 2017: Connection closed
+Mon May 15 12:27:40 2017: Connection closed
+Mon May 15 12:27:40 2017: Connection closed
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:4496:4522 via (TCP)
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:45C4:81E1 via (TCP)
+Mon May 15 12:27:40 2017: Initiating connection to ::FFFF:4644:EBB1 via (TCP)
+Mon May 15 12:27:41 2017: Authentication to ::FFFF:2EF9:ED9F : ok
+Mon May 15 12:27:41 2017: Authentication to ::FFFF:2F88:C91D : ok
+Mon May 15 12:27:41 2017: Authentication to ::FFFF:3E53:F0E0 : ok
+Mon May 15 12:27:41 2017: Authentication to ::FFFF:413C:B5CB : ok
+Mon May 15 12:27:41 2017: Authentication to ::FFFF:433D:19F8 : ok
+Mon May 15 12:27:41 2017: Authentication to ::FFFF:433D:19F8 : failure
+Mon May 15 12:27:41 2017: Authentication to ::FFFF:4477:DE17 : failure
+Mon May 15 12:27:41 2017: Authentication to ::FFFF:4495:979E : ok
+Mon May 15 12:27:41 2017: Authentication to ::FFFF:4495:979E : failure
+Mon May 15 12:27:41 2017: Authentication to ::FFFF:4496:4522 : failure
+Mon May 15 12:27:41 2017: Authentication to ::FFFF:45C4:81E1 : failure
+Mon May 15 12:27:41 2017: Authentication to ::FFFF:4644:EBB1 : failure
+Mon May 15 12:27:41 2017: Connection closed
+Mon May 15 12:27:41 2017: Connection closed
+Mon May 15 12:27:41 2017: Connection closed
+Mon May 15 12:27:41 2017: Connection closed
+Mon May 15 12:27:41 2017: Initiating connection to ::FFFF:46B0:ACC9 via (TCP)
+Mon May 15 12:27:41 2017: Initiating connection to ::FFFF:48C9:5B54 via (TCP)
+Mon May 15 12:27:41 2017: Initiating connection to ::FFFF:49D7:DB93 via (TCP)
+Mon May 15 12:27:41 2017: Initiating connection to ::FFFF:4A39:467B via (TCP)
+Mon May 15 12:27:41 2017: Initiating connection to ::FFFF:4A58:9931 via (TCP)
+Mon May 15 12:27:41 2017: Initiating connection to ::FFFF:4C0B:725C via (TCP)
+Mon May 15 12:27:41 2017: Initiating connection to ::FFFF:4D62:8324 via (TCP)
+Mon May 15 12:27:41 2017: Initiating connection to ::FFFF:4E2E:BCFD via (TCP)
+Mon May 15 12:27:41 2017: Initiating connection to ::FFFF:4E55:5C6 via (TCP)
+Mon May 15 12:27:41 2017: Initiating connection to ::FFFF:4E61:AD5E via (TCP)
+Mon May 15 12:27:41 2017: Authentication to ::FFFF:2EE:918B : ok
+Mon May 15 12:27:41 2017: Authentication to ::FFFF:3E66:949C : failure
+Mon May 15 12:27:41 2017: Authentication to ::FFFF:46B0:ACC9 : failure
+Mon May 15 12:27:41 2017: Connection closed
+Mon May 15 12:27:41 2017: Connection closed
+Mon May 15 12:27:41 2017: Connection closed
+Mon May 15 12:27:41 2017: Connection closed
+Mon May 15 12:27:41 2017: Connection closed
+Mon May 15 12:27:41 2017: Connection closed
+Mon May 15 12:27:41 2017: Initiating connection to ::FFFF:4E98:88A4 via (TCP)
+Mon May 15 12:27:41 2017: Initiating connection to ::FFFF:4F76:A2EE via (TCP)
+Mon May 15 12:27:41 2017: Initiating connection to ::FFFF:4F8E:491B via (TCP)
+Mon May 15 12:27:41 2017: Authentication to ::FFFF:2E79:D2CB : ok
+Mon May 15 12:27:41 2017: Authentication to ::FFFF:48C9:5B54 : ok
+Mon May 15 12:27:41 2017: Authentication to ::FFFF:4A39:467B : failure
+Mon May 15 12:27:41 2017: Authentication to ::FFFF:4D62:8324 : ok
+Mon May 15 12:27:41 2017: Authentication to ::FFFF:4E2E:BCFD : failure
+Mon May 15 12:27:41 2017: Initiating connection to ::FFFF:505F:43B8 via (TCP)
+Mon May 15 12:27:41 2017: Initiating connection to ::FFFF:5060:7819 via (TCP)
+Mon May 15 12:27:41 2017: Initiating connection to ::FFFF:5065:3F85 via (TCP)
+Mon May 15 12:27:41 2017: Initiating connection to ::FFFF:50A3:193F via (TCP)
+Mon May 15 12:27:41 2017: Initiating connection to ::FFFF:50F2:2B3F via (TCP)
+Mon May 15 12:27:41 2017: Authentication to ::FFFF:4E98:88A4 : ok
+Mon May 15 12:27:41 2017: Authentication to ::FFFF:4E98:88A4 : failure
+Mon May 15 12:27:41 2017: Authentication to ::FFFF:5060:7819 : failure
+Mon May 15 12:27:41 2017: Connection closed
+Mon May 15 12:27:41 2017: Initiating connection to ::FFFF:51DC:A930 via (TCP)
+Mon May 15 12:27:41 2017: Initiating connection to ::FFFF:5202:BEFB via (TCP)
+Mon May 15 12:27:42 2017: Authentication to ::FFFF:4E61:AD5E : failure
+Mon May 15 12:27:42 2017: Authentication to ::FFFF:5202:BEFB : failure
+Mon May 15 12:27:42 2017: Connection closed
+Mon May 15 12:27:42 2017: PEX: found 6 peers
+Mon May 15 12:27:42 2017: Connection closed
+Mon May 15 12:27:42 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 12:27:42 2017: Initiating connection to 81.191.65.128 via (TCP)
+Mon May 15 12:27:42 2017: Authentication to ::FFFF:505F:43B8 : ok
+Mon May 15 12:27:42 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 12:27:42 2017: Initiating connection to 82.155.201.5 via (TCP)
+Mon May 15 12:27:42 2017: Initiating connection to 114.113.116.243 via (TCP)
+Mon May 15 12:27:42 2017: Authentication to ::FFFF:5065:3F85 : ok
+Mon May 15 12:27:42 2017: Authentication to 114.113.116.243 : failure
+Mon May 15 12:27:42 2017: Initiating connection to 157.50.14.230 via (TCP)
+Mon May 15 12:27:42 2017: Initiating connection to 206.223.208.40 via (TCP)
+Mon May 15 12:27:43 2017: Authentication to 206.223.208.40 : ok
+Mon May 15 12:27:43 2017: Initiating connection to ::FFFF:5208:DFE7 via (TCP)
+Mon May 15 12:27:43 2017: Connection closed
+Mon May 15 12:27:43 2017: Connection closed
+Mon May 15 12:27:45 2017: Authentication to 82.155.201.5 : failure
+Mon May 15 12:27:45 2017: Initiating connection to ::FFFF:520C:6BB5 via (TCP)
+Mon May 15 12:27:45 2017: Timeout occurred
+Mon May 15 12:27:45 2017: Authentication to ::FFFF:523:2EC5 : failure
+Mon May 15 12:27:45 2017: Timeout occurred
+Mon May 15 12:27:45 2017: Authentication to ::FFFF:5E4:435F : failure
+Mon May 15 12:27:45 2017: Timeout occurred
+Mon May 15 12:27:45 2017: Authentication to ::FFFF:184C:3924 : failure
+Mon May 15 12:27:45 2017: Timeout occurred
+Mon May 15 12:27:45 2017: Authentication to ::FFFF:2E32:C2BC : failure
+Mon May 15 12:27:45 2017: Initiating connection to ::FFFF:5214:A99B via (TCP)
+Mon May 15 12:27:45 2017: Initiating connection to ::FFFF:5323:BB33 via (TCP)
+Mon May 15 12:27:45 2017: Initiating connection to ::FFFF:532E:CBA5 via (TCP)
+Mon May 15 12:27:45 2017: Initiating connection to ::FFFF:5361:E97A via (TCP)
+Mon May 15 12:27:45 2017: Timeout occurred
+Mon May 15 12:27:45 2017: Authentication to ::FFFF:3258:BFD1 : failure
+Mon May 15 12:27:45 2017: Timeout occurred
+Mon May 15 12:27:45 2017: Authentication to ::FFFF:326A:180E : failure
+Mon May 15 12:27:45 2017: Timeout occurred
+Mon May 15 12:27:45 2017: Authentication to ::FFFF:41BA:371B : failure
+Mon May 15 12:27:45 2017: Timeout occurred
+Mon May 15 12:27:45 2017: Authentication to ::FFFF:41BE:A58A : failure
+Mon May 15 12:27:45 2017: Authentication to ::FFFF:5214:A99B : ok
+Mon May 15 12:27:45 2017: Starting socketmonitor threads
+Mon May 15 12:27:45 2017: Authentication to ::FFFF:5361:E97A : ok
+Mon May 15 12:27:45 2017: Initiating connection to ::FFFF:5363:B38C via (TCP)
+Mon May 15 12:27:45 2017: Initiating connection to ::FFFF:53A9:D80D via (TCP)
+Mon May 15 12:27:45 2017: Initiating connection to ::FFFF:53D5:E039 via (TCP)
+Mon May 15 12:27:45 2017: Initiating connection to ::FFFF:5470:333A via (TCP)
+Mon May 15 12:27:45 2017: Initiating connection to ::FFFF:54EC:2AD5 via (TCP)
+Mon May 15 12:27:45 2017: Initiating connection to ::FFFF:554C:12CB via (TCP)
+Mon May 15 12:27:46 2017: Connection closed
+Mon May 15 12:27:46 2017: Connection closed
+Mon May 15 12:27:46 2017: Timeout occurred
+Mon May 15 12:27:46 2017: Authentication to ::FFFF:49D7:DB93 : failure
+Mon May 15 12:27:46 2017: Timeout occurred
+Mon May 15 12:27:46 2017: Authentication to ::FFFF:4A58:9931 : failure
+Mon May 15 12:27:46 2017: Timeout occurred
+Mon May 15 12:27:46 2017: Authentication to ::FFFF:4C0B:725C : failure
+Mon May 15 12:27:46 2017: Timeout occurred
+Mon May 15 12:27:46 2017: Authentication to ::FFFF:4E55:5C6 : failure
+Mon May 15 12:27:46 2017: Authentication to ::FFFF:53D5:E039 : failure
+Mon May 15 12:27:46 2017: Initiating connection to ::FFFF:555D:3C5F via (TCP)
+Mon May 15 12:27:46 2017: Initiating connection to ::FFFF:5563:56DB via (TCP)
+Mon May 15 12:27:46 2017: Initiating connection to ::FFFF:55B7:9532 via (TCP)
+Mon May 15 12:27:46 2017: Initiating connection to ::FFFF:55F3:E86F via (TCP)
+Mon May 15 12:27:46 2017: Initiating connection to ::FFFF:5669:AA5B via (TCP)
+Mon May 15 12:27:46 2017: Timeout occurred
+Mon May 15 12:27:46 2017: Authentication to ::FFFF:4F76:A2EE : failure
+Mon May 15 12:27:46 2017: Timeout occurred
+Mon May 15 12:27:46 2017: Authentication to ::FFFF:4F8E:491B : failure
+Mon May 15 12:27:46 2017: Authentication to ::FFFF:5470:333A : ok
+Mon May 15 12:27:46 2017: Starting socketmonitor threads
+Mon May 15 12:27:46 2017: Authentication to ::FFFF:54EC:2AD5 : ok
+Mon May 15 12:27:46 2017: Initiating connection to ::FFFF:567F:9BAB via (TCP)
+Mon May 15 12:27:46 2017: Initiating connection to ::FFFF:56E5:F8F4 via (TCP)
+Mon May 15 12:27:46 2017: Initiating connection to ::FFFF:57E2:4BF5 via (TCP)
+Mon May 15 12:27:46 2017: Initiating connection to ::FFFF:58B3:4CC3 via (TCP)
+Mon May 15 12:27:46 2017: Timeout occurred
+Mon May 15 12:27:46 2017: Authentication to ::FFFF:50A3:193F : failure
+Mon May 15 12:27:46 2017: Timeout occurred
+Mon May 15 12:27:46 2017: Authentication to ::FFFF:50F2:2B3F : failure
+Mon May 15 12:27:46 2017: Authentication to ::FFFF:5563:56DB : ok
+Mon May 15 12:27:46 2017: Authentication to ::FFFF:55F3:E86F : failure
+Mon May 15 12:27:46 2017: Connection closed
+Mon May 15 12:27:46 2017: Initiating connection to ::FFFF:58CF:B1F6 via (TCP)
+Mon May 15 12:27:46 2017: Initiating connection to ::FFFF:5949:713D via (TCP)
+Mon May 15 12:27:46 2017: Initiating connection to ::FFFF:5967:26AD via (TCP)
+Mon May 15 12:27:46 2017: Initiating connection to ::FFFF:598A:B1A5 via (TCP)
+Mon May 15 12:27:46 2017: Timeout occurred
+Mon May 15 12:27:46 2017: Authentication to ::FFFF:51DC:A930 : failure
+Mon May 15 12:27:47 2017: Authentication to ::FFFF:5323:BB33 : ok
+Mon May 15 12:27:47 2017: Authentication to ::FFFF:56E5:F8F4 : failure
+Mon May 15 12:27:47 2017: Authentication to ::FFFF:57E2:4BF5 : ok
+Mon May 15 12:27:47 2017: Authentication to ::FFFF:57E2:4BF5 : failure
+Mon May 15 12:27:47 2017: Connection closed
+Mon May 15 12:27:47 2017: Initiating connection to ::FFFF:59A3:C41F via (TCP)
+Mon May 15 12:27:47 2017: Initiating connection to ::FFFF:59E5:DFA7 via (TCP)
+Mon May 15 12:27:47 2017: Initiating connection to ::FFFF:5B40:A21C via (TCP)
+Mon May 15 12:27:47 2017: Initiating connection to ::FFFF:5BE2:6A56 via (TCP)
+Mon May 15 12:27:47 2017: Timeout occurred
+Mon May 15 12:27:47 2017: Authentication to 81.191.65.128 : failure
+Mon May 15 12:27:47 2017: Authentication to ::FFFF:58B3:4CC3 : failure
+Mon May 15 12:27:47 2017: Authentication to ::FFFF:5949:713D : failure
+Mon May 15 12:27:47 2017: Authentication to ::FFFF:5B40:A21C : failure
+Mon May 15 12:27:47 2017: Connection closed
+Mon May 15 12:27:47 2017: Connection closed
+Mon May 15 12:27:47 2017: Initiating connection to ::FFFF:5CF9:E390 via (TCP)
+Mon May 15 12:27:47 2017: Initiating connection to ::FFFF:5DBB:7902 via (TCP)
+Mon May 15 12:27:47 2017: Initiating connection to ::FFFF:5E17:DC8D via (TCP)
+Mon May 15 12:27:47 2017: Initiating connection to ::FFFF:5E36:22C7 via (TCP)
+Mon May 15 12:27:47 2017: Authentication to ::FFFF:5967:26AD : ok
+Mon May 15 12:27:47 2017: Authentication to ::FFFF:598A:B1A5 : failure
+Mon May 15 12:27:47 2017: Authentication to ::FFFF:59A3:C41F : ok
+Mon May 15 12:27:47 2017: Authentication to ::FFFF:59E5:DFA7 : ok
+Mon May 15 12:27:47 2017: Authentication to ::FFFF:59E5:DFA7 : failure
+Mon May 15 12:27:47 2017: Initiating connection to ::FFFF:5E79:AAD0 via (TCP)
+Mon May 15 12:27:47 2017: Initiating connection to ::FFFF:5E7E:198 via (TCP)
+Mon May 15 12:27:47 2017: Initiating connection to ::FFFF:5F1E:DC08 via (TCP)
+Mon May 15 12:27:47 2017: Initiating connection to ::FFFF:5FAC:B750 via (TCP)
+Mon May 15 12:27:47 2017: Timeout occurred
+Mon May 15 12:27:47 2017: Authentication to 157.50.14.230 : failure
+Mon May 15 12:27:47 2017: Authentication to ::FFFF:5CF9:E390 : ok
+Mon May 15 12:27:47 2017: Authentication to ::FFFF:5E17:DC8D : ok
+Mon May 15 12:27:47 2017: Connection closed
+Mon May 15 12:27:47 2017: Connection closed
+Mon May 15 12:27:47 2017: Initiating connection to ::FFFF:6153:84F1 via (TCP)
+Mon May 15 12:27:47 2017: Initiating connection to ::FFFF:6271:A297 via (TCP)
+Mon May 15 12:27:47 2017: Initiating connection to ::FFFF:6305:49B5 via (TCP)
+Mon May 15 12:27:48 2017: Timeout occurred
+Mon May 15 12:27:48 2017: Authentication to ::FFFF:5208:DFE7 : failure
+Mon May 15 12:27:48 2017: Authentication to ::FFFF:5F1E:DC08 : ok
+Mon May 15 12:27:48 2017: Initiating connection to ::FFFF:63C6:A42E via (TCP)
+Mon May 15 12:27:48 2017: Initiating connection to ::FFFF:63E5:DA97 via (TCP)
+Mon May 15 12:27:48 2017: Authentication to ::FFFF:63C6:A42E : ok
+Mon May 15 12:27:48 2017: Connection closed
+Mon May 15 12:27:48 2017: Initiating connection to ::FFFF:63F5:452E via (TCP)
+Mon May 15 12:27:49 2017: Authentication to ::FFFF:5FAC:B750 : ok
+Mon May 15 12:27:49 2017: Authentication to ::FFFF:6153:84F1 : ok
+Mon May 15 12:27:49 2017: Connection closed
+Mon May 15 12:27:49 2017: Initiating connection to ::FFFF:6562:5DCD via (TCP)
+Mon May 15 12:27:49 2017: Initiating connection to ::FFFF:674E:9DDB via (TCP)
+Mon May 15 12:27:49 2017: Authentication to ::FFFF:63E5:DA97 : ok
+Mon May 15 12:27:49 2017: Authentication to ::FFFF:63E5:DA97 : failure
+Mon May 15 12:27:49 2017: Connection closed
+Mon May 15 12:27:49 2017: Initiating connection to ::FFFF:68EE:A93A via (TCP)
+Mon May 15 12:27:49 2017: Authentication to ::FFFF:6562:5DCD : ok
+Mon May 15 12:27:49 2017: Authentication to ::FFFF:674E:9DDB : ok
+Mon May 15 12:27:49 2017: Authentication to ::FFFF:674E:9DDB : failure
+Mon May 15 12:27:49 2017: Authentication to ::FFFF:68EE:A93A : failure
+Mon May 15 12:27:49 2017: Initiating connection to ::FFFF:68EE:A969 via (TCP)
+Mon May 15 12:27:49 2017: Initiating connection to ::FFFF:68FE:5C62 via (TCP)
+Mon May 15 12:27:49 2017: Initiating connection to ::FFFF:6CDC:1BC7 via (TCP)
+Mon May 15 12:27:49 2017: Authentication to ::FFFF:68EE:A969 : failure
+Mon May 15 12:27:49 2017: Connection closed
+Mon May 15 12:27:49 2017: Connection closed
+Mon May 15 12:27:49 2017: Initiating connection to ::FFFF:6DC1:C99A via (TCP)
+Mon May 15 12:27:50 2017: Timeout occurred
+Mon May 15 12:27:50 2017: Authentication to ::FFFF:520C:6BB5 : failure
+Mon May 15 12:27:50 2017: Authentication to ::FFFF:6DC1:C99A : failure
+Mon May 15 12:27:50 2017: Initiating connection to ::FFFF:6DE4:3557 via (TCP)
+Mon May 15 12:27:50 2017: Initiating connection to ::FFFF:7057:8228 via (TCP)
+Mon May 15 12:27:50 2017: Timeout occurred
+Mon May 15 12:27:50 2017: Authentication to ::FFFF:532E:CBA5 : failure
+Mon May 15 12:27:50 2017: Initiating connection to ::FFFF:7271:74F3 via (TCP)
+Mon May 15 12:27:50 2017: Authentication to ::FFFF:6DE4:3557 : ok
+Mon May 15 12:27:50 2017: Starting socketmonitor threads
+Mon May 15 12:27:50 2017: Initiating connection to ::FFFF:765C:C01F via (TCP)
+Mon May 15 12:27:50 2017: Timeout occurred
+Mon May 15 12:27:50 2017: Authentication to ::FFFF:5363:B38C : failure
+Mon May 15 12:27:50 2017: Timeout occurred
+Mon May 15 12:27:50 2017: Authentication to ::FFFF:53A9:D80D : failure
+Mon May 15 12:27:50 2017: Timeout occurred
+Mon May 15 12:27:50 2017: Authentication to ::FFFF:554C:12CB : failure
+Mon May 15 12:27:51 2017: Initiating connection to ::FFFF:76D0:80A7 via (TCP)
+Mon May 15 12:27:51 2017: Initiating connection to ::FFFF:7B03:D941 via (TCP)
+Mon May 15 12:27:51 2017: Initiating connection to ::FFFF:7C9A:83C1 via (TCP)
+Mon May 15 12:27:51 2017: PEX: found 7 peers
+Mon May 15 12:27:51 2017: Timeout occurred
+Mon May 15 12:27:51 2017: Authentication to ::FFFF:555D:3C5F : failure
+Mon May 15 12:27:51 2017: Timeout occurred
+Mon May 15 12:27:51 2017: Authentication to ::FFFF:55B7:9532 : failure
+Mon May 15 12:27:51 2017: Timeout occurred
+Mon May 15 12:27:51 2017: Authentication to ::FFFF:5669:AA5B : failure
+Mon May 15 12:27:51 2017: Authentication to ::FFFF:7B03:D941 : ok
+Mon May 15 12:27:51 2017: Initiating connection to 2.39.192.68 via (TCP)
+Mon May 15 12:27:51 2017: Initiating connection to 46.121.210.203 via (TCP)
+Mon May 15 12:27:51 2017: Initiating connection to 65.19.10.118 via (TCP)
+Mon May 15 12:27:51 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 12:27:51 2017: Timeout occurred
+Mon May 15 12:27:51 2017: Authentication to ::FFFF:567F:9BAB : failure
+Mon May 15 12:27:51 2017: Authentication to ::FFFF:7271:74F3 : failure
+Mon May 15 12:27:51 2017: Authentication to ::FFFF:7C9A:83C1 : failure
+Mon May 15 12:27:51 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 12:27:51 2017: Connection closed
+Mon May 15 12:27:51 2017: Initiating connection to 82.155.201.5 via (TCP)
+Mon May 15 12:27:51 2017: Initiating connection to 114.113.116.243 via (TCP)
+Mon May 15 12:27:51 2017: Initiating connection to 206.223.208.40 via (TCP)
+Mon May 15 12:27:51 2017: Initiating connection to ::FFFF:7CAA:63A0 via (TCP)
+Mon May 15 12:27:51 2017: Timeout occurred
+Mon May 15 12:27:51 2017: Authentication to ::FFFF:58CF:B1F6 : failure
+Mon May 15 12:27:52 2017: Authentication to ::FFFF:76D0:80A7 : ok
+Mon May 15 12:27:52 2017: Initiating connection to ::FFFF:7CC5:3DC7 via (TCP)
+Mon May 15 12:27:52 2017: Initiating connection to ::FFFF:8046:E5D1 via (TCP)
+Mon May 15 12:27:52 2017: Timeout occurred
+Mon May 15 12:27:52 2017: Authentication to ::FFFF:5BE2:6A56 : failure
+Mon May 15 12:27:52 2017: Initiating connection to ::FFFF:8820:D5ED via (TCP)
+Mon May 15 12:27:52 2017: Timeout occurred
+Mon May 15 12:27:52 2017: Authentication to ::FFFF:5DBB:7902 : failure
+Mon May 15 12:27:52 2017: Timeout occurred
+Mon May 15 12:27:52 2017: Authentication to ::FFFF:5E36:22C7 : failure
+Mon May 15 12:27:52 2017: Authentication to 206.223.208.40 : failure
+Mon May 15 12:27:52 2017: Initiating connection to ::FFFF:8AC5:9960 via (TCP)
+Mon May 15 12:27:52 2017: Initiating connection to ::FFFF:8D1C:9CC1 via (TCP)
+Mon May 15 12:27:52 2017: Initiating connection to ::FFFF:8E04:D47B via (TCP)
+Mon May 15 12:27:52 2017: Timeout occurred
+Mon May 15 12:27:52 2017: Authentication to ::FFFF:5E79:AAD0 : failure
+Mon May 15 12:27:52 2017: Timeout occurred
+Mon May 15 12:27:52 2017: Authentication to ::FFFF:5E7E:198 : failure
+Mon May 15 12:27:52 2017: Authentication to 46.121.210.203 : ok
+Mon May 15 12:27:52 2017: Authentication to ::FFFF:8046:E5D1 : ok
+Mon May 15 12:27:52 2017: Authentication to ::FFFF:8820:D5ED : ok
+Mon May 15 12:27:52 2017: Authentication to ::FFFF:8820:D5ED : failure
+Mon May 15 12:27:52 2017: Initiating connection to ::FFFF:904C:33C4 via (TCP)
+Mon May 15 12:27:52 2017: Initiating connection to ::FFFF:9400:799C via (TCP)
+Mon May 15 12:27:52 2017: Initiating connection to ::FFFF:94FB:8DAA via (TCP)
+Mon May 15 12:27:52 2017: Initiating connection to ::FFFF:95CA:C6C6 via (TCP)
+Mon May 15 12:27:52 2017: Initiating connection to ::FFFF:9750:2C4B via (TCP)
+Mon May 15 12:27:52 2017: Timeout occurred
+Mon May 15 12:27:52 2017: Authentication to ::FFFF:6271:A297 : failure
+Mon May 15 12:27:52 2017: Timeout occurred
+Mon May 15 12:27:52 2017: Authentication to ::FFFF:6305:49B5 : failure
+Mon May 15 12:27:53 2017: Authentication to 114.113.116.243 : failure
+Mon May 15 12:27:53 2017: Authentication to ::FFFF:8AC5:9960 : ok
+Mon May 15 12:27:53 2017: Authentication to ::FFFF:8AC5:9960 : failure
+Mon May 15 12:27:53 2017: Authentication to ::FFFF:8E04:D47B : failure
+Mon May 15 12:27:53 2017: Authentication to ::FFFF:904C:33C4 : failure
+Mon May 15 12:27:53 2017: Initiating connection to ::FFFF:A2C4:B1F1 via (TCP)
+Mon May 15 12:27:53 2017: Initiating connection to ::FFFF:A578:4B82 via (TCP)
+Mon May 15 12:27:53 2017: Initiating connection to ::FFFF:AD21:5C38 via (TCP)
+Mon May 15 12:27:53 2017: Initiating connection to ::FFFF:AD21:AB0E via (TCP)
+Mon May 15 12:27:53 2017: Initiating connection to ::FFFF:AD22:9A1D via (TCP)
+Mon May 15 12:27:53 2017: Initiating connection to ::FFFF:ADA3:D58A via (TCP)
+Mon May 15 12:27:53 2017: Authentication to ::FFFF:94FB:8DAA : failure
+Mon May 15 12:27:53 2017: Connection closed
+Mon May 15 12:27:53 2017: PEX: found 12 peers
+Mon May 15 12:27:53 2017: Connection closed
+Mon May 15 12:27:53 2017: Initiating connection to 2.39.192.68 via (TCP)
+Mon May 15 12:27:53 2017: Authentication to ::FFFF:95CA:C6C6 : ok
+Mon May 15 12:27:53 2017: Authentication to ::FFFF:AD22:9A1D : failure
+Mon May 15 12:27:53 2017: Connection closed
+Mon May 15 12:27:53 2017: Initiating connection to 46.166.188.251 via (TCP)
+Mon May 15 12:27:53 2017: Initiating connection to 58.97.16.16 via (TCP)
+Mon May 15 12:27:53 2017: Authentication to ::FFFF:9400:799C : ok
+Mon May 15 12:27:53 2017: Authentication to ::FFFF:9750:2C4B : ok
+Mon May 15 12:27:53 2017: Authentication to ::FFFF:9750:2C4B : failure
+Mon May 15 12:27:53 2017: Authentication to 46.166.188.251 : failure
+Mon May 15 12:27:53 2017: Initiating connection to 69.29.89.113 via (TCP)
+Mon May 15 12:27:53 2017: Initiating connection to 70.176.172.201 via (TCP)
+Mon May 15 12:27:53 2017: Initiating connection to 81.191.65.128 via (TCP)
+Mon May 15 12:27:53 2017: Timeout occurred
+Mon May 15 12:27:53 2017: Authentication to ::FFFF:63F5:452E : failure
+Mon May 15 12:27:54 2017: Authentication to 2.39.192.68 : failure
+Mon May 15 12:27:54 2017: Authentication to 58.97.16.16 : ok
+Mon May 15 12:27:54 2017: Authentication to 70.176.172.201 : failure
+Mon May 15 12:27:54 2017: Connection closed
+Mon May 15 12:27:54 2017: Connection closed
+Mon May 15 12:27:54 2017: Initiating connection to 86.211.212.126 via (TCP)
+Mon May 15 12:27:54 2017: Initiating connection to 93.164.217.122 via (TCP)
+Mon May 15 12:27:54 2017: Initiating connection to 114.113.116.243 via (TCP)
+Mon May 15 12:27:54 2017: Initiating connection to 124.197.61.199 via (TCP)
+Mon May 15 12:27:54 2017: Authentication to 114.113.116.243 : failure
+Mon May 15 12:27:54 2017: Initiating connection to 197.148.44.91 via (TCP)
+Mon May 15 12:27:54 2017: Timeout occurred
+Mon May 15 12:27:54 2017: Authentication to ::FFFF:68FE:5C62 : failure
+Mon May 15 12:27:54 2017: Timeout occurred
+Mon May 15 12:27:54 2017: Authentication to ::FFFF:6CDC:1BC7 : failure
+Mon May 15 12:27:54 2017: Initiating connection to 206.223.208.40 via (TCP)
+Mon May 15 12:27:54 2017: Initiating connection to ::FFFF:ADC6:7F06 via (TCP)
+Mon May 15 12:27:55 2017: Authentication to 65.19.10.118 : failure
+Mon May 15 12:27:55 2017: Authentication to ::FFFF:ADC6:7F06 : failure
+Mon May 15 12:27:55 2017: Initiating connection to ::FFFF:ADEF:E80E via (TCP)
+Mon May 15 12:27:55 2017: Initiating connection to ::FFFF:ADF4:2C38 via (TCP)
+Mon May 15 12:27:55 2017: Authentication to 206.223.208.40 : failure
+Mon May 15 12:27:55 2017: Authentication to ::FFFF:ADEF:E80E : failure
+Mon May 15 12:27:55 2017: Authentication to ::FFFF:ADF4:2C38 : failure
+Mon May 15 12:27:55 2017: Initiating connection to ::FFFF:ADF4:3042 via (TCP)
+Mon May 15 12:27:55 2017: Initiating connection to ::FFFF:AE37:C4D via (TCP)
+Mon May 15 12:27:55 2017: Initiating connection to ::FFFF:B009:2AD6 via (TCP)
+Mon May 15 12:27:55 2017: Timeout occurred
+Mon May 15 12:27:55 2017: Authentication to ::FFFF:7057:8228 : failure
+Mon May 15 12:27:55 2017: Authentication to ::FFFF:ADF4:3042 : failure
+Mon May 15 12:27:55 2017: Initiating connection to ::FFFF:B009:A006 via (TCP)
+Mon May 15 12:27:55 2017: Initiating connection to ::FFFF:B14A:3E44 via (TCP)
+Mon May 15 12:27:55 2017: Authentication to 82.155.201.5 : failure
+Mon May 15 12:27:55 2017: Authentication to 197.148.44.91 : failure
+Mon May 15 12:27:55 2017: Authentication to ::FFFF:B009:2AD6 : failure
+Mon May 15 12:27:55 2017: Initiating connection to ::FFFF:B277:F073 via (TCP)
+Mon May 15 12:27:55 2017: Initiating connection to ::FFFF:B328:5E82 via (TCP)
+Mon May 15 12:27:55 2017: Initiating connection to ::FFFF:B6B6:3AFF via (TCP)
+Mon May 15 12:27:55 2017: Timeout occurred
+Mon May 15 12:27:55 2017: Authentication to ::FFFF:765C:C01F : failure
+Mon May 15 12:27:56 2017: Authentication to ::FFFF:B009:A006 : ok
+Mon May 15 12:27:56 2017: Authentication to ::FFFF:B277:F073 : failure
+Mon May 15 12:27:56 2017: Authentication to ::FFFF:B328:5E82 : failure
+Mon May 15 12:27:56 2017: Initiating connection to ::FFFF:B83B:89F7 via (TCP)
+Mon May 15 12:27:56 2017: Initiating connection to ::FFFF:B909:136B via (TCP)
+Mon May 15 12:27:56 2017: Initiating connection to ::FFFF:B915:D8AB via (TCP)
+Mon May 15 12:27:56 2017: Initiating connection to ::FFFF:B96B:2D47 via (TCP)
+Mon May 15 12:27:56 2017: Authentication to ::FFFF:B96B:2D47 : failure
+Mon May 15 12:27:56 2017: Initiating connection to ::FFFF:BA2E:CDCA via (TCP)
+Mon May 15 12:27:56 2017: Authentication to ::FFFF:B915:D8AB : ok
+Mon May 15 12:27:56 2017: Connection closed
+Mon May 15 12:27:56 2017: Initiating connection to ::FFFF:BA95:77E5 via (TCP)
+Mon May 15 12:27:56 2017: Timeout occurred
+Mon May 15 12:27:56 2017: Authentication to 2.39.192.68 : failure
+Mon May 15 12:27:56 2017: Authentication to ::FFFF:B83B:89F7 : failure
+Mon May 15 12:27:56 2017: Connection closed
+Mon May 15 12:27:56 2017: Initiating connection to ::FFFF:BA9C:2575 via (TCP)
+Mon May 15 12:27:56 2017: Initiating connection to ::FFFF:BAD2:6918 via (TCP)
+Mon May 15 12:27:56 2017: Timeout occurred
+Mon May 15 12:27:56 2017: Authentication to ::FFFF:7CAA:63A0 : failure
+Mon May 15 12:27:57 2017: Authentication to ::FFFF:BA95:77E5 : ok
+Mon May 15 12:27:57 2017: Authentication to ::FFFF:BA9C:2575 : failure
+Mon May 15 12:27:57 2017: Initiating connection to ::FFFF:BAF9:47EE via (TCP)
+Mon May 15 12:27:57 2017: Initiating connection to ::FFFF:BB4B:E5C4 via (TCP)
+Mon May 15 12:27:57 2017: Initiating connection to ::FFFF:BB94:97C4 via (TCP)
+Mon May 15 12:27:57 2017: Timeout occurred
+Mon May 15 12:27:57 2017: Authentication to ::FFFF:7CC5:3DC7 : failure
+Mon May 15 12:27:57 2017: Authentication to ::FFFF:B909:136B : failure
+Mon May 15 12:27:57 2017: Connection closed
+Mon May 15 12:27:57 2017: Initiating connection to ::FFFF:BC1B:C727 via (TCP)
+Mon May 15 12:27:57 2017: Initiating connection to ::FFFF:BCA5:1ABF via (TCP)
+Mon May 15 12:27:57 2017: Authentication to ::FFFF:BAF9:47EE : ok
+Mon May 15 12:27:57 2017: Authentication to ::FFFF:BB4B:E5C4 : ok
+Mon May 15 12:27:57 2017: Authentication to ::FFFF:BB94:97C4 : ok
+Mon May 15 12:27:57 2017: Initiating connection to ::FFFF:BE0C:668A via (TCP)
+Mon May 15 12:27:57 2017: Initiating connection to ::FFFF:BE36:1052 via (TCP)
+Mon May 15 12:27:57 2017: Initiating connection to ::FFFF:BE64:2C5C via (TCP)
+Mon May 15 12:27:57 2017: Timeout occurred
+Mon May 15 12:27:57 2017: Authentication to ::FFFF:8D1C:9CC1 : failure
+Mon May 15 12:27:57 2017: Authentication to ::FFFF:BCA5:1ABF : ok
+Mon May 15 12:27:57 2017: Connection closed
+Mon May 15 12:27:57 2017: Connection closed
+Mon May 15 12:27:57 2017: Initiating connection to ::FFFF:BE88:5E1D via (TCP)
+Mon May 15 12:27:57 2017: Initiating connection to ::FFFF:C028:5F1E via (TCP)
+Mon May 15 12:27:58 2017: Authentication to ::FFFF:BE88:5E1D : failure
+Mon May 15 12:27:58 2017: Authentication to ::FFFF:C028:5F1E : failure
+Mon May 15 12:27:58 2017: Initiating connection to ::FFFF:C22A:6EB9 via (TCP)
+Mon May 15 12:27:58 2017: Initiating connection to ::FFFF:C38B:847E via (TCP)
+Mon May 15 12:27:58 2017: Timeout occurred
+Mon May 15 12:27:58 2017: Authentication to ::FFFF:A2C4:B1F1 : failure
+Mon May 15 12:27:58 2017: Timeout occurred
+Mon May 15 12:27:58 2017: Authentication to ::FFFF:A578:4B82 : failure
+Mon May 15 12:27:58 2017: Timeout occurred
+Mon May 15 12:27:58 2017: Authentication to ::FFFF:AD21:5C38 : failure
+Mon May 15 12:27:58 2017: Timeout occurred
+Mon May 15 12:27:58 2017: Authentication to ::FFFF:AD21:AB0E : failure
+Mon May 15 12:27:58 2017: Timeout occurred
+Mon May 15 12:27:58 2017: Authentication to ::FFFF:ADA3:D58A : failure
+Mon May 15 12:27:58 2017: Authentication to ::FFFF:BAD2:6918 : ok
+Mon May 15 12:27:58 2017: Authentication to ::FFFF:C22A:6EB9 : failure
+Mon May 15 12:27:58 2017: Connection closed
+Mon May 15 12:27:58 2017: Initiating connection to ::FFFF:C594:2C5B via (TCP)
+Mon May 15 12:27:58 2017: Initiating connection to ::FFFF:C925:A030 via (TCP)
+Mon May 15 12:27:58 2017: Initiating connection to ::FFFF:CEDF:D028 via (TCP)
+Mon May 15 12:27:58 2017: Initiating connection to ::FFFF:CF9B:32C4 via (TCP)
+Mon May 15 12:27:58 2017: Initiating connection to ::FFFF:D410:8D2C via (TCP)
+Mon May 15 12:27:58 2017: Initiating connection to ::FFFF:D433:9665 via (TCP)
+Mon May 15 12:27:58 2017: Initiating connection to ::FFFF:D45C:6C04 via (TCP)
+Mon May 15 12:27:58 2017: Authentication to ::FFFF:C38B:847E : ok
+Mon May 15 12:27:58 2017: Authentication to ::FFFF:D45C:6C04 : failure
+Mon May 15 12:27:58 2017: Initiating connection to ::FFFF:D475:111B via (TCP)
+Mon May 15 12:27:58 2017: Initiating connection to ::FFFF:D49F:76CB via (TCP)
+Mon May 15 12:27:58 2017: Authentication to ::FFFF:CEDF:D028 : ok
+Mon May 15 12:27:58 2017: Authentication to ::FFFF:CF9B:32C4 : failure
+Mon May 15 12:27:58 2017: Authentication to ::FFFF:D410:8D2C : failure
+Mon May 15 12:27:58 2017: Authentication to ::FFFF:D475:111B : failure
+Mon May 15 12:27:58 2017: Connection closed
+Mon May 15 12:27:58 2017: Initiating connection to ::FFFF:D515:5F50 via (TCP)
+Mon May 15 12:27:58 2017: Initiating connection to ::FFFF:D537:B081 via (TCP)
+Mon May 15 12:27:58 2017: Initiating connection to ::FFFF:D886:EA32 via (TCP)
+Mon May 15 12:27:58 2017: Initiating connection to ::FFFF:D91C:D0DB via (TCP)
+Mon May 15 12:27:58 2017: Timeout occurred
+Mon May 15 12:27:58 2017: Authentication to 69.29.89.113 : failure
+Mon May 15 12:27:58 2017: Timeout occurred
+Mon May 15 12:27:58 2017: Authentication to 81.191.65.128 : failure
+Mon May 15 12:27:59 2017: Connection closed
+Mon May 15 12:27:59 2017: Initiating connection to ::FFFF:D984:189E via (TCP)
+Mon May 15 12:27:59 2017: Initiating connection to ::FFFF:D9C5:B934 via (TCP)
+Mon May 15 12:27:59 2017: Timeout occurred
+Mon May 15 12:27:59 2017: Authentication to 86.211.212.126 : failure
+Mon May 15 12:27:59 2017: Timeout occurred
+Mon May 15 12:27:59 2017: Authentication to 93.164.217.122 : failure
+Mon May 15 12:27:59 2017: Timeout occurred
+Mon May 15 12:27:59 2017: Authentication to 124.197.61.199 : failure
+Mon May 15 12:27:59 2017: Authentication to ::FFFF:D49F:76CB : failure
+Mon May 15 12:27:59 2017: Authentication to ::FFFF:D886:EA32 : ok
+Mon May 15 12:27:59 2017: Initiating connection to ::FFFF:DBA0:463A via (TCP)
+Mon May 15 12:27:59 2017: Initiating connection to ::FFFF:DC69:A884 via (TCP)
+Mon May 15 12:27:59 2017: Initiating connection to ::FFFF:DFCC:F74B via (TCP)
+Mon May 15 12:27:59 2017: Initiating connection to 2001:0:9D38:6ABD:3C56:238B:A690:2286 via (TCP)
+Mon May 15 12:27:59 2017: Cannot connect to host 2001:0:9D38:6ABD:3C56:238B:A690:2286 : Network is unreachable
+Mon May 15 12:27:59 2017: Initiating connection to 2001:470:5990::1 via (TCP)
+Mon May 15 12:27:59 2017: Cannot connect to host 2001:470:5990::1 : Network is unreachable
+Mon May 15 12:27:59 2017: Timeout occurred
+Mon May 15 12:27:59 2017: Authentication to 2001:0:9D38:6ABD:3C56:238B:A690:2286 : failure
+Mon May 15 12:27:59 2017: Timeout occurred
+Mon May 15 12:27:59 2017: Authentication to 2001:470:5990::1 : failure
+Mon May 15 12:27:59 2017: Authentication to ::FFFF:C594:2C5B : failure
+Mon May 15 12:27:59 2017: Initiating connection to 2001:56A:F4D1:CE00:C08D:D964:4A04:7CDD via (TCP)
+Mon May 15 12:27:59 2017: Cannot connect to host 2001:56A:F4D1:CE00:C08D:D964:4A04:7CDD : Network is unreachable
+Mon May 15 12:27:59 2017: Initiating connection to 2001:41D0:A:26EA::1 via (TCP)
+Mon May 15 12:27:59 2017: Cannot connect to host 2001:41D0:A:26EA::1 : Network is unreachable
+Mon May 15 12:27:59 2017: Initiating connection to 2001:4645:140D:0:DACB:8AFF:FEE1:13CF via (TCP)
+Mon May 15 12:27:59 2017: Cannot connect to host 2001:4645:140D:0:DACB:8AFF:FEE1:13CF : Network is unreachable
+Mon May 15 12:27:59 2017: Timeout occurred
+Mon May 15 12:27:59 2017: Authentication to 2001:56A:F4D1:CE00:C08D:D964:4A04:7CDD : failure
+Mon May 15 12:27:59 2017: Timeout occurred
+Mon May 15 12:27:59 2017: Authentication to 2001:41D0:A:26EA::1 : failure
+Mon May 15 12:27:59 2017: Timeout occurred
+Mon May 15 12:27:59 2017: Authentication to 2001:4645:140D:0:DACB:8AFF:FEE1:13CF : failure
+Mon May 15 12:27:59 2017: Authentication to ::FFFF:DBA0:463A : failure
+Mon May 15 12:27:59 2017: Authentication to ::FFFF:DC69:A884 : ok
+Mon May 15 12:27:59 2017: Initiating connection to 2001:4C4E:118A:CA85:D4B6:212A:63F6:FB68 via (TCP)
+Mon May 15 12:27:59 2017: Cannot connect to host 2001:4C4E:118A:CA85:D4B6:212A:63F6:FB68 : Network is unreachable
+Mon May 15 12:27:59 2017: Initiating connection to 2002:88A9:E48A::88A9:E48A via (TCP)
+Mon May 15 12:27:59 2017: Cannot connect to host 2002:88A9:E48A::88A9:E48A : Network is unreachable
+Mon May 15 12:27:59 2017: Initiating connection to 2405:204:6084:EE7F:47B7:C933:3F22:8EB0 via (TCP)
+Mon May 15 12:27:59 2017: Cannot connect to host 2405:204:6084:EE7F:47B7:C933:3F22:8EB0 : Network is unreachable
+Mon May 15 12:27:59 2017: Initiating connection to 2601:645:200:770:4529:82B7:4F8C:C2AD via (TCP)
+Mon May 15 12:27:59 2017: Cannot connect to host 2601:645:200:770:4529:82B7:4F8C:C2AD : Network is unreachable
+Mon May 15 12:27:59 2017: Initiating connection to 2602:306:3656:19E0:DD50:81BF:6799:907D via (TCP)
+Mon May 15 12:27:59 2017: Cannot connect to host 2602:306:3656:19E0:DD50:81BF:6799:907D : Network is unreachable
+Mon May 15 12:27:59 2017: Timeout occurred
+Mon May 15 12:27:59 2017: Authentication to 2001:4C4E:118A:CA85:D4B6:212A:63F6:FB68 : failure
+Mon May 15 12:27:59 2017: Timeout occurred
+Mon May 15 12:27:59 2017: Authentication to 2002:88A9:E48A::88A9:E48A : failure
+Mon May 15 12:27:59 2017: Timeout occurred
+Mon May 15 12:27:59 2017: Authentication to 2405:204:6084:EE7F:47B7:C933:3F22:8EB0 : failure
+Mon May 15 12:27:59 2017: Timeout occurred
+Mon May 15 12:27:59 2017: Authentication to 2601:645:200:770:4529:82B7:4F8C:C2AD : failure
+Mon May 15 12:27:59 2017: Timeout occurred
+Mon May 15 12:27:59 2017: Authentication to 2602:306:3656:19E0:DD50:81BF:6799:907D : failure
+Mon May 15 12:28:00 2017: Authentication to ::FFFF:D984:189E : failure
+Mon May 15 12:28:00 2017: Connection closed
+Mon May 15 12:28:00 2017: Initiating connection to 2602:306:CDC1:BC70:1873:C7A4:DF23:3CD9 via (TCP)
+Mon May 15 12:28:00 2017: Cannot connect to host 2602:306:CDC1:BC70:1873:C7A4:DF23:3CD9 : Network is unreachable
+Mon May 15 12:28:00 2017: Initiating connection to 2602:30A:C7E8:C640:21A7:1FBE:9059:797A via (TCP)
+Mon May 15 12:28:00 2017: Cannot connect to host 2602:30A:C7E8:C640:21A7:1FBE:9059:797A : Network is unreachable
+Mon May 15 12:28:00 2017: Initiating connection to 2604:6000:A3C9:4B00:C142:BE7:E5C6:8601 via (TCP)
+Mon May 15 12:28:00 2017: Cannot connect to host 2604:6000:A3C9:4B00:C142:BE7:E5C6:8601 : Network is unreachable
+Mon May 15 12:28:00 2017: Initiating connection to 2605:A601:2130:2900:A170:E3:C18D:EB29 via (TCP)
+Mon May 15 12:28:00 2017: Cannot connect to host 2605:A601:2130:2900:A170:E3:C18D:EB29 : Network is unreachable
+Mon May 15 12:28:00 2017: Initiating connection to 2A00:1098:0:82:1000:13:2:13 via (TCP)
+Mon May 15 12:28:00 2017: Cannot connect to host 2A00:1098:0:82:1000:13:2:13 : Network is unreachable
+Mon May 15 12:28:00 2017: Initiating connection to 2A02:908:F358:8600:225:90FF:FE87:1EC5 via (TCP)
+Mon May 15 12:28:00 2017: Cannot connect to host 2A02:908:F358:8600:225:90FF:FE87:1EC5 : Network is unreachable
+Mon May 15 12:28:00 2017: Timeout occurred
+Mon May 15 12:28:00 2017: Authentication to 2602:306:CDC1:BC70:1873:C7A4:DF23:3CD9 : failure
+Mon May 15 12:28:00 2017: Timeout occurred
+Mon May 15 12:28:00 2017: Authentication to 2602:30A:C7E8:C640:21A7:1FBE:9059:797A : failure
+Mon May 15 12:28:00 2017: Timeout occurred
+Mon May 15 12:28:00 2017: Authentication to 2604:6000:A3C9:4B00:C142:BE7:E5C6:8601 : failure
+Mon May 15 12:28:00 2017: Timeout occurred
+Mon May 15 12:28:00 2017: Authentication to 2605:A601:2130:2900:A170:E3:C18D:EB29 : failure
+Mon May 15 12:28:00 2017: Timeout occurred
+Mon May 15 12:28:00 2017: Authentication to 2A00:1098:0:82:1000:13:2:13 : failure
+Mon May 15 12:28:00 2017: Timeout occurred
+Mon May 15 12:28:00 2017: Authentication to 2A02:908:F358:8600:225:90FF:FE87:1EC5 : failure
+Mon May 15 12:28:00 2017: Initiating connection to 2A02:C7D:597C:6B00:A50F:F5D4:520D:3FDC via (TCP)
+Mon May 15 12:28:00 2017: Cannot connect to host 2A02:C7D:597C:6B00:A50F:F5D4:520D:3FDC : Network is unreachable
+Mon May 15 12:28:00 2017: Initiating connection to 2A02:2F01:5060:D25:AC6E:5F64:150E:AA1A via (TCP)
+Mon May 15 12:28:00 2017: Cannot connect to host 2A02:2F01:5060:D25:AC6E:5F64:150E:AA1A : Network is unreachable
+Mon May 15 12:28:00 2017: Timeout occurred
+Mon May 15 12:28:00 2017: Authentication to ::FFFF:AE37:C4D : failure
+Mon May 15 12:28:00 2017: Timeout occurred
+Mon May 15 12:28:00 2017: Authentication to 2A02:C7D:597C:6B00:A50F:F5D4:520D:3FDC : failure
+Mon May 15 12:28:00 2017: Timeout occurred
+Mon May 15 12:28:00 2017: Authentication to 2A02:2F01:5060:D25:AC6E:5F64:150E:AA1A : failure
+Mon May 15 12:28:00 2017: Timeout occurred
+Mon May 15 12:28:00 2017: Authentication to ::FFFF:B14A:3E44 : failure
+Mon May 15 12:28:00 2017: Timeout occurred
+Mon May 15 12:28:00 2017: Authentication to ::FFFF:B6B6:3AFF : failure
+Mon May 15 12:28:01 2017: Timeout occurred
+Mon May 15 12:28:01 2017: Authentication to ::FFFF:BA2E:CDCA : failure
+Mon May 15 12:28:02 2017: Timeout occurred
+Mon May 15 12:28:02 2017: Authentication to ::FFFF:BC1B:C727 : failure
+Mon May 15 12:28:02 2017: Timeout occurred
+Mon May 15 12:28:02 2017: Authentication to ::FFFF:BE0C:668A : failure
+Mon May 15 12:28:02 2017: Timeout occurred
+Mon May 15 12:28:02 2017: Authentication to ::FFFF:BE36:1052 : failure
+Mon May 15 12:28:02 2017: Timeout occurred
+Mon May 15 12:28:02 2017: Authentication to ::FFFF:BE64:2C5C : failure
+Mon May 15 12:28:03 2017: Timeout occurred
+Mon May 15 12:28:03 2017: Authentication to ::FFFF:C925:A030 : failure
+Mon May 15 12:28:03 2017: Timeout occurred
+Mon May 15 12:28:03 2017: Authentication to ::FFFF:D433:9665 : failure
+Mon May 15 12:28:03 2017: Timeout occurred
+Mon May 15 12:28:03 2017: Authentication to ::FFFF:D515:5F50 : failure
+Mon May 15 12:28:03 2017: Timeout occurred
+Mon May 15 12:28:03 2017: Authentication to ::FFFF:D537:B081 : failure
+Mon May 15 12:28:03 2017: Timeout occurred
+Mon May 15 12:28:03 2017: Authentication to ::FFFF:D91C:D0DB : failure
+Mon May 15 12:28:04 2017: Timeout occurred
+Mon May 15 12:28:04 2017: Authentication to ::FFFF:D9C5:B934 : failure
+Mon May 15 12:28:04 2017: Timeout occurred
+Mon May 15 12:28:04 2017: Authentication to ::FFFF:DFCC:F74B : failure
+Mon May 15 12:28:25 2017: Connection closed
