@@ -1,5 +1,19 @@
 #!/bin/bash
-source "./parseArgs.sh"
+
+# Get command used to launch script
+callPath="$0"
+
+# Get the directory path given to the script
+workDir="$(dirname $callPath)"
+
+# Check if it was launched locally
+if [[ "$workDir" == "." ]]
+then
+	# Use `pwd` instead
+	workDir="$(pwd)"
+fi 
+
+source "$workDir/parseArgs.sh"
 
 addParameter "a" "add" "argAdd" "7" "1" "Add a new directory or file to be linked to the dotfiles folder."
 addParameter "i" "import" "argImport" "7" "2" "Import an exsiting directory or file and link it to the dotfiles folder."
@@ -10,8 +24,8 @@ addParameter "D" "debug" "debug" "0" "0" "Start as debug. Makes no file system c
 addParameter "n" "name" "configName" "0" "1" "The name of the configuration"
 addParameter "s" "sync" "gitSync" "2" "0" "Check for local file changes and sync them to the git repository"
 
-configRoot="$(pwd)/root/"
-configInfo="$(pwd)/info/"
+configRoot="$workDir/root/"
+configInfo="$workDir/info/"
 
 use=0
 function vout()
