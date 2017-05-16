@@ -232,7 +232,7 @@ plugin=org.kde.plasma.mediacontroller
 extraItems=org.kde.plasma.bluetooth,org.kde.plasma.printmanager,org.kde.plasma.battery,org.kde.ktp-contactlist,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.devicenotifier,org.kde.kdeconnect,org.kde.plasma.clipboard,org.kde.discovernotifier
 knownItems=org.kde.plasma.bluetooth,org.kde.plasma.printmanager,org.kde.plasma.battery,org.kde.ktp-contactlist,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.devicenotifier,org.kde.kdeconnect,org.kde.plasma.clipboard,org.kde.discovernotifier
 
-[Containments][54]
+[Containments][58]
 activityId=23d9e62c-b026-4a5a-973d-22b81a2a6043
 formfactor=0
 immutability=1
@@ -241,8 +241,14 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
-[Containments][54][General]
-ToolBoxButtonX=1880
+[Containments][59]
+activityId=23d9e62c-b026-4a5a-973d-22b81a2a6043
+formfactor=0
+immutability=1
+lastScreen=6
+location=0
+plugin=org.kde.plasma.folder
+wallpaperplugin=org.kde.image
 
 [Containments][7]
 activityId=
