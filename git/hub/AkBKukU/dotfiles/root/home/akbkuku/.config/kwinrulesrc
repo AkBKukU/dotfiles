@@ -1,0 +1,19 @@
+[1]
+Description=Window settings for discord
+clientmachine=s-l-kubuntu
+clientmachinematch=0
+minimize=true
+minimizerule=3
+noborder[$d]
+noborderrule[$d]
+title=\s- Discord
+titlematch=0
+types=1
+windowrole=browser-window
+windowrolematch=1
+wmclass=discord
+wmclasscomplete=false
+wmclassmatch=1
+
+[General]
+count=1
