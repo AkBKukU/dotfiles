@@ -26,7 +26,7 @@ _k_friendly_name=Power Management
 display=Display\tMeta+P,Display\tMeta+P,Switch Display
 
 [khotkeys]
-_k_friendly_name=System Settings
+_k_friendly_name=KDE Daemon
 {29f1b968-9426-40ef-84b4-215c034d7267}=Meta+Print,none,Take Active Window Screenshot
 {34536b0d-fb8d-48d3-9b32-69f82b7dcbf6}=Ctrl+Print,none,Take Rectangular Region Screenshot
 {466982b1-25b0-41bd-aa24-445c1a835f28}=Ctrl+Shift+Print,none,Take Rectangular Region Screenshot
@@ -218,7 +218,7 @@ previousmedia=Media Previous,Media Previous,Media playback previous
 stopmedia=Media Stop,Media Stop,Stop media playback
 
 [plasmashell]
-_k_friendly_name=Activity switching
+_k_friendly_name=Plasma
 activate task manager entry 1=Meta+1,Meta+1,Activate Task Manager Entry 1
 activate task manager entry 10=Meta+0,Meta+0,Activate Task Manager Entry 10
 activate task manager entry 2=Meta+2,Meta+2,Activate Task Manager Entry 2
