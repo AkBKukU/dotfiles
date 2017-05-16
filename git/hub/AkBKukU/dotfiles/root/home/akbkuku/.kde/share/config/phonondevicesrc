@@ -1,0 +1,442 @@
+[AudioDevice_/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:01.0/0000:01:00.1/sound/card1/pcmC1D3p:playback]
+cardName=HDA NVidia (HDMI 0)
+deleted=false
+deviceNumber=3
+hotpluggable=false
+iconName=audio-card
+index=-3
+initialPreference=33
+isAdvanced=true
+
+[AudioDevice_/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:01.0/0000:01:00.1/sound/card1/pcmC1D7p:playback]
+cardName=HDA NVidia (HDMI 1)
+deleted=false
+deviceNumber=7
+hotpluggable=false
+iconName=audio-card
+index=-27
+initialPreference=29
+isAdvanced=true
+
+[AudioDevice_/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:01.0/0000:01:00.1/sound/card1/pcmC1D8p:playback]
+cardName=HDA NVidia (HDMI 2)
+deleted=false
+deviceNumber=8
+hotpluggable=false
+iconName=audio-card
+index=-28
+initialPreference=28
+isAdvanced=true
+
+[AudioDevice_/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:01.0/0000:01:00.1/sound/card1/pcmC1D9p:playback]
+cardName=HDA NVidia (HDMI 3)
+deleted=false
+deviceNumber=9
+hotpluggable=false
+iconName=audio-card
+index=-29
+initialPreference=27
+isAdvanced=true
+
+[AudioDevice_/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:1b.0/sound/card0/pcmC0D0c:capture]
+cardName=HDA Intel PCH (ALC1150 Analog)
+deleted=false
+deviceNumber=0
+hotpluggable=false
+iconName=audio-card
+index=-30
+initialPreference=36
+isAdvanced=false
+
+[AudioDevice_/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:1b.0/sound/card0/pcmC0D0p:playback]
+cardName=HDA Intel PCH (ALC1150 Analog)
+deleted=false
+deviceNumber=0
+hotpluggable=false
+iconName=audio-card
+index=-1
+initialPreference=36
+isAdvanced=false
+
+[AudioDevice_/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:1b.0/sound/card0/pcmC0D1p:playback]
+cardName=HDA Intel PCH (ALC1150 Digital)
+deleted=false
+deviceNumber=1
+hotpluggable=false
+iconName=audio-card
+index=-2
+initialPreference=35
+isAdvanced=true
+
+[AudioDevice_/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:1b.0/sound/card0/pcmC0D2c:capture]
+cardName=HDA Intel PCH (ALC1150 Alt Analog)
+deleted=false
+deviceNumber=2
+hotpluggable=false
+iconName=audio-card
+index=-31
+initialPreference=34
+isAdvanced=true
+
+[AudioDevice_HDA Intel PCH, ALC1150 Alt Analog\nDirect hardware device without any conversions_capture]
+cardName=HDA Intel PCH, ALC1150 Alt Analog (Direct hardware device without any conversions)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-33
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel PCH, ALC1150 Alt Analog\nDirect sample snooping device_capture]
+cardName=HDA Intel PCH, ALC1150 Alt Analog (Direct sample snooping device)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-38
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel PCH, ALC1150 Alt Analog\nHardware device with all software conversions_capture]
+cardName=HDA Intel PCH, ALC1150 Alt Analog (Hardware device with all software conversions)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-36
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel PCH, ALC1150 Analog\n2.1 Surround output to Front and Subwoofer speakers_playback]
+cardName=HDA Intel PCH, ALC1150 Analog (2.1 Surround output to Front and Subwoofer speakers)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-25
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel PCH, ALC1150 Analog\nDefault Audio Device_capture]
+cardName=HDA Intel PCH, ALC1150 Analog (Default Audio Device)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-35
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel PCH, ALC1150 Analog\nDefault Audio Device_playback]
+cardName=HDA Intel PCH, ALC1150 Analog (Default Audio Device)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-13
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel PCH, ALC1150 Analog\nDirect hardware device without any conversions_capture]
+cardName=HDA Intel PCH, ALC1150 Analog (Direct hardware device without any conversions)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-34
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel PCH, ALC1150 Analog\nDirect hardware device without any conversions_playback]
+cardName=HDA Intel PCH, ALC1150 Analog (Direct hardware device without any conversions)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-12
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel PCH, ALC1150 Analog\nDirect sample mixing device_playback]
+cardName=HDA Intel PCH, ALC1150 Analog (Direct sample mixing device)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-20
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel PCH, ALC1150 Analog\nDirect sample snooping device_capture]
+cardName=HDA Intel PCH, ALC1150 Analog (Direct sample snooping device)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-37
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel PCH, ALC1150 Analog\nHardware device with all software conversions_capture]
+cardName=HDA Intel PCH, ALC1150 Analog (Hardware device with all software conversions)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-32
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel PCH, ALC1150 Analog\nHardware device with all software conversions_playback]
+cardName=HDA Intel PCH, ALC1150 Analog (Hardware device with all software conversions)
+deleted=true
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-10
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel PCH, ALC1150 Digital\nDirect hardware device without any conversions_playback]
+cardName=HDA Intel PCH, ALC1150 Digital (Direct hardware device without any conversions)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-43
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel PCH, ALC1150 Digital\nDirect sample mixing device_playback]
+cardName=HDA Intel PCH, ALC1150 Digital (Direct sample mixing device)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-41
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel PCH, ALC1150 Digital\nHardware device with all software conversions_playback]
+cardName=HDA Intel PCH, ALC1150 Digital (Hardware device with all software conversions)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-42
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA Intel PCH, ALC1150 Digital\nIEC958 (S/PDIF) Digital Audio Output_playback]
+cardName=HDA Intel PCH, ALC1150 Digital (IEC958 (S/PDIF) Digital Audio Output)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-44
+initialPreference=30
+isAdvanced=true
+
+[AudioDevice_HDA NVidia, HDMI 0\nDirect hardware device without any conversions_playback]
+cardName=HDA NVidia, HDMI 0 (Direct hardware device without any conversions)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-16
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA NVidia, HDMI 0\nDirect sample mixing device_playback]
+cardName=HDA NVidia, HDMI 0 (Direct sample mixing device)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-19
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA NVidia, HDMI 0\nHDMI Audio Output_playback]
+cardName=HDA NVidia, HDMI 0 (HDMI Audio Output)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-14
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA NVidia, HDMI 0\nHardware device with all software conversions_playback]
+cardName=HDA NVidia, HDMI 0 (Hardware device with all software conversions)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-7
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA NVidia, HDMI 1\nDirect hardware device without any conversions_playback]
+cardName=HDA NVidia, HDMI 1 (Direct hardware device without any conversions)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-11
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA NVidia, HDMI 1\nDirect sample mixing device_playback]
+cardName=HDA NVidia, HDMI 1 (Direct sample mixing device)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-26
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA NVidia, HDMI 1\nHDMI Audio Output_playback]
+cardName=HDA NVidia, HDMI 1 (HDMI Audio Output)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-17
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA NVidia, HDMI 1\nHardware device with all software conversions_playback]
+cardName=HDA NVidia, HDMI 1 (Hardware device with all software conversions)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-21
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA NVidia, HDMI 2\nDirect hardware device without any conversions_playback]
+cardName=HDA NVidia, HDMI 2 (Direct hardware device without any conversions)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-22
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA NVidia, HDMI 2\nDirect sample mixing device_playback]
+cardName=HDA NVidia, HDMI 2 (Direct sample mixing device)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-23
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA NVidia, HDMI 2\nHDMI Audio Output_playback]
+cardName=HDA NVidia, HDMI 2 (HDMI Audio Output)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-15
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA NVidia, HDMI 2\nHardware device with all software conversions_playback]
+cardName=HDA NVidia, HDMI 2 (Hardware device with all software conversions)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-8
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA NVidia, HDMI 3\nDirect hardware device without any conversions_playback]
+cardName=HDA NVidia, HDMI 3 (Direct hardware device without any conversions)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-9
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA NVidia, HDMI 3\nDirect sample mixing device_playback]
+cardName=HDA NVidia, HDMI 3 (Direct sample mixing device)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-5
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA NVidia, HDMI 3\nHDMI Audio Output_playback]
+cardName=HDA NVidia, HDMI 3 (HDMI Audio Output)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-4
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_HDA NVidia, HDMI 3\nHardware device with all software conversions_playback]
+cardName=HDA NVidia, HDMI 3 (Hardware device with all software conversions)
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-24
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_Playback/recording through the PulseAudio sound server_capture]
+cardName=Playback/recording through the PulseAudio sound server
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-39
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_Playback/recording through the PulseAudio sound server_playback]
+cardName=Playback/recording through the PulseAudio sound server
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-18
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_PulseAudio Sound Server_capture]
+cardName=PulseAudio Sound Server
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-40
+initialPreference=30
+isAdvanced=false
+
+[AudioDevice_PulseAudio Sound Server_playback]
+cardName=PulseAudio Sound Server
+deleted=false
+deviceNumber=-1
+hotpluggable=false
+iconName=audio-card
+index=-6
+initialPreference=30
+isAdvanced=false
+
+[Globals]
+nextIndex=45

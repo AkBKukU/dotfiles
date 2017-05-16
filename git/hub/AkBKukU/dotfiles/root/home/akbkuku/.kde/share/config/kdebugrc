@@ -1,0 +1,17 @@
+[KSharedDataCache]
+InfoOutput=4
+
+[kdecore (KConfigSkeleton)]
+InfoOutput=2
+
+[kdecore (KLibrary)]
+InfoOutput=2
+
+[kdecore (KPluginInfo)]
+InfoOutput=2
+
+[kio (delegateanimationhandler)]
+InfoOutput=4
+
+[kio_trash]
+InfoOutput=4

@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Service
+Encoding=UTF-8
+ServiceTypes=KonqPopupMenu/Plugin
+MimeType=all/allfiles;inode/directory;
+Actions=action0;
+X-KDE-Submenu=Add to Insync
+X-KDE-Priority=TopLevel
+
+[Desktop Action action0]
+Exec=insync cm:create_link:104589323951566191678 %u
+Name=shelby@jueden.org
+Icon=list-add
+
