@@ -1,17 +1,17 @@
 [1]
-Description=Window settings for discord
-clientmachine=s-l-kubuntu
+Description=Application settings for terraria.bin.x86
+clientmachine=s-d-kubuntu
 clientmachinematch=0
-minimize=true
-minimizerule=3
-noborder[$d]
-noborderrule[$d]
-title=\s- Discord
-titlematch=0
-types=1
-windowrole=browser-window
-windowrolematch=1
-wmclass=discord
+minimize[$d]
+minimizerule[$d]
+noborder=true
+noborderrule=2
+title[$d]
+titlematch[$d]
+types[$d]
+windowrole[$d]
+windowrolematch[$d]
+wmclass=terraria.bin.x86
 wmclasscomplete=false
 wmclassmatch=1
 
