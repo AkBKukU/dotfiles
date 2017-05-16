@@ -241,6 +241,24 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
+[Containments][56]
+activityId=41ac8256-998a-47fb-8aad-915f0f959cf0
+formfactor=0
+immutability=1
+lastScreen=1
+location=0
+plugin=org.kde.plasma.folder
+wallpaperplugin=org.kde.image
+
+[Containments][57]
+activityId=41ac8256-998a-47fb-8aad-915f0f959cf0
+formfactor=0
+immutability=1
+lastScreen=3
+location=0
+plugin=org.kde.plasma.folder
+wallpaperplugin=org.kde.image
+
 [Containments][7]
 activityId=
 formfactor=2
