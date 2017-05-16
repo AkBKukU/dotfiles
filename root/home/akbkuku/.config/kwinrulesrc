@@ -1,12 +1,12 @@
 [1]
-Description=Application settings for terraria.bin.x86
-clientmachine=s-d-kubuntu
-clientmachinematch=0
-noborder=true
-noborderrule=2
-wmclass=terraria.bin.x86
-wmclasscomplete=false
-wmclassmatch=1
+Description[$d]
+clientmachine[$d]
+clientmachinematch[$d]
+noborder[$d]
+noborderrule[$d]
+wmclass[$d]
+wmclasscomplete[$d]
+wmclassmatch[$d]
 
 [General]
-count=1
+count=0
