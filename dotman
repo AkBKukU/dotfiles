@@ -106,11 +106,11 @@ function newItem()
 	fi
 	
 	# Add new files to git
-	d "git --git-path='$workDir' add '$configInfo$configName.lst'"
-	d "git --git-path='$workDir' add '$lpath'"
+	d "git --git-dir='$workDir' add '$configInfo$configName.lst'"
+	d "git --git-dir='$workDir' add '$lpath'"
 
 	# Commit new files
-	d "git --git-path='$workDir' commit -m 'New config added: $configName'"
+	d "git --git-dir='$workDir' commit -m 'New config added: $configName'"
 
 	# Sync changes
 	gitSync
@@ -202,7 +202,7 @@ function testPaths()
 function gitSync()
 {
 	# Get any new changes
-	d "git --git-path='$workDir' pull origin master"
+	d "git --git-dir='$workDir' pull origin master"
 
 	# Get folder listings for all configs and check them
 	for file in $configInfo*
@@ -212,7 +212,7 @@ function gitSync()
 		for dir in "${cfglines[@]}"
 		do
 			# Stage any new files to commit
-			d "git --git-path='$workDir'  add $configRoot${dir:1}"
+			d "git --git-dir='$workDir'  add $configRoot${dir:1}"
 		done
 		
 		# Get config name
@@ -220,11 +220,11 @@ function gitSync()
 		name="$(echo $name | sed 's/.lst//g')"
 
 		# Commit changes for those folders
-		d "git --git-path='$workDir' commit -m 'Adding changes to configuration for: $name'"
+		d "git --git-dir='$workDir' commit -m 'Adding changes to configuration for: $name'"
 	done
 
 	# Send any new changes to server
-	d "git --git-path='$workDir' push origin master"
+	d "git --git-dir='$workDir' push origin master"
 }
 
 
