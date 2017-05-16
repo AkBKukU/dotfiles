@@ -7,7 +7,7 @@ CompletionMode=5
 History=ark %U
 
 [PlasmaRunnerManager]
-LaunchCounts=1 services_kicad.desktop,1 services_thunderbird.desktop,1 services_usb-creator-gtk.desktop,2 services_jstest-gtk.desktop,3 services_discord.desktop,1 services_debian-xterm.desktop,4 services_gimp.desktop,1 services_bitscope-logic.desktop,1 services_usb-creator-kde.desktop,1 services_dropbox.desktop,1 services_org.kde.kate.desktop,5 services_libreoffice-calc.desktop,2 services_steam.desktop,1 services_org.kde.konsole.desktop,1 services_blender.desktop,1 services_org.kde.discover.desktop,3 services_org.kde.yakuake.desktop,1 services_virtualbox.desktop,1 services_filezilla.desktop,3 services_insync.desktop,3 services_vlc.desktop
+LaunchCounts=3 services_org.kde.yakuake.desktop,5 services_libreoffice-calc.desktop,2 services_jstest-gtk.desktop,1 services_blender.desktop,3 services_insync.desktop,1 services_bitscope-logic.desktop,1 services_debian-xterm.desktop,1 services_autostart.desktop,1 services_kicad.desktop,4 services_discord.desktop,1 services_org.kde.konsole.desktop,1 services_thunderbird.desktop,2 services_steam.desktop,1 services_org.kde.kate.desktop,1 services_filezilla.desktop,4 services_gimp.desktop,3 services_vlc.desktop,1 services_usb-creator-gtk.desktop,1 services_dropbox.desktop,1 services_org.kde.discover.desktop,1 services_usb-creator-kde.desktop,1 services_virtualbox.desktop
 pluginWhiteList=services,places,shell,bookmarks,recentdocuments,locations,baloosearch
 
 [PlasmaViews][Panel 2]
@@ -23,7 +23,7 @@ thickness=22
 thickness=30
 
 [PlasmaViews][Panel 28]
-panelVisibility=1
+panelVisibility=0
 
 [PlasmaViews][Panel 28][Horizontal1600]
 thickness=22
@@ -35,7 +35,7 @@ thickness=22
 thickness=30
 
 [ScreenConnectors]
-0=HDMI-0
+0=eDP-1-1
 1=DVI-I-1
 2=:0.0
 3=DP-1
