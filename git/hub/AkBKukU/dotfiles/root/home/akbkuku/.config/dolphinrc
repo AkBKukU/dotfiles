@@ -21,8 +21,8 @@ FontWeight=50
 IconSize=80
 
 [KPropertiesDialog]
-Height 1080=354
-Width 1920=488
+Height 1080=376
+Width 1920=522
 
 [MainWindow]
 Height 1080=590
