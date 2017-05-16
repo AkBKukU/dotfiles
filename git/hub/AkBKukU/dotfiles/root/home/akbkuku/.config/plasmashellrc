@@ -37,8 +37,8 @@ thickness=22
 thickness=30
 
 [ScreenConnectors]
-0=eDP-1-1
-1=DVI-I-1
+0=DVI-I-1
+1=HDMI-0
 2=:0.0
 3=DP-1
 4=DP-3
