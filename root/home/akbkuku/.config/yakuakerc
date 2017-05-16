@@ -1,6 +1,7 @@
 [Appearance]
 BackgroundColorOpacity=30
 Skin=arc-dark
+SkinInstalledWithKns=true
 
 [Desktop Entry]
 DefaultProfile=Profile 3.profile
@@ -9,7 +10,7 @@ DefaultProfile=Profile 3.profile
 FirstRun=false
 
 [DownloadDialog Settings]
-Height 1080=752
+Height 1080=446
 Width 1920=700
 
 [Favorite Profiles]
