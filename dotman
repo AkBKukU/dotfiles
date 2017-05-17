@@ -14,7 +14,7 @@ then
 fi 
 
 # Make sure it has a full path
-if [[ "$workDir" != "/*" ]]
+if [[ "$workDir" != /* ]]
 then
 	# Use `pwd` instead
 	workDir="$(pwd)/$workDir"
@@ -26,7 +26,7 @@ source "$workDir/parseArgs.sh"
 addParameter "a" "add" "argAdd" "7" "1" "Add a new directory or file to be linked to the dotfiles folder."
 addParameter "i" "import" "argImport" "7" "2" "Import an exsiting directory or file and link it to the dotfiles folder."
 addParameter "u" "use" "argUse" "3" "1" "Use a directory or file already in the dotfiles folder."
-addParameter "v" "verbose" "verbose" "0" "0" "Set verbose output"
+addParameter "v" "verbose" "argVerbose" "1" "0" "Set verbose output"
 addParameter "f" "force" "force" "0" "0" "Force linking with existing files"
 addParameter "D" "debug" "debug" "0" "0" "Start as debug. Makes no file system changes."
 addParameter "n" "name" "configName" "0" "1" "The name of the configuration"
@@ -36,6 +36,17 @@ configRoot="$workDir/root/"
 configInfo="$workDir/info/"
 
 use=0
+verbose=0
+gitQuiet="--quiet"
+forceSilent="&> /dev/null"
+
+function argVerbose()
+{
+	verbose=1
+	gitQuiet=""
+	forceSilent=""
+}
+
 function vout()
 {
 	# Is verbose mode enabled?
@@ -114,11 +125,11 @@ function newItem()
 	fi
 	
 	# Add new files to git
-	d "git --git-dir='$workDir/.git' --work-tree='$workDir' add '$configInfo$configName.lst'"
-	d "git --git-dir='$workDir/.git' --work-tree='$workDir' add '$lpath'"
+	d "git --git-dir='$workDir/.git' --work-tree='$workDir' add '$configInfo$configName.lst' $forceSilent"
+	d "git --git-dir='$workDir/.git' --work-tree='$workDir' add '$lpath' $forceSilent"
 
 	# Commit new files
-	d "git --git-dir='$workDir/.git' --work-tree='$workDir' commit -m 'New config added: $configName'"
+	d "git --git-dir='$workDir/.git' --work-tree='$workDir' commit -m 'New config added: $configName' $forceSilent"
 
 	# Sync changes
 	gitSync
@@ -210,7 +221,7 @@ function testPaths()
 function gitSync()
 {
 	# Get any new changes
-	d "git --git-dir='$workDir/.git' --work-tree='$workDir' pull origin master"
+	d "git --git-dir='$workDir/.git' --work-tree='$workDir' pull origin master $forceSilent"
 
 	# Get folder listings for all configs and check them
 	for file in $configInfo*
@@ -227,15 +238,15 @@ function gitSync()
 		do
 			vout "Adding: $configRoot${dir:1}"
 			# Stage any new files to commit
-			d "git --git-dir='$workDir/.git' --work-tree='$workDir' add -u $configRoot${dir:1}"
+			d "git --git-dir='$workDir/.git' --work-tree='$workDir' add -u $configRoot${dir:1} $forceSilent"
 		done
 		
 		# Commit changes for those folders
-		d "git --git-dir='$workDir/.git' --work-tree='$workDir' commit -m 'Adding changes to configuration for: $name'"
+		d "git --git-dir='$workDir/.git' --work-tree='$workDir' commit -m 'Adding changes to configuration for: $name' $forceSilent"
 	done
 
 	# Send any new changes to server
-	d "git --git-dir='$workDir/.git' --work-tree='$workDir' push origin master"
+	d "git --git-dir='$workDir/.git' --work-tree='$workDir' push origin master $forceSilent"
 }
 
 
