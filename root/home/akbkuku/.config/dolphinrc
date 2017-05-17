@@ -22,6 +22,8 @@ IconSize=80
 
 [KPropertiesDialog]
 Height 1080=376
+Height 1200=386
+Width 1600=424
 Width 1920=522
 
 [MainWindow]
