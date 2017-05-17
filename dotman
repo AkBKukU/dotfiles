@@ -13,6 +13,14 @@ then
 	workDir="$(pwd)"
 fi 
 
+# Make sure it has a full path
+if [[ "$workDir" != "/*" ]]
+then
+	# Use `pwd` instead
+	workDir="$(pwd)/$workDir"
+fi 
+
+
 source "$workDir/parseArgs.sh"
 
 addParameter "a" "add" "argAdd" "7" "1" "Add a new directory or file to be linked to the dotfiles folder."
