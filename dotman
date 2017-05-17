@@ -207,18 +207,21 @@ function gitSync()
 	# Get folder listings for all configs and check them
 	for file in $configInfo*
 	do
+		# Get config name
+		name="$(basename $file)"
+		name="$(echo $name | sed 's/.lst//g')"
+		
+		vout "Adding paths for: $name"
+
 		# Get list of directories from file
 		readarray -t cfglines < $file
 		for dir in "${cfglines[@]}"
 		do
+			vout "Adding: $configRoot${dir:1}"
 			# Stage any new files to commit
 			d "git --git-dir='$workDir/.git' add -u $configRoot${dir:1}"
 		done
 		
-		# Get config name
-		name="$(basename $file)"
-		name="$(echo $name | sed 's/.lst//g')"
-
 		# Commit changes for those folders
 		d "git --git-dir='$workDir/.git' commit -m 'Adding changes to configuration for: $name'"
 	done
