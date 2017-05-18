@@ -1,11 +1,26 @@
 [1]
+Description=Window settings for terraria.bin.x86
+clientmachine=s-l-kubuntu
+clientmachinematch=0
+minimize[$d]
+minimizerule[$d]
+noborder=true
+noborderrule=2
+title=Terraria: Dig Dug Ain't Got Nuthin on Me
+titlematch=1
+types=1
+windowrole[$d]
+windowrolematch[$d]
+wmclass=terraria.bin.x86
+wmclasscomplete=false
+wmclassmatch=1
+
+[2]
 Description=Window settings for discord
 clientmachine=s-l-kubuntu
 clientmachinematch=0
 minimize=true
 minimizerule=3
-noborder[$d]
-noborderrule[$d]
 title=\s- Discord
 titlematch=0
 types=1
@@ -16,4 +31,4 @@ wmclasscomplete=false
 wmclassmatch=1
 
 [General]
-count=1
+count=2
