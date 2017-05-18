@@ -241,9 +241,16 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
+[Containments][58][ConfigDialog]
+DialogHeight=420
+DialogWidth=560
+
 [Containments][58][General]
 ToolBoxButtonState=left
 ToolBoxButtonY=22
+
+[Containments][58][Wallpaper][org.kde.image][General]
+Image=file:///home/akbkuku/.local/share/wallpapers/91345-zions-misery_dsc04738_cc8_14x9.jpg
 
 [Containments][59]
 activityId=23d9e62c-b026-4a5a-973d-22b81a2a6043
@@ -272,10 +279,17 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
+[Containments][61][ConfigDialog]
+DialogHeight=414
+DialogWidth=560
+
 [Containments][61][General]
 iconSize=3
 positions=3,18,desktop:/Home.desktop,0,0,desktop:/CCS7.1.0.00016_web_linux-x64.tar.gz,0,1,desktop:/steam.desktop,0,2,desktop:/steam_latest.deb,0,3,desktop:/trash.desktop,2,3
 sortMode=-1
+
+[Containments][61][Wallpaper][org.kde.image][General]
+Image=file:///home/akbkuku/.local/share/wallpapers/91345-zions-misery_dsc04738_cc8_14x9.jpg
 
 [Containments][7]
 activityId=
