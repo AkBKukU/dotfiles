@@ -285,7 +285,7 @@ DialogWidth=560
 
 [Containments][61][General]
 iconSize=3
-positions=3,18,desktop:/Home.desktop,0,0,desktop:/CCS7.1.0.00016_web_linux-x64.tar.gz,0,1,desktop:/steam.desktop,0,2,desktop:/steam_latest.deb,0,3,desktop:/trash.desktop,2,3
+positions=3,18,desktop:/trash.desktop,2,3,desktop:/CCS7.1.0.00016_web_linux-x64.tar.gz,0,1,desktop:/Home.desktop,0,0,desktop:/steam_latest.deb,0,3,desktop:/steam.desktop,0,2
 sortMode=-1
 
 [Containments][61][Wallpaper][org.kde.image][General]
