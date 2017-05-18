@@ -117,7 +117,7 @@ menuFont=Ubuntu,10,-1,5,50,0,0,0,0,0
 shadeSortColumn=true
 smallestReadableFont=Ubuntu,8,-1,5,50,0,0,0,0,0
 toolBarFont=Ubuntu,9,-1,5,50,0,0,0,0,0
-widgetStyle=qtcurve
+widgetStyle=Breeze
 
 [Icons]
 Theme=breeze-dark
