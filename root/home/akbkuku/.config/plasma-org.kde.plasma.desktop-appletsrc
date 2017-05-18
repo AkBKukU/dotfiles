@@ -1,6 +1,5 @@
 [ActionPlugins][0]
 RightButton;NoModifier=org.kde.contextmenu
-wheel:Vertical;NoModifier=org.kde.switchdesktop
 
 [ActionPlugins][0][RightButton;NoModifier]
 _add panel=true
@@ -102,6 +101,10 @@ wallpaperplugin=org.kde.image
 immutability=1
 plugin=org.kde.plasma.kickoff
 
+[Containments][28][Applets][29][Configuration][ConfigDialog]
+DialogHeight=420
+DialogWidth=560
+
 [Containments][28][Applets][29][Configuration][General]
 favorites=preferred://browser,systemsettings.desktop,org.kde.dolphin.desktop,org.kde.discover.desktop
 
@@ -192,10 +195,6 @@ plugin=org.kde.plasma.devicenotifier
 DialogHeight=480
 DialogWidth=640
 
-[Containments][33][Applets][38]
-immutability=1
-plugin=org.kde.kdeconnect
-
 [Containments][33][Applets][39]
 immutability=1
 plugin=org.kde.plasma.notifications
@@ -212,10 +211,6 @@ plugin=org.kde.discovernotifier
 immutability=1
 plugin=org.kde.plasma.battery
 
-[Containments][33][Applets][43]
-immutability=1
-plugin=org.kde.ktp-contactlist
-
 [Containments][33][Applets][44]
 immutability=1
 plugin=org.kde.plasma.networkmanagement
@@ -228,8 +223,12 @@ plugin=org.kde.plasma.bluetooth
 immutability=1
 plugin=org.kde.plasma.mediacontroller
 
+[Containments][33][ConfigDialog]
+DialogHeight=732
+DialogWidth=581
+
 [Containments][33][General]
-extraItems=org.kde.plasma.bluetooth,org.kde.plasma.printmanager,org.kde.plasma.battery,org.kde.ktp-contactlist,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.devicenotifier,org.kde.kdeconnect,org.kde.plasma.clipboard,org.kde.discovernotifier
+extraItems=org.kde.plasma.bluetooth,org.kde.plasma.printmanager,org.kde.plasma.battery,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.clipboard,org.kde.discovernotifier,org.kde.plasma.devicenotifier
 knownItems=org.kde.plasma.bluetooth,org.kde.plasma.printmanager,org.kde.plasma.battery,org.kde.ktp-contactlist,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.plasma.devicenotifier,org.kde.kdeconnect,org.kde.plasma.clipboard,org.kde.discovernotifier
 
 [Containments][58]
