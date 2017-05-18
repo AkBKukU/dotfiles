@@ -71,8 +71,8 @@ function d()
 
 function argAdd() 
 {
-	# Filter out a `\` character
-	inpath="$(echo $1 | sed 's/\/$//g')"
+	# Filter out a `\` character and guarantee full path
+	inpath="$(readlink -f $1)"
 
 	# Call new item function
 	newItem "$inpath" "$inpath"
@@ -80,8 +80,8 @@ function argAdd()
 	
 function argImport() 
 {
-	# Filter out a `\` character
-	inpath="$(echo $1 | sed 's/\/$//g')"
+	# Filter out a `\` character and guarantee full path
+	inpath="$(readlink -f $1)"
 
 	# Call new item function
 	newItem "$inpath" "$2"
