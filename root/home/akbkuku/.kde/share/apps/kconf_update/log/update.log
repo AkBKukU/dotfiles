@@ -67,3 +67,21 @@
 2017-05-15T07:54:26 Checking update-file '/usr/share/kde4/apps/kconf_update/kio_help.upd' for new updates
 2017-05-15T07:54:26 Checking update-file '/usr/share/kde4/apps/kconf_update/kded.upd' for new updates
 2017-05-15T07:54:26 Checking update-file '/usr/share/kde4/apps/kconf_update/kcookiescfg.upd' for new updates
+2017-05-18T19:47:55 Checking update-file '/usr/share/kde4/apps/kconf_update/kio_help.upd' for new updates
+2017-05-18T19:47:55 Checking update-file '/usr/share/kde4/apps/kconf_update/kioslave.upd' for new updates
+2017-05-18T19:47:55 kioslave.upd: Found new update 'kde2.2/r1'
+2017-05-18T19:47:55 kioslave.upd: Skipping update 'kde2.2/r1'
+2017-05-18T19:47:55 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2017-05-18T19:47:55 Checking update-file '/usr/share/kde4/apps/kconf_update/kcookiescfg.upd' for new updates
+2017-05-18T19:47:55 Checking update-file '/usr/share/kde4/apps/kconf_update/kubuntu-fix-kwin-default-size.upd' for new updates
+2017-05-18T19:47:55 Checking update-file '/usr/share/kde4/apps/kconf_update/devicepreference.upd' for new updates
+2017-05-18T19:47:55 Checking update-file '/usr/share/kde4/apps/kconf_update/kwallet-4.13.upd' for new updates
+2017-05-18T19:47:55 Checking update-file '/usr/share/kde4/apps/kconf_update/kded.upd' for new updates
+2017-05-18T19:47:55 Checking update-file '/usr/share/kde4/apps/kconf_update/ksslcertificatemanager.upd' for new updates
+2017-05-18T19:47:55 Checking update-file '/usr/share/kde4/apps/kconf_update/disable_kmix.upd' for new updates
+2017-05-18T19:47:55 Checking update-file '/usr/share/kde4/apps/kconf_update/kuriikwsfilter.upd' for new updates
+2017-05-18T19:47:55 Checking update-file '/usr/share/kde4/apps/kconf_update/kate-2.4.upd' for new updates
+2017-05-18T19:47:55 Checking update-file '/usr/share/kde4/apps/kconf_update/kubuntu-update-kickoff2.upd' for new updates
+2017-05-18T19:47:55 Checking update-file '/usr/share/kde4/apps/kconf_update/drkonqi-rename-config-section.upd' for new updates
+2017-05-18T19:47:55 Checking update-file '/usr/share/kde4/apps/kconf_update/kdeui.upd' for new updates
+2017-05-18T19:47:55 Checking update-file '/usr/share/kde4/apps/kconf_update/amarok.upd' for new updates
