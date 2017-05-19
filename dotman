@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# TODO - Use should check if each path is a link before adding changes as a 
+# check that it is being used
+
 # Get command used to launch script
 callPath="$0"
 
