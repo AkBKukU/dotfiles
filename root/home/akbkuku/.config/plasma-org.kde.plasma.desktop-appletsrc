@@ -245,8 +245,9 @@ DialogHeight=420
 DialogWidth=560
 
 [Containments][58][General]
-ToolBoxButtonState=left
-ToolBoxButtonY=22
+ToolBoxButtonState=top
+ToolBoxButtonX=634
+ToolBoxButtonY=264
 
 [Containments][58][Wallpaper][org.kde.image][General]
 Image=file:///home/akbkuku/.local/share/wallpapers/91345-zions-misery_dsc04738_cc8_14x9.jpg
