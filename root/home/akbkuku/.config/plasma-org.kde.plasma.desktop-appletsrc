@@ -75,7 +75,9 @@ immutability=1
 plugin=org.kde.plasma.digitalclock
 
 [Containments][2][Applets][8][Configuration][Appearance]
+dateFormat=isoDate
 showDate=true
+use24hFormat=2
 
 [Containments][2][Applets][8][Configuration][ConfigDialog]
 DialogHeight=600
@@ -248,7 +250,7 @@ DialogWidth=560
 ToolBoxButtonState=top
 ToolBoxButtonX=634
 ToolBoxButtonY=264
-positions=1,13,desktop:/diptrace_en64.exe,0,2,desktop:/CCS7.1.0.00016_web_linux-x64.tar.gz,0,1,desktop:/Home.desktop,0,0,desktop:/Inline Rsh Metrology Software Requirements_Rev01.pptx,0,7,desktop:/trash.desktop,0,6,desktop:/steam_latest.deb,0,5,desktop:/ResistorDecadeBox.zip,0,4,desktop:/breadboard-595.dch,0,8,desktop:/models3d.exe,0,3
+positions=1,13,desktop:/breadboard-595.dch,0,8,desktop:/models3d.exe,0,3,desktop:/diptrace_en64.exe,0,2,desktop:/CCS7.1.0.00016_web_linux-x64.tar.gz,0,1,desktop:/Home.desktop,0,0,desktop:/Inline Rsh Metrology Software Requirements_Rev01.pptx,0,7,desktop:/trash.desktop,0,6,desktop:/steam_latest.deb,0,5,desktop:/ResistorDecadeBox.zip,0,4
 sortMode=-1
 
 [Containments][58][Wallpaper][org.kde.image][General]
@@ -287,6 +289,13 @@ lastScreen=1
 location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
+
+[Containments][64][ConfigDialog]
+DialogHeight=420
+DialogWidth=560
+
+[Containments][64][Wallpaper][org.kde.image][General]
+Image=file:///home/akbkuku/.local/share/wallpapers/91345-zions-misery_dsc04738_cc8_14x9.jpg
 
 [Containments][7]
 activityId=
