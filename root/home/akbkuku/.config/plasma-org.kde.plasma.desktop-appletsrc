@@ -248,7 +248,7 @@ DialogWidth=560
 ToolBoxButtonState=top
 ToolBoxButtonX=634
 ToolBoxButtonY=264
-positions=1,13,desktop:/trash.desktop,0,6,desktop:/Inline Rsh Metrology Software Requirements_Rev01.pptx,0,7,desktop:/ResistorDecadeBox.zip,0,4,desktop:/steam_latest.deb,0,5,desktop:/diptrace_en64.exe,0,2,desktop:/models3d.exe,0,3,desktop:/Home.desktop,0,0,desktop:/CCS7.1.0.00016_web_linux-x64.tar.gz,0,1,desktop:/breadboard-595.dch,0,8
+positions=1,13,desktop:/diptrace_en64.exe,0,2,desktop:/CCS7.1.0.00016_web_linux-x64.tar.gz,0,1,desktop:/Home.desktop,0,0,desktop:/Inline Rsh Metrology Software Requirements_Rev01.pptx,0,7,desktop:/trash.desktop,0,6,desktop:/steam_latest.deb,0,5,desktop:/ResistorDecadeBox.zip,0,4,desktop:/breadboard-595.dch,0,8,desktop:/models3d.exe,0,3
 sortMode=-1
 
 [Containments][58][Wallpaper][org.kde.image][General]
@@ -262,27 +262,6 @@ lastScreen=6
 location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
-
-[Containments][61]
-activityId=23d9e62c-b026-4a5a-973d-22b81a2a6043
-formfactor=0
-immutability=1
-lastScreen=1
-location=0
-plugin=org.kde.plasma.folder
-wallpaperplugin=org.kde.image
-
-[Containments][61][ConfigDialog]
-DialogHeight=414
-DialogWidth=560
-
-[Containments][61][General]
-iconSize=3
-positions=3,18,desktop:/Inline Rsh Metrology Software Requirements_Rev01.pptx,0,6,desktop:/breadboard-595.dch,0,7,desktop:/models3d.exe,0,4,desktop:/diptrace_en64.exe,0,5,desktop:/ResistorDecadeBox.zip,0,2,desktop:/steam_latest.deb,0,3,desktop:/Home.desktop,0,0,desktop:/CCS7.1.0.00016_web_linux-x64.tar.gz,0,1,desktop:/trash.desktop,2,3
-sortMode=-1
-
-[Containments][61][Wallpaper][org.kde.image][General]
-Image=file:///home/akbkuku/.local/share/wallpapers/91345-zions-misery_dsc04738_cc8_14x9.jpg
 
 [Containments][63]
 activityId=23d9e62c-b026-4a5a-973d-22b81a2a6043
@@ -299,6 +278,15 @@ DialogWidth=560
 
 [Containments][63][Wallpaper][org.kde.image][General]
 Image=file:///home/akbkuku/.local/share/wallpapers/91345-zions-misery_dsc04738_cc8_14x9.jpg
+
+[Containments][64]
+activityId=23d9e62c-b026-4a5a-973d-22b81a2a6043
+formfactor=0
+immutability=1
+lastScreen=1
+location=0
+plugin=org.kde.plasma.folder
+wallpaperplugin=org.kde.image
 
 [Containments][7]
 activityId=
