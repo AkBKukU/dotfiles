@@ -2,6 +2,30 @@
 Switch to Next Keyboard Layout=Ctrl+Alt+K,none,Switch to Next Keyboard Layout
 _k_friendly_name=KDE Daemon
 
+[amarok]
+_k_friendly_name=Amarok
+decreaseVolume=,Meta+-,Decrease Volume
+increaseVolume=Meta++,Meta++,Increase Volume
+loveTrack=Meta+L,Meta+L,Last.fm: Love Current Track
+mute=Meta+M,Meta+M,Mute Volume
+next=,Media Next,Next Track
+play_pause=,Media Play,Play/Pause
+playlist_add=Meta+A,Meta+A,Add Media...
+prev=,Media Previous,Previous Track
+rate1=,Meta+1,Rate Current Track: 1
+rate2=,Meta+2,Rate Current Track: 2
+rate3=,Meta+3,Rate Current Track: 3
+rate4=,Meta+4,Rate Current Track: 4
+rate5=,Meta+5,Rate Current Track: 5
+replay=none,none,Restart current track
+seek_backward_medium=Meta+Shift+-,Meta+Shift+-,Seek Backward by 10 seconds
+seek_forward_medium=Meta+Shift++,Meta+Shift++,Seek Forward by 10 seconds
+showNotificationPopup=Meta+O,Meta+O,Show Notification Popup
+skipTrack=,Meta+S,Last.fm: Skip Current Track
+stop=,Media Stop,Stop
+stop_after_current=Meta+Shift+V,Meta+Shift+V,Stop after current Track
+toggleMainWindow=none,none,Toggle Main Window
+
 [kaccess]
 Toggle Screen Reader On and Off=Meta+Alt+S,Meta+Alt+S,Toggle Screen Reader On and Off
 _k_friendly_name=Accessibility
