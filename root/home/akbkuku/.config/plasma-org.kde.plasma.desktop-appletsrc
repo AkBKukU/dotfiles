@@ -250,7 +250,7 @@ DialogWidth=560
 ToolBoxButtonState=top
 ToolBoxButtonX=634
 ToolBoxButtonY=264
-positions=1,13,desktop:/Home.desktop,0,0,desktop:/models3d.exe,0,3,desktop:/diptrace_en64.exe,0,2,desktop:/steam_latest.deb,0,5,desktop:/ResistorDecadeBox.zip,0,4,desktop:/Inline Rsh Metrology Software Requirements_Rev01.pptx,0,7,desktop:/trash.desktop,0,6,desktop:/34401 GUI - 2016-05-20.zip,0,9,desktop:/breadboard-595.dch,0,8,desktop:/34401 GUI,0,10,desktop:/CCS7.1.0.00016_web_linux-x64.tar.gz,0,1
+positions=1,13,desktop:/34401 GUI - 2016-05-20.zip,0,9,desktop:/breadboard-595.dch,0,8,desktop:/34401 GUI,0,10,desktop:/steam_latest.deb,0,5,desktop:/ResistorDecadeBox.zip,0,4,desktop:/Inline Rsh Metrology Software Requirements_Rev01.pptx,0,7,desktop:/trash.desktop,0,6,desktop:/CCS7.1.0.00016_web_linux-x64.tar.gz,0,1,desktop:/Home.desktop,0,0,desktop:/models3d.exe,0,3,desktop:/diptrace_en64.exe,0,2
 sortMode=-1
 
 [Containments][58][Wallpaper][org.kde.image][General]
