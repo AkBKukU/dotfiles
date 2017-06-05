@@ -1,14 +1,24 @@
 [$Version]
 update_info=amarok.upd:1
 
+[Analyzer Applet]
+Current Analyzer=Blocky
+Height=120
+
 [Collection Browser]
+TreeCategory=3,1
 View Mode=NormalCollections
 
 [Collection Folders]
 4=./home/akbkuku/Music
 
+[File Browser]
+Current Directory=file:///home/akbkuku
+
 [General]
+Browser Path=root list
 First Run=false
+HiddenOnExit=true
 
 [General Options]
 PlayFirstRunJingle=false
@@ -25,9 +35,20 @@ Width 1920=1066
 MatchAlbum=true
 MatchArtist=true
 MatchTrack=true
+ShowOnlyMatches=false
 
 [Podcast View]
 Merged View=false
+
+[Podcasts]
+AutoUpdate Interval=30
+Maximum Simultaneous Downloads=4
+Maximum Simultaneous Updates=4
+
+[Recently Played]
+Display Names=Aerosmith - Heart's Done Time
+Last Played Dates=2017-06-04T16:45:43
+Urls=file:///media/akbkuku/Shelby%20External%20HDD/Media/Music/FLAC/Aerosmith/1987%20-%20Permanent%20Vacation/01%20-%20Heart's%20Done%20Time.flac
 
 [Saved Playlists View]
 Merged View=false
