@@ -144,12 +144,13 @@ PathCombo Completionmode=5
 Previews=false
 Show Bookmarks=false
 Show Full Path=false
+Show Preview=false
 Show Speedbar=true
 Show hidden files=false
 Sort by=Name
 Sort directories first=true
 Sort reversed=false
-Speedbar Width=102
+Speedbar Width=104
 View Style=Simple
 listViewIconSize=0
 
