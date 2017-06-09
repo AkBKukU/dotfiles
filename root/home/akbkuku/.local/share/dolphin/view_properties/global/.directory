@@ -1,8 +1,7 @@
 [Dolphin]
-SortOrder=1
-Timestamp=2017,6,8,18,43,41
+PreviewsShown=true
+Timestamp=2017,6,8,21,6,55
 Version=3
-ViewMode=1
 VisibleRoles=CustomizedDetails,Details_text,Details_date,Details_size
 
 [Settings]
