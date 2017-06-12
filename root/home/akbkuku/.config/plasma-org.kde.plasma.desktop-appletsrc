@@ -250,7 +250,7 @@ DialogWidth=560
 ToolBoxButtonState=top
 ToolBoxButtonX=634
 ToolBoxButtonY=264
-positions=1,13,desktop:/breadboard-595.dch,0,8,desktop:/34401 GUI - 2016-05-20.zip,0,9,desktop:/34401 GUI,0,10,desktop:/Invioces-2017-03-16.zip,0,11,desktop:/ResistorDecadeBox.zip,0,4,desktop:/steam_latest.deb,0,5,desktop:/trash.desktop,0,6,desktop:/Inline Rsh Metrology Software Requirements_Rev01.pptx,0,7,desktop:/Home.desktop,0,0,desktop:/CCS7.1.0.00016_web_linux-x64.tar.gz,0,1,desktop:/diptrace_en64.exe,0,2,desktop:/models3d.exe,0,3,desktop:/FileZilla_2_2_15_setup.exe,0,12
+positions=1,13,desktop:/34401 GUI,0,10,desktop:/Invioces-2017-03-16.zip,0,11,desktop:/breadboard-595.dch,0,8,desktop:/34401 GUI - 2016-05-20.zip,0,9,desktop:/trash.desktop,0,6,desktop:/Inline Rsh Metrology Software Requirements_Rev01.pptx,0,7,desktop:/ResistorDecadeBox.zip,0,4,desktop:/steam_latest.deb,0,5,desktop:/diptrace_en64.exe,0,2,desktop:/models3d.exe,0,3,desktop:/Home.desktop,0,0,desktop:/CCS7.1.0.00016_web_linux-x64.tar.gz,0,1,desktop:/FileZilla_2_2_15_setup.exe,0,12
 sortMode=-1
 
 [Containments][58][Wallpaper][org.kde.image][General]
@@ -281,7 +281,7 @@ DialogWidth=560
 [Containments][63][Wallpaper][org.kde.image][General]
 Image=file:///home/akbkuku/.local/share/wallpapers/91345-zions-misery_dsc04738_cc8_14x9.jpg
 
-[Containments][65]
+[Containments][66]
 activityId=23d9e62c-b026-4a5a-973d-22b81a2a6043
 formfactor=0
 immutability=1
