@@ -1,7 +1,8 @@
 [Dolphin]
 PreviewsShown=true
-Timestamp=2017,6,8,21,6,55
+Timestamp=2017,6,11,19,4,22
 Version=3
+ViewMode=1
 VisibleRoles=CustomizedDetails,Details_text,Details_date,Details_size
 
 [Settings]
