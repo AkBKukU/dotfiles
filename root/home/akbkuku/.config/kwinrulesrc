@@ -1,4 +1,23 @@
 [1]
+Description=Application settings for\s
+clientmachine=s-l-kubuntu
+clientmachinematch=0
+closeable[$d]
+closeablerule[$d]
+minimize[$d]
+minimizerule[$d]
+noborder=true
+noborderrule=3
+title[$d]
+titlematch[$d]
+types[$d]
+windowrole[$d]
+windowrolematch[$d]
+wmclass=
+wmclasscomplete=false
+wmclassmatch=1
+
+[2]
 Description=Window settings for steam
 clientmachine=localhost
 clientmachinematch=0
@@ -17,7 +36,7 @@ wmclass=steam
 wmclasscomplete=false
 wmclassmatch=1
 
-[2]
+[3]
 Description=Window settings for steam
 clientmachine=localhost
 clientmachinematch=0
@@ -36,7 +55,7 @@ wmclass=steam
 wmclasscomplete=false
 wmclassmatch=1
 
-[3]
+[4]
 Description=Application settings for steam
 clientmachine=localhost
 clientmachinematch=0
@@ -53,7 +72,7 @@ wmclass=steam
 wmclasscomplete=false
 wmclassmatch=1
 
-[4]
+[5]
 Description=Application settings for discord
 clientmachine=s-l-kubuntu
 clientmachinematch=0
@@ -70,7 +89,7 @@ wmclass=discord
 wmclasscomplete=false
 wmclassmatch=1
 
-[5]
+[6]
 Description=Window settings for terraria.bin.x86
 clientmachine=s-l-kubuntu
 clientmachinematch=0
@@ -87,7 +106,7 @@ wmclass=terraria.bin.x86
 wmclasscomplete=false
 wmclassmatch=1
 
-[6]
+[7]
 Description=Window settings for discord
 clientmachine=s-l-kubuntu
 clientmachinematch=0
@@ -103,4 +122,4 @@ wmclasscomplete=false
 wmclassmatch=1
 
 [General]
-count=6
+count=7
