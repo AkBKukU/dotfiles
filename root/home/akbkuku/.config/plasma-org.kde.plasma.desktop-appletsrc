@@ -250,7 +250,7 @@ DialogWidth=560
 ToolBoxButtonState=top
 ToolBoxButtonX=634
 ToolBoxButtonY=264
-positions=2,13,desktop:/Inline Rsh Metrology Software Requirements_Rev01.pptx,0,7,desktop:/trash.desktop,0,6,desktop:/steam_latest.deb,0,5,desktop:/ResistorDecadeBox.zip,0,4,desktop:/Invioces-2017-03-16.zip,0,11,desktop:/34401 GUI,0,10,desktop:/34401 GUI - 2016-05-20.zip,0,9,desktop:/breadboard-595.dch,0,8,desktop:/FileZilla_2_2_15_setup.exe,1,1,desktop:/adafruit-ts.zip,1,0,desktop:/models3d.exe,0,3,desktop:/diptrace_en64.exe,0,2,desktop:/CCS7.1.0.00016_web_linux-x64.tar.gz,0,1,desktop:/Home.desktop,0,0
+positions=2,13,desktop:/FileZilla_2_2_15_setup.exe,1,1,desktop:/adafruit-ts.zip,1,0,desktop:/diptrace_en64.exe,0,2,desktop:/models3d.exe,0,3,desktop:/Home.desktop,0,0,desktop:/CCS7.1.0.00016_web_linux-x64.tar.gz,0,1,desktop:/trash.desktop,0,6,desktop:/Inline Rsh Metrology Software Requirements_Rev01.pptx,0,7,desktop:/ResistorDecadeBox.zip,0,4,desktop:/steam_latest.deb,0,5,desktop:/34401 GUI,0,10,desktop:/Invioces-2017-03-16.zip,0,11,desktop:/breadboard-595.dch,0,8,desktop:/34401 GUI - 2016-05-20.zip,0,9
 sortMode=-1
 
 [Containments][58][Wallpaper][org.kde.image][General]
@@ -291,7 +291,7 @@ plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
 [Containments][66][General]
-positions=1,16,desktop:/FileZilla_2_2_15_setup.exe,0,7,desktop:/diptrace_en64.exe,0,6,desktop:/CCS7.1.0.00016_web_linux-x64.tar.gz,0,5,desktop:/breadboard-595.dch,0,4,desktop:/ResistorDecadeBox.zip,0,11,desktop:/models3d.exe,0,10,desktop:/Invioces-2017-03-16.zip,0,9,desktop:/Inline Rsh Metrology Software Requirements_Rev01.pptx,0,8,desktop:/trash.desktop,0,13,desktop:/steam_latest.deb,0,12,desktop:/adafruit-ts.zip,0,3,desktop:/34401 GUI - 2016-05-20.zip,0,2,desktop:/Home.desktop,0,1,desktop:/34401 GUI,0,0
+positions=1,16,desktop:/steam_latest.deb,0,12,desktop:/trash.desktop,0,13,desktop:/34401 GUI - 2016-05-20.zip,0,2,desktop:/adafruit-ts.zip,0,3,desktop:/34401 GUI,0,0,desktop:/Home.desktop,0,1,desktop:/diptrace_en64.exe,0,6,desktop:/FileZilla_2_2_15_setup.exe,0,7,desktop:/breadboard-595.dch,0,4,desktop:/CCS7.1.0.00016_web_linux-x64.tar.gz,0,5,desktop:/models3d.exe,0,10,desktop:/ResistorDecadeBox.zip,0,11,desktop:/Inline Rsh Metrology Software Requirements_Rev01.pptx,0,8,desktop:/Invioces-2017-03-16.zip,0,9
 sortMode=-1
 
 [Containments][7]
