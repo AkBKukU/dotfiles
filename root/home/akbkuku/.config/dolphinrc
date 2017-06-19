@@ -44,6 +44,9 @@ History=env WINEPREFIX="/home/akbkuku/.wine" wine C:\\\\\\\\windows\\\\\\\\comma
 [PreviewSettings]
 Plugins=directorythumbnail,imagethumbnail,jpegthumbnail
 
+[Search]
+Location=Everywhere
+
 [SettingsDialog]
 Height 1080=398
 Height 1200=618
