@@ -1,4 +1,4 @@
-WorkingDir=/home/akbkuku/drive/projects/Electronics/20 - PCBs/TM4C-Module-V2/Single Gerber
+WorkingDir=/home/akbkuku/drive/projects/Electronics/tempControledFan
 ShowEnvVarWarningDialog=1
 [EnvironmentVariables]
 KICAD_PTEMPLATES=/usr/share/kicad/template/
