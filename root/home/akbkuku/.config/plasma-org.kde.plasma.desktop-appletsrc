@@ -291,6 +291,8 @@ plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
 [Containments][66][General]
+ToolBoxButtonState=left
+ToolBoxButtonY=22
 positions=1,16,desktop:/trash.desktop,0,13,desktop:/steam_latest.deb,0,12,desktop:/adafruit-ts.zip,0,3,desktop:/34401 GUI - 2016-05-20.zip,0,2,desktop:/Home.desktop,0,1,desktop:/34401 GUI,0,0,desktop:/FileZilla_2_2_15_setup.exe,0,7,desktop:/diptrace_en64.exe,0,6,desktop:/CCS7.1.0.00016_web_linux-x64.tar.gz,0,5,desktop:/breadboard-595.dch,0,4,desktop:/ResistorDecadeBox.zip,0,11,desktop:/models3d.exe,0,10,desktop:/Invioces-2017-03-16.zip,0,9,desktop:/Inline Rsh Metrology Software Requirements_Rev01.pptx,0,8
 sortMode=-1
 
