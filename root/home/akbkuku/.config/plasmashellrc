@@ -1,6 +1,8 @@
 [KPropertiesDialog]
+Height 1080=430
 Height 1200=490
 Width 1600=473
+Width 1920=813
 
 [Open-with settings]
 CompletionMode=5
@@ -25,6 +27,9 @@ thickness=30
 [PlasmaViews][Panel 28]
 panelVisibility=1
 
+[PlasmaViews][Panel 28][Horizontal1280]
+thickness=30
+
 [PlasmaViews][Panel 28][Horizontal1600]
 thickness=22
 
@@ -32,6 +37,9 @@ thickness=22
 maxLength=1920
 minLength=1920
 thickness=22
+
+[PlasmaViews][Panel 28][Horizontal800]
+thickness=30
 
 [PlasmaViews][Panel 51][Horizontal1600]
 thickness=30
