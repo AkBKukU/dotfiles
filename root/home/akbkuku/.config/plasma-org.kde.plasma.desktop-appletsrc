@@ -163,7 +163,7 @@ compactView=true
 
 [Containments][28][ConfigDialog]
 DialogHeight=80
-DialogWidth=1920
+DialogWidth=1080
 
 [Containments][28][General]
 AppletOrder=29;30;50;48;32;34
