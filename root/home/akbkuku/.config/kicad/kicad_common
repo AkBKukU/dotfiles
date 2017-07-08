@@ -1,4 +1,4 @@
-WorkingDir=/home/akbkuku/drive/projects/Electronics/tempControledFan
+WorkingDir=/home/akbkuku
 ShowEnvVarWarningDialog=1
 [EnvironmentVariables]
 KICAD_PTEMPLATES=/usr/share/kicad/template/
