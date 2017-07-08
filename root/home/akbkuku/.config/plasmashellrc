@@ -27,6 +27,9 @@ thickness=30
 [PlasmaViews][Panel 28]
 panelVisibility=1
 
+[PlasmaViews][Panel 28][Horizontal1080]
+thickness=30
+
 [PlasmaViews][Panel 28][Horizontal1280]
 thickness=30
 
