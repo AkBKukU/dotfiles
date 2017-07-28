@@ -50,7 +50,7 @@
                 (aux-info
                     (show-button-bar "true"))))
         (book
-            (position 577)
+            (position 578)
             (current-page 0)
             (dockable "gimp-brush-grid"
                 (tab-style automatic)
@@ -70,16 +70,20 @@
 (session-info "toplevel"
     (factory-entry "gimp-file-export-dialog")
     (position 0 118)
-    (size 780 585))
+    (size 984 777))
 (session-info "toplevel"
     (factory-entry "gimp-image-new-dialog")
-    (position 1920 22))
+    (position 951 132))
 (session-info "toplevel"
     (factory-entry "gimp-preferences-dialog")
     (position 2035 204))
 (session-info "toplevel"
     (factory-entry "gimp-scale-tool-dialog")
     (position 372 384))
+(session-info "toplevel"
+    (factory-entry "gimp-file-save-dialog")
+    (position 0 0)
+    (size 984 777))
 
 (hide-docks no)
 (single-window-mode yes)
