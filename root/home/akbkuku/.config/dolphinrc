@@ -52,7 +52,7 @@ Plugins=directorythumbnail,imagethumbnail,jpegthumbnail
 Location=Everywhere
 
 [SettingsDialog]
-Height 1080=398
+Height 1080=577
 Height 1200=618
 Width 1600=639
 Width 1920=512
