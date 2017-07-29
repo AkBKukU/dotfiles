@@ -43,7 +43,7 @@ Window-Maximized 1080x1920=false
 
 [Open-with settings]
 CompletionMode=5
-History=/opt/qt/Tools/QtCreator/bin/qtcreator,env WINEPREFIX="/home/akbkuku/.wine" wine C:\\\\\\\\windows\\\\\\\\command\\\\\\\\start.exe /Unix /home/akbkuku/.wine/dosdevices/c:/users/Public/Start\\\\ Menu/Programs/DipTrace/Schematic.lnk,vlc,/usr/bin/vlc --started-from-file %U
+History=audacity,/opt/qt/Tools/QtCreator/bin/qtcreator,env WINEPREFIX="/home/akbkuku/.wine" wine C:\\\\\\\\windows\\\\\\\\command\\\\\\\\start.exe /Unix /home/akbkuku/.wine/dosdevices/c:/users/Public/Start\\\\ Menu/Programs/DipTrace/Schematic.lnk,vlc,/usr/bin/vlc --started-from-file %U
 
 [PreviewSettings]
 Plugins=directorythumbnail,imagethumbnail,jpegthumbnail
