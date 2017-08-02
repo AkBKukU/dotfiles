@@ -68,6 +68,11 @@ increase_volume=Volume Up,Volume Up,Increase Volume
 mic_mute=Microphone Mute,Microphone Mute,Mute Microphone
 mute=Volume Mute,Volume Mute,Mute
 
+[konversation]
+_k_friendly_name=Konversation
+next_active_tab=none,none,Next Active Tab
+toggle_mainwindow_visibility=none,none,Show/Hide Konversation
+
 [krunner]
 _k_friendly_name=Run Command
 run command=Alt+Space\tAlt+F2\t,Alt+Space,Run Command
