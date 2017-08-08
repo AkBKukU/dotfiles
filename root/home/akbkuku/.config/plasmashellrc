@@ -48,8 +48,8 @@ thickness=30
 thickness=30
 
 [ScreenConnectors]
-0=eDP-1-1
-1[$d]
+0=HDMI-1-1
+1=eDP-1-1
 2=:0.0
 3=DP-1
 4=DP-3
