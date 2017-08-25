@@ -84,6 +84,10 @@
     (factory-entry "gimp-file-save-dialog")
     (position 0 0)
     (size 984 777))
+(session-info "toplevel"
+    (factory-entry "gimp-text-tool-dialog")
+    (position 544 369)
+    (size 316 267))
 
 (hide-docks no)
 (single-window-mode yes)
