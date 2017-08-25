@@ -115,7 +115,7 @@ History Items[$e]=file:$HOME/Desktop
 [General]
 ColorScheme=Breeze Dark
 Name=Breeze Dark
-dbfile=/home/akbkuku/.mozilla/firefox/lde7tnap.dev-edition-default/places.sqlite
+dbfile=/home/akbkuku/.mozilla/firefox/lndkzds5.WebExtensions/places.sqlite
 fixed=Ubuntu Mono,12,-1,5,50,0,0,0,0,0
 font=Ubuntu,10,-1,5,50,0,0,0,0,0
 menuFont=Ubuntu,10,-1,5,50,0,0,0,0,0
