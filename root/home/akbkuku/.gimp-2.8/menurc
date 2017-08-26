@@ -1123,7 +1123,7 @@
 ; (gtk_accel_path "<Actions>/vectors/vectors-selection-from-vectors" "<Shift>v")
 ; (gtk_accel_path "<Actions>/tools/tools-transform-preview-opacity-increase-skip" "")
 ; (gtk_accel_path "<Actions>/context/context-foreground-blue-decrease-skip" "")
-(gtk_accel_path "<Actions>/windows/windows-display-0003" "<Alt>2")
+(gtk_accel_path "<Actions>/windows/windows-display-0003" "<Alt>3")
 ; (gtk_accel_path "<Actions>/plug-in/plug-in-sinus" "")
 (gtk_accel_path "<Actions>/windows/windows-display-0002" "<Alt>2")
 (gtk_accel_path "<Actions>/windows/windows-display-0001" "<Alt>1")
