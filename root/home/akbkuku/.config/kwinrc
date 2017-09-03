@@ -84,4 +84,4 @@ ButtonsOnLeft=XIAS
 ButtonsOnRight=HM
 CloseOnDoubleClickOnMenu=false
 library=org.kde.breeze
-theme=__aurorae__svg__Arc-Dark
+theme=
