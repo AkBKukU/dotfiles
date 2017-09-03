@@ -125,12 +125,12 @@ toolBarFont=Ubuntu,9,-1,5,50,0,0,0,0,0
 widgetStyle=Breeze
 
 [Icons]
-Theme=Papirus-Dark
+Theme=breeze-dark
 
 [KDE]
 ColorScheme=Breeze
 DoubleClickInterval=400
-LookAndFeelPackage=com.github.varlesh.arc-dark
+LookAndFeelPackage=org.kde.breezedark.desktop
 ShowDeleteCommand=false
 ShowIconsInMenuItems=true
 ShowIconsOnPushButtons=true
@@ -139,7 +139,7 @@ StartDragDist=4
 StartDragTime=500
 WheelScrollLines=3
 contrast=4
-widgetStyle=kvantum
+widgetStyle=Breeze
 
 [KFileDialog Settings]
 Automatically select filename extension=true
