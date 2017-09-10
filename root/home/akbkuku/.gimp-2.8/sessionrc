@@ -91,6 +91,13 @@
 (session-info "toplevel"
     (factory-entry "gimp-brightness-contrast-tool-dialog")
     (position 315 162))
+(session-info "toplevel"
+    (factory-entry "gimp-levels-tool-dialog")
+    (position 127 22)
+    (size 370 550))
+(session-info "toplevel"
+    (factory-entry "gimp-rotate-tool-dialog")
+    (position 1088 158))
 
 (hide-docks no)
 (single-window-mode yes)
