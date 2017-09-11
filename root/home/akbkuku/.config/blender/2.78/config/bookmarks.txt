@@ -1,5 +1,7 @@
 [Bookmarks]
 [Recent]
+/home/akbkuku/
+/home/akbkuku/git/dwagner/resistor-switchboard/eda/RevMod/
 /home/akbkuku/drive/99-Cold Storage/Videos/0x000E-DataRover/assets - editing/images/
 /home/akbkuku/drive/99 - Cold Storage/Videos/00-Global/projects/editing/
 /home/akbkuku/drive/99 - Cold Storage/Videos/0d0001-NTServer2/assets - editing/video/60fps/
