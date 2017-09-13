@@ -1,3 +1,5 @@
+/home/akbkuku/drive/99-Cold Storage/Videos/0x0010-CDChanger/projects/editing/Edit.blend
+/home/akbkuku/drive/99-Cold Storage/Videos/0x0000/projects/editing/Edit.blend
 /home/akbkuku/drive/99-Cold Storage/Videos/0x000E-DataRover/projects/editing/Edit.blend
 /home/akbkuku/drive/99 - Cold Storage/Videos/0x000D-SonyCDP-47/projects/editing/Edit.blend
 /home/akbkuku/drive/projects/3D Modeling/Grid.blend
@@ -6,5 +8,3 @@
 /home/akbkuku/drive/projects/CAD/Desk 2.0/Model.blend
 /home/akbkuku/drive/projects/CAD/Tortoise Hut/build.blend
 /home/akbkuku/drive/projects/3D Modeling/Vehicle_Towncar_Last_Good/Vehicle_Towncar/Blockland Town Car Export Armed.blend1
-/home/akbkuku/drive/projects/3D Modeling/Vehicle Test/First_Car.blend
-/home/akbkuku/drive/projects/3D Modeling/668.blend
