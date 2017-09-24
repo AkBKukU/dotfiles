@@ -31,6 +31,9 @@ ToolBarsMovable=Disabled
 Width 1600=1066
 Width 1920=1066
 
+[Playback]
+Master Volume=56
+
 [Playlist Search]
 MatchAlbum=true
 MatchArtist=true
@@ -46,18 +49,18 @@ Maximum Simultaneous Downloads=4
 Maximum Simultaneous Updates=4
 
 [Recently Played]
-Display Names=Aerosmith - Heart's Done Time,Unknown Artist - temp output
-Last Played Dates=2017-06-04T16:45:43,2017-07-28T21:14:52
-Urls=file:///media/akbkuku/Shelby%20External%20HDD/Media/Music/FLAC/Aerosmith/1987%20-%20Permanent%20Vacation/01%20-%20Heart's%20Done%20Time.flac,file:///home/akbkuku/drive/99%20-%20Cold%20Storage/Videos/0x0008-5150PSUDebugging/assets%20-%20editing/audio/temp%20output.wav
+Display Names=Aerosmith - Heart's Done Time,Unknown Artist - temp output,Nero - Me and You
+Last Played Dates=2017-06-04T16:45:43,2017-07-28T21:14:52,2017-09-23T18:48:05
+Urls=file:///media/akbkuku/Shelby%20External%20HDD/Media/Music/FLAC/Aerosmith/1987%20-%20Permanent%20Vacation/01%20-%20Heart's%20Done%20Time.flac,file:///home/akbkuku/drive/99%20-%20Cold%20Storage/Videos/0x0008-5150PSUDebugging/assets%20-%20editing/audio/temp%20output.wav,file:///home/akbkuku/.cache/kioexec/krun/27493_0/me_and_you_and_me.mp3
 
 [Saved Playlists View]
 Merged View=false
 
 [ScriptManager]
-LastUpdateCheck=1501301679
+LastUpdateCheck=1506217611
 
 [Session]
-LastPlaying=2
+LastPlaying=3
 
 [StatSyncing]
 checkedFields=rating,firstplay,lastplay,playcount,label
