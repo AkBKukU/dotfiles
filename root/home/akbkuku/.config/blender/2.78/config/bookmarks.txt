@@ -1,5 +1,6 @@
 [Bookmarks]
 [Recent]
+/home/akbkuku/drive/projects/3D Modeling/branding/
 /home/akbkuku/
 /home/akbkuku/git/dwagner/resistor-switchboard/eda/RevMod/
 /home/akbkuku/drive/99-Cold Storage/Videos/0x000E-DataRover/assets - editing/images/
