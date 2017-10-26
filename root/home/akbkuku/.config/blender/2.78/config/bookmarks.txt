@@ -1,5 +1,6 @@
 [Bookmarks]
 [Recent]
+/remote/S-XS-UBUNTU/datauser/.mnt/3tb/projects/videos/0x0015-MiniLab/projects/editing/
 /home/akbkuku/drive/projects/3D Modeling/branding/
 /home/akbkuku/
 /home/akbkuku/git/dwagner/resistor-switchboard/eda/RevMod/
