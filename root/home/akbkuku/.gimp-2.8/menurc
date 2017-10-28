@@ -1,4 +1,4 @@
-; gimp-2.8 GtkAccelMap rc-file         -*- scheme -*-
+; gimp GtkAccelMap rc-file         -*- scheme -*-
 ; this file is an automated accelerator map dump
 ;
 ; (gtk_accel_path "<Actions>/view/view-shrink-wrap" "<Primary>j")
@@ -912,7 +912,6 @@
 ; (gtk_accel_path "<Actions>/context/context-background-blue-minimum" "")
 ; (gtk_accel_path "<Actions>/context/context-brush-select-set" "")
 ; (gtk_accel_path "<Actions>/context/context-brush-hardness-maximum" "")
-; (gtk_accel_path "<Actions>/windows/windows-dock-0001" "")
 ; (gtk_accel_path "<Actions>/plug-in/script-fu-beveled-pattern-hrule" "")
 ; (gtk_accel_path "<Actions>/tools/tools-posterize" "")
 ; (gtk_accel_path "<Actions>/file/file-create-menu" "")

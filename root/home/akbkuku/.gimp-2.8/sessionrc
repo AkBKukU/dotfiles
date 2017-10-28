@@ -73,7 +73,7 @@
     (size 984 777))
 (session-info "toplevel"
     (factory-entry "gimp-image-new-dialog")
-    (position 951 132))
+    (position 947 138))
 (session-info "toplevel"
     (factory-entry "gimp-preferences-dialog")
     (position 2035 204))
@@ -98,6 +98,9 @@
 (session-info "toplevel"
     (factory-entry "gimp-rotate-tool-dialog")
     (position 1088 158))
+(session-info "toplevel"
+    (factory-entry "gimp-input-devices-dialog")
+    (position 265 177))
 
 (hide-docks no)
 (single-window-mode yes)
