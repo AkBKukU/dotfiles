@@ -1,3 +1,4 @@
+/home/akbkuku/drive/projects/CAD/Desk 2.0/Model.blend
 /remote/S-XS-UBUNTU/datauser/.mnt/3tb/projects/videos/0x0015-MiniLab/projects/editing/Edit.blend
 /remote/S-XS-UBUNTU/2tb/0x0014-XServeHDD/projects/editing/Edit-v2.blend
 /remote/S-XS-UBUNTU/data/projects/videos/0x0014-XServeHDD/projects/editing/Edit-v2.blend
@@ -7,4 +8,3 @@
 /home/akbkuku/editing/Edit-v2.blend
 /home/akbkuku/drive/projects/3D Modeling/branding/background.blend
 /data/projects/videos/0x0000/projects/editing/Edit.blend
-/data/projects/videos/0x0012.1-CanonBJC-85/projects/editing/Edit.blend
