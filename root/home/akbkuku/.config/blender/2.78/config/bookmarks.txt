@@ -1,9 +1,11 @@
 [Bookmarks]
 [Recent]
+/home/akbkuku/git/hub/AkBKukU/blenderYoutubeUpload/
+/home/akbkuku/git/hub/AkBKukU/
+/home/akbkuku/
 /home/akbkuku/git/hub/AkBKukU/blenderYoutubeUpload/src/
 /remote/S-XS-UBUNTU/datauser/.mnt/3tb/projects/videos/0x0015-MiniLab/projects/editing/
 /home/akbkuku/drive/projects/3D Modeling/branding/
-/home/akbkuku/
 /home/akbkuku/git/dwagner/resistor-switchboard/eda/RevMod/
 /home/akbkuku/drive/99-Cold Storage/Videos/0x000E-DataRover/assets - editing/images/
 /home/akbkuku/drive/99 - Cold Storage/Videos/00-Global/projects/editing/
