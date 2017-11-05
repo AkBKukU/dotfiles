@@ -160,6 +160,10 @@ noremap <F3> :YcmCompleter GoToDeclaration<CR>
 noremap <F4> :%s/    /\t/g<CR>
 noremap <C-F4> :%s/  /\t/g<CR>
 
+set backspace=indent,eol,start
+
+syntax on
+
 set colorcolumn=81
 highlight ColorColumn ctermbg=234
 
