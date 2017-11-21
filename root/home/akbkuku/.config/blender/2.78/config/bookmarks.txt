@@ -1,5 +1,6 @@
 [Bookmarks]
 [Recent]
+/remote/S-XS-UBUNTU/datauser/.mnt/2tb/projects/videos/main/0x0017-HeadphoneRepair/assets/images/thumbnail/
 /remote/S-XS-UBUNTU/datauser/.mnt/2tb/projects/videos/main/0x0016-HeadphoneControls/assets/videos/1/
 /home/akbkuku/git/hub/AkBKukU/blenderYoutubeUpload/
 /home/akbkuku/git/hub/AkBKukU/
@@ -9,4 +10,3 @@
 /home/akbkuku/drive/projects/3D Modeling/branding/
 /home/akbkuku/git/dwagner/resistor-switchboard/eda/RevMod/
 /home/akbkuku/drive/99-Cold Storage/Videos/0x000E-DataRover/assets - editing/images/
-/home/akbkuku/drive/99 - Cold Storage/Videos/00-Global/projects/editing/
