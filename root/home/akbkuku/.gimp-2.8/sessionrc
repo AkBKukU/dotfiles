@@ -48,9 +48,15 @@
             (dockable "gimp-undo-history"
                 (tab-style automatic)
                 (aux-info
-                    (show-button-bar "true"))))
+                    (show-button-bar "true")))
+            (dockable "gimp-dynamics-editor"
+                (tab-style automatic)
+                (aux-info
+                    (show-button-bar "false")
+                    (edit-active "true")
+                    (current-data "Dynamics Off"))))
         (book
-            (position 566)
+            (position 732)
             (current-page 0)
             (dockable "gimp-brush-grid"
                 (tab-style automatic)

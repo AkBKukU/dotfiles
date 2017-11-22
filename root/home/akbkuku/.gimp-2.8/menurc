@@ -1,4 +1,4 @@
-; gimp-2.8 GtkAccelMap rc-file         -*- scheme -*-
+; gimp GtkAccelMap rc-file         -*- scheme -*-
 ; this file is an automated accelerator map dump
 ;
 ; (gtk_accel_path "<Actions>/view/view-shrink-wrap" "<Primary>j")
@@ -381,6 +381,7 @@
 ; (gtk_accel_path "<Actions>/plug-in/plug-in-film" "")
 ; (gtk_accel_path "<Actions>/vectors/vectors-edit-attributes" "")
 ; (gtk_accel_path "<Actions>/context/context-palette-background-next-skip" "")
+; (gtk_accel_path "<Actions>/dynamics-editor/dynamics-editor-popup" "")
 ; (gtk_accel_path "<Actions>/image/image-flip-vertical" "")
 ; (gtk_accel_path "<Actions>/dockable/dockable-tab-style-automatic" "")
 ; (gtk_accel_path "<Actions>/plug-in/script-fu-xach-effect" "")
@@ -518,6 +519,7 @@
 ; (gtk_accel_path "<Actions>/view/view-dot-for-dot" "")
 ; (gtk_accel_path "<Actions>/select/selection-popup" "")
 ; (gtk_accel_path "<Actions>/context/context-font-select-first" "")
+; (gtk_accel_path "<Actions>/dynamics-editor/dynamics-editor-edit-active" "")
 ; (gtk_accel_path "<Actions>/plug-in/plug-in-engrave" "")
 ; (gtk_accel_path "<Actions>/plug-in/script-fu-perspective-shadow" "")
 ; (gtk_accel_path "<Actions>/context/context-pattern-select-last" "")
@@ -912,6 +914,8 @@
 ; (gtk_accel_path "<Actions>/context/context-background-blue-minimum" "")
 ; (gtk_accel_path "<Actions>/context/context-brush-select-set" "")
 ; (gtk_accel_path "<Actions>/context/context-brush-hardness-maximum" "")
+; (gtk_accel_path "<Actions>/windows/windows-dock-0001" "")
+; (gtk_accel_path "<Actions>/windows/windows-dock-0002" "")
 ; (gtk_accel_path "<Actions>/plug-in/script-fu-beveled-pattern-hrule" "")
 ; (gtk_accel_path "<Actions>/tools/tools-posterize" "")
 ; (gtk_accel_path "<Actions>/file/file-create-menu" "")
