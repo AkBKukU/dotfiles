@@ -1,7 +1,6 @@
 [Dolphin]
 PreviewsShown=true
-SortRole=type
-Timestamp=2017,11,30,13,59,22
+Timestamp=2017,11,30,14,1,20
 Version=3
 ViewMode=1
 VisibleRoles=CustomizedDetails,Details_text,Details_date,Details_size,Details_type
