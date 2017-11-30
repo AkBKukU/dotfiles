@@ -51,7 +51,7 @@ History=dolphin,vlc,audacity,/opt/qt/Tools/QtCreator/bin/qtcreator,env WINEPREFI
 Plugins=directorythumbnail,imagethumbnail,jpegthumbnail
 
 [Search]
-Location=Everywhere
+Location=FromHere
 
 [SettingsDialog]
 Height 1080=577
