@@ -1,5 +1,6 @@
 [Bookmarks]
 [Recent]
+/home/akbkuku/drive/3D-Printer/projects/blender/lightReflectors/
 /home/akbkuku/drive/3D-Printer/projects/
 /home/akbkuku/drive/3D-Printer/downloads/addons/Anet_A8_double_lower_mosfet_mount/files/
 /home/akbkuku/drive/3D-Printer/downloads/_3DBenchy_-_The_jolly_3D_printing_torture-test_by_CreativeTools.se/files/
@@ -9,4 +10,3 @@
 /home/akbkuku/git/hub/AkBKukU/
 /home/akbkuku/
 /home/akbkuku/git/hub/AkBKukU/blenderYoutubeUpload/src/
-/remote/S-XS-UBUNTU/datauser/.mnt/3tb/projects/videos/0x0015-MiniLab/projects/editing/
