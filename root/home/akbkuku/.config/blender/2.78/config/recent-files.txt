@@ -1,3 +1,4 @@
+/home/akbkuku/drive/3D-Printer/LCDMount.blend
 /home/akbkuku/drive/3D-Printer/projects/blender/lightReflectors/mount.blend
 /home/akbkuku/drive/3D-Printer/projects/blender/lightReflectors/loacking-gear/gearTestSpread.blend
 /home/akbkuku/drive/3D-Printer/projects/blender/flash-drive-holder/flashdrive-holder.blend1
@@ -7,4 +8,3 @@
 /home/akbkuku/drive/3D-Printer/projects/sensor-holder.blend
 /remote/S-XS-UBUNTU/datauser/.mnt/2tb/projects/videos/main/0x0017-HeadphoneRepair/projects/editing/Edit-v2.blend
 /remote/S-XS-UBUNTU/datauser/.mnt/2tb/projects/videos/main/0x0016-HeadphoneControls/projects/editing/Edit-v2.blend
-/remote/S-XS-UBUNTU/datauser/.mnt/2tb/projects/videos/linuxtut/0d0001-Install/projects/editing/Edit-v2.blend

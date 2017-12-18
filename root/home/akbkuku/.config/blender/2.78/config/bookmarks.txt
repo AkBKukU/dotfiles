@@ -1,5 +1,7 @@
 [Bookmarks]
 [Recent]
+/home/akbkuku/drive/3D-Printer/
+/home/akbkuku/drive/3D-Printer/downloads/other/Anet_A8_acryl_frame/files/
 /home/akbkuku/drive/3D-Printer/projects/blender/lightReflectors/
 /home/akbkuku/drive/3D-Printer/projects/
 /home/akbkuku/drive/3D-Printer/downloads/addons/Anet_A8_double_lower_mosfet_mount/files/
@@ -8,5 +10,3 @@
 /remote/S-XS-UBUNTU/datauser/.mnt/2tb/projects/videos/main/0x0016-HeadphoneControls/assets/videos/1/
 /home/akbkuku/git/hub/AkBKukU/blenderYoutubeUpload/
 /home/akbkuku/git/hub/AkBKukU/
-/home/akbkuku/
-/home/akbkuku/git/hub/AkBKukU/blenderYoutubeUpload/src/
