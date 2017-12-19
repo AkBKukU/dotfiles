@@ -1,3 +1,5 @@
+/home/akbkuku/drive/3D-Printer/projects/blender/testbox/testbox.blend
+/home/akbkuku/drive/3D-Printer/projects/blender/00-default.blend
 /home/akbkuku/drive/3D-Printer/LCDMount.blend
 /home/akbkuku/drive/3D-Printer/projects/blender/lightReflectors/mount.blend
 /home/akbkuku/drive/3D-Printer/projects/blender/lightReflectors/loacking-gear/gearTestSpread.blend
@@ -6,5 +8,3 @@
 /home/akbkuku/drive/3D-Printer/projects/blender/lightReflectors/gearTest.blend
 /home/akbkuku/drive/3D-Printer/projects/DeskFan.blend
 /home/akbkuku/drive/3D-Printer/projects/sensor-holder.blend
-/remote/S-XS-UBUNTU/datauser/.mnt/2tb/projects/videos/main/0x0017-HeadphoneRepair/projects/editing/Edit-v2.blend
-/remote/S-XS-UBUNTU/datauser/.mnt/2tb/projects/videos/main/0x0016-HeadphoneControls/projects/editing/Edit-v2.blend
