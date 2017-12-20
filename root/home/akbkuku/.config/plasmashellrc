@@ -15,6 +15,9 @@ pluginWhiteList=services,places,shell,bookmarks,recentdocuments,locations,baloos
 [PlasmaViews][Panel 2]
 panelVisibility=3
 
+[PlasmaViews][Panel 2][Horizontal1280]
+thickness=22
+
 [PlasmaViews][Panel 2][Horizontal1600]
 thickness=22
 
@@ -49,7 +52,7 @@ thickness=30
 
 [ScreenConnectors]
 0=eDP-1
-1[$d]
+1=VGA-1
 2[$d]
 3=DP-1
 4=DP-3
