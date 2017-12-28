@@ -36,7 +36,7 @@ Height 1200=638
 Height 1920=608
 Height 600=571
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAwAAAAAAAACWAAABCfwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAmAAABCQAAAFoBAAADAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAACgEAAAMAAAADAAADwwAAAXP8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawEAAAAAAAADwwAAAAoBAAADAAADLAAAAQkAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+State=AAAA/wAAAAD9AAAAAwAAAAAAAACWAAACffwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAmAAACfQAAAFoBAAADAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAACgEAAAMAAAADAAADwwAAAXP8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAAAAADwwAAAAoBAAADAAADLAAAAn0AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
 ToolBarsMovable=Disabled
 Width 1080=877
 Width 1280=962
@@ -47,7 +47,7 @@ Window-Maximized 1080x1920=false
 
 [Open-with settings]
 CompletionMode=5
-History=openscad,blender,dolphin,vlc,audacity,/opt/qt/Tools/QtCreator/bin/qtcreator,env WINEPREFIX="/home/akbkuku/.wine" wine C:\\\\\\\\windows\\\\\\\\command\\\\\\\\start.exe /Unix /home/akbkuku/.wine/dosdevices/c:/users/Public/Start\\\\ Menu/Programs/DipTrace/Schematic.lnk,/usr/bin/vlc --started-from-file %U
+History=blender,openscad,dolphin,vlc,audacity,/opt/qt/Tools/QtCreator/bin/qtcreator,env WINEPREFIX="/home/akbkuku/.wine" wine C:\\\\\\\\windows\\\\\\\\command\\\\\\\\start.exe /Unix /home/akbkuku/.wine/dosdevices/c:/users/Public/Start\\\\ Menu/Programs/DipTrace/Schematic.lnk,/usr/bin/vlc --started-from-file %U
 
 [PreviewSettings]
 Plugins=directorythumbnail,imagethumbnail,jpegthumbnail
