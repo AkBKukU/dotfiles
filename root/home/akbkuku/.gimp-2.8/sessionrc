@@ -54,7 +54,7 @@
                 (aux-info
                     (show-button-bar "false")
                     (edit-active "true")
-                    (current-data "Dynamics Off"))))
+                    (current-data "Pressure Opacity"))))
         (book
             (position 732)
             (current-page 0)
