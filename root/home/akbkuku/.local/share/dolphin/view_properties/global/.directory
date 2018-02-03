@@ -2,7 +2,7 @@
 HeaderColumnWidths=305,116,70,131
 PreviewsShown=true
 SortRole=type
-Timestamp=2018,1,11,16,2,50
-Version=3
+Timestamp=2018,2,3,14,59,21
+Version=4
 ViewMode=1
-VisibleRoles=CustomizedDetails,Details_text,Details_date,Details_size,Details_type
+VisibleRoles=CustomizedDetails,Details_text,Details_modificationtime,Details_size,Details_type
