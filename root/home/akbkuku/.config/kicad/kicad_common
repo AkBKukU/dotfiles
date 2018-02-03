@@ -1,4 +1,4 @@
-WorkingDir=/home/akbkuku
+WorkingDir=/home/akbkuku/drive/projects/Electronics/InlineHeadphoneControls
 ShowEnvVarWarningDialog=1
 [EnvironmentVariables]
 KICAD_PTEMPLATES=/usr/share/kicad/template/
