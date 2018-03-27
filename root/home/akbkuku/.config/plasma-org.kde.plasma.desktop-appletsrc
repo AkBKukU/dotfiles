@@ -108,7 +108,7 @@ DialogHeight=420
 DialogWidth=560
 
 [Containments][28][Applets][29][Configuration][General]
-favorites=preferred://browser,systemsettings.desktop,org.kde.dolphin.desktop,org.kde.discover.desktop,arduino.desktop,DigiaQt-qtcreator-community.desktop,shutdown
+favorites=preferred://browser,systemsettings.desktop,org.kde.dolphin.desktop,org.kde.discover.desktop,DigiaQt-qtcreator-community.desktop,shutdown
 
 [Containments][28][Applets][29][Configuration][Shortcuts]
 global=Alt+F1
