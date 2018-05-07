@@ -1,4 +1,4 @@
-WorkingDir=/home/akbkuku/drive/projects/Electronics/InlineHeadphoneControls
+WorkingDir=/home/akbkuku/git/nth/rgbw/eda
 ShowEnvVarWarningDialog=1
 [EnvironmentVariables]
 KICAD_PTEMPLATES=/usr/share/kicad/template/
