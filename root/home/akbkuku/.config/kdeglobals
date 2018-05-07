@@ -110,7 +110,7 @@ ForegroundVisited=127,140,141
 
 [DirSelect Dialog]
 DirSelectDialog Size=640,480
-History Items[$e]=file:$HOME/Desktop
+History Items[$e]=file:$HOME,file:$HOME/Desktop
 
 [General]
 ColorScheme=Breeze Dark
