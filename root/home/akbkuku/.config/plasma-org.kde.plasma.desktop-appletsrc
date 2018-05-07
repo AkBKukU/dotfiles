@@ -40,7 +40,7 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][2][Applets][22][Configuration][General]
-launchers=file:///usr/share/applications/org.kde.dolphin.desktop,file:///usr/share/applications/firefox.desktop,file:///usr/share/applications/discord.desktop
+launchers=file:///usr/share/applications/firefox.desktop,file:///usr/share/applications/org.kde.dolphin.desktop,file:///usr/share/applications/discord.desktop
 
 [Containments][2][Applets][3]
 immutability=1
